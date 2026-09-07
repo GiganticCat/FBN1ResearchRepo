@@ -29,20 +29,6 @@ while the backbone around the ion stays within half a bond length of wild type.
 
 
 
-```bash
-# after downloading Zenodo record 8208688 and cutting the P35555 rows, see the script header
-.venv/bin/python scripts/67_restore_alphamissense.py
-```
-
-The restored values are identical to those the paper was computed from. Until then, the checks in
-`tests/test_v2.py` that read an AlphaMissense value are the only ones that cannot run. See
-NOTICE.
-
-**Journal PDFs.** `resources/papers/` holds publisher-copyright articles. The citations are in
-`resources/reference/lit_notes.md` and `data/processed/references_final.tsv`.
-
-**FoldX.** Licensed per user from [foldxsuite.crg.eu](https://foldxsuite.crg.eu). The binary and
-its `molecules/` directory are not redistributable.
 
 ---
 
