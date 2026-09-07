@@ -9,7 +9,7 @@ Produced by `scripts/63_style_extract.py`. Prose sentences only, with captions, 
 | median words | 25 | 22 | 24 | 26 | 21 | 23 | 19 |
 | mean words | 27.4 | 24.0 | 26.7 | 28.1 | 23.3 | 25.4 | 20.8 |
 | 90th pct words | 44 | 42 | 48 | 47 | 39 | 44 | 33 |
-| % over 34 words | 27% | 18% | 26% | 25% | 15% | 21% | 8% |
+| % over 34 words | 27% | 18% | 26% | 25% | 15% | 21% | 9% |
 | % under 15 words | 18% | 23% | 25% | 13% | 24% | 21% | 29% |
 | median clauses | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
 | % with 3+ clauses | 13% | 15% | 12% | 11% | 11% | 12% | 10% |
@@ -18,7 +18,7 @@ Produced by `scripts/63_style_extract.py`. Prose sentences only, with captions, 
 | % passive | 36% | 42% | 34% | 46% | 37% | 38% | 30% |
 | % saying we/our | 6% | 5% | 9% | 18% | 9% | 9% | 5% |
 
-Sentences sampled: Jensen 2009 (Structure) 223, Kettle 1999 (JMB) 219, Downing 1996 (Cell) 203, Handford 1995 (JBC) 142, Godwin 2023 (NSMB) 377, — all five pooled — 1164, THIS PAPER 271
+Sentences sampled: Jensen 2009 (Structure) 223, Kettle 1999 (JMB) 219, Downing 1996 (Cell) 203, Handford 1995 (JBC) 142, Godwin 2023 (NSMB) 377, — all five pooled — 1164, THIS PAPER 270
 
 ## 2. Rhetorical habits
 

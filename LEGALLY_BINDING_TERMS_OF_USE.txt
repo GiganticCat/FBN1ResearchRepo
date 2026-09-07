@@ -1,0 +1,8 @@
+This information is subject to AlphaFold Server Output Terms of Use found at
+alphafoldserver.com/output-terms
+
+It applies to every predicted model coordinate file and confidence matrix under
+structures/alphafold/, and to figures rendered from them. Those materials are for
+non-commercial use only and are NOT covered by the CC BY 4.0 grant that applies to
+the rest of this release. The full terms as returned with the predictions are kept
+verbatim at structures/alphafold/terms_of_use.md, and NOTICE explains the split.

@@ -1,10 +1,10 @@
 # Distinct mechanisms of calcium-ligand and cysteine substitutions in the fibrillin-1 cbEGF module
 
-[Author name]¹
+Harvey Zhang
 
-¹ [Department, Institution, City, Postcode, Country]
+Independent Researcher · ORCID 0009-0004-3974-571X
 
-**Corresponding author.** [Author name], [email address]
+**Corresponding author.** Harvey Zhang, harveyzhang612@gmail.com
 
 **Draft, 6 September 2026.** Citations have been removed from this version and will be inserted
 from Mendeley. The keyed source carrying all 63 verified references remains at
@@ -521,7 +521,7 @@ domain, from ClinVar and from the aggregated gnomAD v4 release. No identifiable 
 data were accessed and no human participants were recruited. The work therefore required neither
 ethical approval nor informed consent.
 
-**Author contributions.** [Author name] designed the study, wrote the analysis code, performed the
+**Author contributions.** Harvey Zhang designed the study, wrote the analysis code, performed the
 analysis and wrote the manuscript.
 
 ---
@@ -531,10 +531,10 @@ analysis and wrote the manuscript.
 All data underlying the findings are publicly available, together with the code that produced
 them.
 
-**Repository.** The complete analysis pipeline is at [GitHub repository URL] and is archived with
-a permanent identifier at Zenodo under [DOI]. The archive contains every numbered stage script,
-the validation gates, the figure scripts and the manifests recording the date, query and row count
-of every download.
+**Repository.** The complete analysis pipeline is at
+https://github.com/GiganticCat/FBN1ResearchRepo and is archived with a permanent identifier at
+Zenodo under [DOI]. The archive contains every numbered stage script, the validation gates, the
+figure scripts and the manifests recording the date, query and row count of every download.
 
 **Source data.** ClinVar variant records were retrieved through the NCBI E-utilities for Gene ID
 2200 (release 2026-07-28). Population frequencies are from gnomAD v4.1.0 and pathogenicity scores

@@ -148,9 +148,20 @@ def audit(tracked: list[str]) -> int:
 
 
 def copy_tree(tracked: list[str], dest: Path) -> tuple[list, int]:
-    """Copy the tracked files into `dest`, stripping the AlphaMissense columns on the way."""
+    """
+    Copy the tracked files into `dest`, stripping the AlphaMissense columns on the way.
+
+    `release/github/` is itself a git repository with its own history and its own remote, so the
+    rebuild clears the CONTENT of the destination and never the directory. An earlier version
+    used shutil.rmtree(dest) and destroyed .git along with everything else, which cost the local
+    history and the origin remote on the first rebuild after the initial push.
+    """
     if dest.exists():
-        shutil.rmtree(dest)
+        for child in dest.iterdir():
+            if child.name == ".git":
+                continue
+            shutil.rmtree(child) if child.is_dir() else child.unlink()
+    dest.mkdir(parents=True, exist_ok=True)
     rows, n_redacted = [], 0
     for rel in tracked:
         src = ROOT / rel
@@ -187,13 +198,21 @@ def verify(dest: Path) -> None:
 
 
 def build(tracked: list[str]) -> int:
+    # AlphaFold Server Output Terms restriction 4.1 asks that anything distributing Output carry
+    # this notice where a recipient will see it, not only buried beside the coordinates.
+    terms_src = ROOT / "LEGALLY_BINDING_TERMS_OF_USE.txt"
+
     # ---- the public repository
     gh_rows, n_redacted = copy_tree(tracked, GH)
+    if terms_src.is_file():
+        shutil.copy2(terms_src, GH / terms_src.name)
     verify(GH)
     gh_bytes = sum(n for _, n, _, _ in gh_rows)
 
     # ---- the archive, which is that plus the structures
     rows, n_extra = copy_tree(tracked, OUT)[0], 0
+    if terms_src.is_file():
+        shutil.copy2(terms_src, OUT / terms_src.name)
 
     for base, glob, what in ARCHIVE_EXTRA:
         for src in sorted((ROOT / base).rglob(glob)):

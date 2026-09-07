@@ -39,6 +39,38 @@ Fig. 2d, two in Fig. 4b, and three rows of results/statistics_final.tsv. Those
 are results reported with attribution, not a redistributed dataset.
 
 
+ALPHAFOLD SERVER OUTPUT IS NON-COMMERCIAL, AND THAT TRAVELS WITH IT
+-------------------------------------------------------------------
+
+The 480 predicted model coordinate files, the confidence matrices beside them,
+and the figures rendered from them are AlphaFold Server Output or Derivatives.
+They are NOT covered by the CC BY 4.0 grant above. Google DeepMind makes them
+available for NON-COMMERCIAL USE ONLY, and the full restrictions are in
+
+  structures/alphafold/terms_of_use.md
+  https://alphafoldserver.com/output-terms
+
+Distribution here is under the carve-out those Terms make for scientific
+publication and open-source release. In line with restriction 4 of those Terms,
+this is the conspicuous notice that the Output and Derivatives distributed with
+this work are provided under and subject to them, and that no modification has
+been made to any returned coordinate file.
+
+In particular, and reproducing the operative restrictions, you must not use the
+models or anything substantially derived from them:
+
+  1. on behalf of a commercial organization or in connection with any
+     commercial activity, including research on behalf of one;
+  2. in any automated system that predicts binding or interaction of a protein
+     with ligands or peptides, such as Glide or AutoDock;
+  3. to train machine-learning models for biomolecular structure prediction;
+  4. without passing this notice on to anyone you distribute them to.
+
+Anything in this release that is not Output or a Derivative -- the code, the
+variant tables, the statistics, the manuscript -- carries the MIT and CC BY 4.0
+terms above and is not restricted in this way.
+
+
 MATERIAL NOT REDISTRIBUTED HERE
 -------------------------------
 

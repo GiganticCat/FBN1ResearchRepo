@@ -4,7 +4,7 @@ Produced by `scripts/65_sentence_shape.py`. `63_style_extract.py` measures how l
 
 | measure | Jensen 2009 (Structure) | Kettle 1999 (JMB) | Downing 1996 (Cell) | Handford 1995 (JBC) | Godwin 2023 (NSMB) | — pooled — | THIS PAPER |
 |---|---|---|---|---|---|---|---|
-| sentences | 223 | 219 | 203 | 142 | 377 | 1164 | 271 |
+| sentences | 223 | 219 | 203 | 142 | 377 | 1164 | 270 |
 | long sentences (30+ words) | 91 | 55 | 74 | 56 | 96 | 372 | 51 |
 | % of ALL sentences welding a second clause | 5.4% | 3.2% | 7.4% | 3.5% | 1.9% | 4.0% | 2.2% |
 | % of LONG sentences welding a second clause | 7.7% | 9.1% | 12.2% | 3.6% | 5.2% | 7.5% | 7.8% |
@@ -14,7 +14,7 @@ Produced by `scripts/65_sentence_shape.py`. `63_style_extract.py` measures how l
 | median commas in a long sentence | 2.0 | 1.0 | 3.0 | 1.0 | 2.0 | 2.0 | 2.0 |
 | % with a participial tail | 3.1% | 2.7% | 2.0% | 2.8% | 2.7% | 2.7% | 2.2% |
 | % opening on a subordinate clause | 3.1% | 1.8% | 1.0% | 6.3% | 3.4% | 3.0% | 2.2% |
-| % carrying ONE clause marker | 78.9% | 76.7% | 81.3% | 76.1% | 80.1% | 79.0% | 72.0% |
+| % carrying ONE clause marker | 78.9% | 76.7% | 81.3% | 76.1% | 80.1% | 79.0% | 71.9% |
 | % carrying THREE | 3.1% | 4.6% | 2.0% | 1.4% | 2.7% | 2.8% | 2.6% |
 | % carrying FOUR or more | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% | 0.0% |
 | heaviest sentence in the text | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
@@ -29,7 +29,7 @@ Produced by `scripts/65_sentence_shape.py`. `63_style_extract.py` measures how l
 - median commas in a long sentence — corpus 2.0, ours 2.0 — ok
 - % with a participial tail — corpus 2.7%, ours 2.2% — ok
 - % opening on a subordinate clause — corpus 3.0%, ours 2.2% — ok
-- % carrying ONE clause marker — corpus 79.0%, ours 72.0% — ok
+- % carrying ONE clause marker — corpus 79.0%, ours 71.9% — ok
 - % carrying THREE — corpus 2.8%, ours 2.6% — ok
 - % carrying FOUR or more — corpus 0.0%, ours 0.0% — ok
 - heaviest sentence in the text — corpus 3, ours 3 — ok
