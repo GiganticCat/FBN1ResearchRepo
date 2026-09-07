@@ -27,25 +27,7 @@ while the backbone around the ion stays within half a bond length of wild type.
 | `resources/reference/` | domain definitions, transcript identifiers, inclusion criteria, literature notes |
 | `structures/alphafold/` | the AlphaFold Server job submissions and per-model confidence summaries |
 
-## What is deliberately not here
 
-**Model coordinates.** The 480 predicted structures (21 wild-type and 60 mutant constructs, five
-models each) are in the Zenodo archive rather than in git, which is where the paper's availability
-statement points for them. Everything downstream of them is here.
-
-**AlphaFold Server confidence matrices.** 108.7 MB of per-atom arrays that no script in this
-repository opens. They are in the Zenodo archive.
-
-**Multiple-sequence alignments.** 525 MB, regenerable by resubmitting the same job, and read by
-nothing.
-
-**Raw database dumps.** `data/raw/` is 447 MB of ClinVar, gnomAD and UniProt responses.
-`manifest/` records the exact query, date and row count for each, so `scripts/01_`–`03_` will
-reproduce them.
-
-**AlphaMissense predictions.** Released by their authors under CC BY-NC-SA 4.0, so they are not
-redistributed here and the `am_pathogenicity` and `am_class` columns have been removed from every
-published table. One command puts them back:
 
 ```bash
 # after downloading Zenodo record 8208688 and cutting the P35555 rows, see the script header
