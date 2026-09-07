@@ -1,0 +1,65 @@
+key	doi	found_crossref	found_epmc	title	journal	year	problems
+sakai1986	10.1083/jcb.103.6.2499	True	True	Fibrillin, a new 350-kD glycoprotein, is a component of extracellular microfibrils.	The Journal of cell biology	1986	
+dietz1991	10.1038/352337a0	True	True	Marfan syndrome caused by a recurrent de novo missense mutation  in the fibrillin gene	Nature	1991	
+handford1995	10.1074/jbc.270.12.6751	True	True	The Calcium Binding Properties and Molecular Organization of Epidermal Growth Factor-like Domains in Human Fibrillin-1	Journal of Biological Chemistry	1995	
+jensen2012	10.1016/j.str.2011.12.008	True	True	Dissecting the Fibrillin Microfibril: Structural Insights into Organization and Function	Structure	2012	
+downing1996	10.1016/S0092-8674(00)81259-3	True	True	Solution Structure of a Pair of Calcium-Binding Epidermal Growth Factor-like Domains: Implications for the Marfan Syndrome and Other Genetic Disorders	Cell	1996	
+knott1996	10.1006/jmbi.1996.0003	True	True	Calcium Binding Properties of an Epidermal Growth Factor-like Domain Pair from Human Fibrillin-1	Journal of Molecular Biology	1996	
+godwin2023	10.1038/s41594-023-00950-8	True	True	Fibrillin microfibril structure identifies long-range effects of inherited pathogenic mutations affecting a key regulatory latent TGFβ-binding site	Nat Struct Mol Biol	2023	
+baudhuin2019	10.1038/s41431-019-0440-3	True	True	Variability in gene-based knowledge impacts variant classification: an analysis of FBN1 missense variants in ClinVar	Eur J Hum Genet	2019	
+drackley2024	10.1186/s13073-024-01423-3	True	True	Interpretation and classification of FBN1 variants associated with Marfan syndrome: consensus recommendations from the Clinical Genome Resource’s FBN1 variant curation expert panel	Genome Med	2024	
+handford1991	10.1038/351164a0	True	True	Key residues involved in calcium-binding motifs in EGF-like domains	Nature	1991	
+kettle1999	10.1006/jmbi.1998.2368	True	True	Defective Calcium Binding to Fibrillin-1: Consequence of an N2144S Change for Fibrillin-1 Structure and Function	Journal of Molecular Biology	1999	
+reinhardt2000	10.1074/jbc.275.16.12339	True	True	Mutations in Calcium-binding Epidermal Growth Factor Modules Render Fibrillin-1 Susceptible to Proteolysis	Journal of Biological Chemistry	2000	
+mcgettrick2000	10.1093/hmg/9.13.1987	True	True	Molecular effects of calcium binding mutations in Marfan syndrome depend on domain context	Human Molecular Genetics	2000	
+whiteman2003	10.1093/hmg/ddg081	True	True	Defective secretion of recombinant fragments of fibrillin-1: implications of protein misfolding for the pathogenesis of Marfan syndrome and related disorders	Human Molecular Genetics	2003	
+whiteman2007	10.1093/hmg/ddm035	True	True	Cellular and molecular studies of Marfan syndrome mutations identify co-operative protein folding in the cbEGF12–13 region of fibrillin-1	Human Molecular Genetics	2007	
+haller2020	10.1038/s41598-020-73969-2	True	True	Steered molecular dynamic simulations reveal Marfan syndrome mutations disrupt fibrillin-1 cbEGF domain mechanosensitive calcium binding	Sci Rep	2020	
+rao1995	10.1016/0092-8674(95)90059-4	True	True	The structure of a Ca2+-binding epidermal growth factor-like domain: Its role in protein-protein interactions	Cell	1995	
+lee2004	10.1016/j.str.2004.02.023	True	True	Structure of the Integrin Binding Fragment from Fibrillin-1 Gives New Insights into Microfibril Organization	Structure	2004	
+smallridge2003	10.1074/jbc.M208266200	True	True	Solution Structure and Dynamics of a Calcium Binding Epidermal Growth Factor-like Domain Pair from the Neonatal Region of Human Fibrillin-1	Journal of Biological Chemistry	2003	
+jensen2009	10.1016/j.str.2009.03.014	True	True	Structure and Interdomain Interactions of a Hybrid Domain: A Disulphide-Rich Module of the Fibrillin/LTBP Superfamily of Matrix Proteins	Structure	2009	
+landrum2018	10.1093/nar/gkx1153	True	True	ClinVar: improving access to variant interpretations and supporting evidence	Nucleic Acids Research	2017	
+karczewski2020	10.1038/s41586-020-2308-7	True	True	The mutational constraint spectrum quantified from variation in 141,456 humans	Nature	2020	
+chen2024	10.1038/s41586-023-06045-0	True	True	A genomic mutational constraint map using variation in 76,156 human genomes	Nature	2023	
+abramson2024	10.1038/s41586-024-07487-w	True	True	Accurate structure prediction of biomolecular interactions with AlphaFold 3	Nature	2024	
+schymkowitz2005	10.1093/nar/gki387	True	True	The FoldX web server: an online force field	Nucleic Acids Research	2005	
+alford2017	10.1021/acs.jctc.7b00125	True	True	The Rosetta All-Atom Energy Function for Macromolecular Modeling and Design	J. Chem. Theory Comput.	2017	
+cheng2023	10.1126/science.adg7492	True	True	Accurate proteome-wide missense variant effect prediction with AlphaMissense	Science	2023	
+brown1985	10.1107/S0108768185002063	True	False	Bond-valence parameters obtained from a systematic analysis of the Inorganic Crystal Structure Database	Acta Crystallogr B Struct Sci	1985	
+zheng2017	10.1107/S2059798317001061	True	True	"<i>CheckMyMetal</i>
+                    : a macromolecular metal-binding validation tool"	Acta Crystallogr D Struct Biol	2017	
+pejaver2022	10.1016/j.ajhg.2022.10.013	True	True	Calibration of computational tools for missense variant pathogenicity classification and ClinGen recommendations for PP3/BP4 criteria	The American Journal of Human Genetics	2022	
+dana2019	10.1093/nar/gky1114	True	True	SIFTS: updated Structure Integration with Function, Taxonomy and Sequences resource allows 40-fold increase in coverage of structure-based annotations for proteins	Nucleic Acids Research	2018	
+uniprot2023	10.1093/nar/gkac1052	True	True	UniProt: the Universal Protein Knowledgebase in 2023	Nucleic Acids Research	2022	first author: record says Bateman A
+mitternacht2016	10.12688/f1000research.7931.1	True	True	FreeSASA: An open source C library for solvent accessible surface area calculations	F1000Res	2016	
+kabsch1983	10.1002/bip.360221211	True	True	Dictionary of protein secondary structure: Pattern recognition of hydrogen‐bonded and geometrical features	Biopolymers	1983	
+richards2015	10.1038/gim.2015.30	True	True	Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology	Genetics in Medicine	2015	
+loeys2010	10.1136/jmg.2009.072785	True	True	The revised Ghent nosology for the Marfan syndrome: Table 1	J Med Genet	2010	"title mismatch: DOI resolves to ""The revised Ghent nosology for the Marfan syndrome: Table 1"""
+milewicz2021	10.1038/s41572-021-00298-7	True	True	Marfan syndrome	Nat Rev Dis Primers	2021	
+jumper2021	10.1038/s41586-021-03819-2	True	True	Highly accurate protein structure prediction with AlphaFold	Nature	2021	
+varadi2024	10.1093/nar/gkad1011	True	True	AlphaFold Protein Structure Database in 2024: providing structure coverage for over 214 million protein sequences	Nucleic Acids Research	2023	
+hekkelman2023	10.1038/s41592-022-01685-y	True	True	AlphaFill: enriching AlphaFold models with ligands and cofactors	Nat Methods	2022	
+asano2022	10.3390/ijms23031892	True	True	The Multiple Functions of Fibrillin-1 Microfibrils in Organismal Physiology	IJMS	2022	
+delhomme2022	10.1016/j.jacadv.2022.100149	True	True	Genotype-Mitral Valve Phenotype Correlations in Marfan Syndrome With FBN1 Pathogenic Variants	JACC: Advances	2022	
+vallat2026	10.1093/nar/gkaf1187	True	True	RCSB Protein Data Bank: Delivering integrative structures alongside experimental structures and computed structure models	Nucleic Acids Research	2025	
+ioannidis2016	10.1016/j.ajhg.2016.08.016	True	True	REVEL: An Ensemble Method for Predicting the Pathogenicity of Rare Missense Variants	The American Journal of Human Genetics	2016	
+benjamini1995	10.1111/j.2517-6161.1995.tb02031.x	True	False	Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing	Journal of the Royal Statistical Society Series B: Statistical Methodology	1995	
+mann1947	10.1214/aoms/1177730491	True	False	On a Test of Whether one of Two Random Variables is Stochastically Larger than the Other	Ann. Math. Statist.	1947	
+wilson1927	10.1080/01621459.1927.10502953	True	False	Probable Inference, the Law of Succession, and Statistical Inference	Journal of the American Statistical Association	1927	
+cliff1993	10.1037/0033-2909.114.3.494	True	False	Dominance statistics: Ordinal analyses to answer ordinal questions.	Psychological Bulletin	1993	
+harris2020	10.1038/s41586-020-2649-2	True	True	Array programming with NumPy	Nature	2020	
+virtanen2020	10.1038/s41592-019-0686-2	True	True	SciPy 1.0: fundamental algorithms for scientific computing in Python	Nat Methods	2020	
+hunter2007	10.1109/MCSE.2007.55	True	False	Matplotlib: A 2D Graphics Environment	Comput. Sci. Eng.	2007	
+touw2015	10.1093/nar/gku1028	True	True	A series of PDB-related databanks for everyday needs	Nucleic Acids Research	2014	
+nivon2013	10.1371/journal.pone.0059004	True	True	A Pareto-Optimal Refinement Method for Protein Design Scaffolds	PLoS ONE	2013	
+harding2006	10.1107/S0907444906014594	True	True	Small revisions to predicted distances around metal sites in proteins	Acta Crystallogr D Biol Crystallogr	2006	
+morales2022	10.1038/s41586-022-04558-8	True	True	A joint NCBI and EMBL-EBI transcript set for clinical genomics and research	Nature	2022	
+dendunnen2016	10.1002/humu.22981	True	True	HGVS Recommendations for the Description of Sequence Variants: 2016 Update	Human Mutation	2016	
+wildeman2008	10.1002/humu.20654	True	True	Improving sequence variant descriptions in mutation databases and literature using the Mutalyzer sequence variation nomenclature checker	Hum. Mutat.	2007	
+rehm2015	10.1056/NEJMsr1406261	True	True	ClinGen — The Clinical Genome Resource	N Engl J Med	2015	
+rees1988	10.1002/j.1460-2075.1988.tb03045.x	True	True	The role of beta‐hydroxyaspartate and adjacent carboxylate residues in the first EGF domain of human factor IX.	EMBO J	1988	
+neptune2003	10.1038/ng1116	True	True	Dysregulation of TGF-β activation contributes to pathogenesis in Marfan syndrome	Nat Genet	2003	
+ramirez2009	10.1007/s00441-009-0822-x	True	True	Biogenesis and function of fibrillin assemblies	Cell Tissue Res	2009	
+collodberoud2003	10.1002/humu.10249	True	True	Update of the UMD-<i>FBN1</i>mutation database and creation of an<i>FBN1</i>polymorphism database	Hum. Mutat.	2003	
+wojdyr2022	10.21105/joss.04200	True	False	GEMMI: A library for structural biology	JOSS	2022	

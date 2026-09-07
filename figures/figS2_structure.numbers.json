@@ -1,0 +1,12 @@
+{
+  "figure": "figS2_structure",
+  "generated": "2026-09-07T03:20:02.791301+00:00",
+  "script": "55_figS2_structure.py",
+  "seed": 20260830,
+  "values": {
+    "n_pathogenic_variants": 30,
+    "n_positions_ca_ligand": 1,
+    "n_positions_cys_removing": 15,
+    "n_positions_other": 4
+  }
+}

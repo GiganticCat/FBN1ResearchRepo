@@ -1,0 +1,10 @@
+Phase 6 — Figure 5 — seed 20260802
+calibration: 40 model-domain comparisons (20 X-ray, 20 NMR); 56 leave-one-out transplants
+  af3_xray    n= 20 median=0.315 A
+  af3_nmr     n= 20 median=1.249 A
+  transplant  n= 56 median=1.439 A
+  backbone RMSD median: per-domain 1.256 A, whole-construct 2.304 A
+  CMM grmsd                exp median 25.50  AF3 median 24.60
+  CMM valence              exp median 1.45  AF3 median 1.65
+  CMM nvecsum              exp median 0.22  AF3 median 0.26
+  CMM coordination_number  exp median 6.50  AF3 median 6.00

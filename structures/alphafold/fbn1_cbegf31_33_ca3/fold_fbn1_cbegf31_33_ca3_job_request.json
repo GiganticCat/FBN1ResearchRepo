@@ -1,0 +1,24 @@
+[{
+ "name": "FBN1_cbEGF31-33_Ca3",
+ "modelSeeds": [
+  "923927500"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "DIDECVEEPEICALGTCSNTEGSFKCLCPEGFSLSSSGRRCQDLRMSYCYAKFEGGKCSSPKSRNHSKQECCCALKGEGWGDPCELCPTEPDEAFRQICPYGSGIIVGPDDSAVDMDECKEPDVCKHGQCINTDGSYRCECPFGYILAGNECVDTDECSVGNPCGNGTCKNVIGGFECTCEEGFEPGPMMTCE",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

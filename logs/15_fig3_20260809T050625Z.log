@@ -1,0 +1,13 @@
+Phase 6 — Figure 3 — seed 20260802
+  RSA ca_ligand    n= 78 median=26.90%
+  RSA cys_removing n=146 median=12.45%
+  RSA other_cbegf  n=300 median=45.40%
+  dCa ca_ligand    median=2.51 A
+  dCa cys_removing median=10.86 A
+  dCa other_cbegf  median=11.48 A
+  panel C buried   Ca-consensus n= 29 median=0.87 (0 off scale)
+  panel C buried   other cbEGF  n=174 median=3.62 (21 off scale)
+  panel C partial  Ca-consensus n= 47 median=0.78 (0 off scale)
+  panel C partial  other cbEGF  n=132 median=0.90 (3 off scale)
+  panel C exposed  Ca-consensus n=0
+  panel C exposed  other cbEGF  n=142 median=0.48 (0 off scale)

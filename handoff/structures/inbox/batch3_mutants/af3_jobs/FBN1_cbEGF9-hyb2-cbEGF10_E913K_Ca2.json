@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FBN1_cbEGF9-hyb2-cbEGF10_E913K_Ca2",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "DIDECESSPCINGVCKNSPGSFICECSSESTLDPTKTICIETIKGTCWQTVIDGRCEININGATLKSQCCSSLGAAWGSPCTLCQVDPICGKGYSRIKGTQCEDIDKCEVFPGVCKNGLCVNTRGSFKCQCPSGMTLDATGRICL",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "CA",
+          "count": 2
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

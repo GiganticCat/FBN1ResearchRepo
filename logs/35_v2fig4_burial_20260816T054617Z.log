@@ -1,0 +1,12 @@
+35_v2fig4_burial.py: burial control
+  seed 20260802
+  a  RSA ca_ligand              n=271   median=21.70
+  a  RSA composition_control    n=323   median=38.40
+  a  RSA motif_overcalled       n=143   median=22.60
+  a  RSA cys_removing           n=1038  median=12.60
+  c  buried <20%      ca_ligand              n=97    median=1.928
+  c  buried <20%      composition_control    n=46    median=5.208
+  c  partial 20–50%   ca_ligand              n=173   median=2.589
+  c  partial 20–50%   composition_control    n=186   median=2.202
+  c  exposed ≥50%     ca_ligand              n=1     median=16.161
+  c  exposed ≥50%     composition_control    n=91    median=1.253

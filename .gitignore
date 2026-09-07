@@ -1,0 +1,107 @@
+# Python venv & caches
+.venv/
+.venv-metal3d/
+.venv-rosetta/
+.venv-boltz/
+__pycache__/
+*.pyc
+
+# Large / regenerable data — keep out of git
+data/raw/
+resources/databases/
+structures/pdb/*.cif
+structures/pdb/*.pdb
+structures/alphafold/*.cif
+structures/alphafold/*.pdb
+
+# Boltz run caches — regenerable from the input YAML + the AF3 alignment.
+# The predicted structures themselves (predictions/*/predictions/) are kept.
+structures/boltz/predictions/*/processed/
+structures/boltz/predictions/*/msa/
+structures/boltz/predictions/*/lightning_logs/
+
+# Windows Explorer download markers on mentor-supplied files
+*:Zone.Identifier
+*Zone.Identifier
+
+# Secrets — never commit API keys
+.env
+*.key
+secrets*
+
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# ---------------------------------------------------------------------------
+# Release exclusions, added 2026-09-06 when the repository was prepared for
+# publication. Everything below is either not ours to redistribute, or is
+# regenerable and large enough to make a clone painful.
+# ---------------------------------------------------------------------------
+
+# Publisher-copyright PDFs. The citations are documented in
+# resources/reference/lit_notes.md and data/processed/references_final.tsv;
+# the articles themselves belong to their publishers.
+resources/papers/
+
+# AlphaFold Server multiple-sequence alignments: 525 MB, regenerable by
+# re-running the same job, and no script in this repository reads them.
+*.a3m
+structures/**/msas/
+
+# Model coordinates go to the Zenodo archive rather than to git, which is
+# where the paper's availability statement points for them.
+structures/alphafold/**/*.cif
+structures/alphafold/**/*.zip
+
+# Licensed third-party binaries and their data. FoldX 5 is licensed per user.
+molecules/
+tools/
+*.tar.gz
+
+# Superseded manuscript builds. Only the current v4 pair ships.
+results/FBN1_manuscript.docx
+results/FBN1_manuscript.pdf
+results/FBN1_manuscript_final.docx
+results/FBN1_manuscript_final.pdf
+results/FBN1_manuscript_v2_draft.docx
+results/FBN1_manuscript_v3.docx
+results/FBN1_manuscript_v3.pdf
+
+# AlphaFold Server per-atom confidence matrices: 480 files, 108.7 MB, and no
+# script in this repository opens one. The small summary_confidences_*.json and
+# job_request.json beside them ARE kept, since they carry the per-model
+# confidence summary and the exact job submission including the seed.
+structures/alphafold/**/*full_data*.json
+
+# Superseded figure sets. v1 is fig1_variant_landscape .. fig6_enrichment,
+# v2 is v2_fig1 .. v2_fig8. The current set is fig1_module, fig2_stability,
+# fig3_coordination, fig4_interpretation, figS1_validation, figS2_structure.
+# All of them stay on disk, so the v1 and v2 gates still run locally.
+figures/fig1_variant_landscape.*
+figures/fig2_mechanism_dissociation.*
+figures/fig3_burial_control.*
+figures/fig4_structure.*
+figures/fig5_ca_placement.*
+figures/fig6_enrichment.*
+figures/v2_fig*
+figures/panels/
+
+# Superseded analysis outputs and reports. statistics_final and
+# supplementary_tables_v3 supersede these; the reasoning is in
+# results/SESSION_CONTEXT.md.
+results/supplementary_tables.xlsx
+results/supplementary_tables_v2.xlsx
+results/v2_report.html
+results/progress_report.html
+results/study_status.html
+results/manuscript_v2_draft.md
+results/manuscript_v3.md
+
+# Release staging area, rebuilt by scripts/66_release_bundle.py
+release/
+
+# Assistant working files. The project brief and the project-local skills are
+# internal notes on how the work was run, not part of the scientific record.
+.claude/
+CLAUDE.md

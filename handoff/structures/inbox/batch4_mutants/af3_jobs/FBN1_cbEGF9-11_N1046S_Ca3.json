@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FBN1_cbEGF9-11_N1046S_Ca3",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "DIDECESSPCINGVCKNSPGSFICECSSESTLDPTKTICIETIKGTCWQTVIDGRCEININGATLKSQCCSSLGAAWGSPCTLCQVDPICGKGYSRIKGTQCEDIDECEVFPGVCKNGLCVNTRGSFKCQCPSGMTLDATGRICLDIRLETCFLRYEDEECTLPIAGRHRMDACCCSVGAAWGTEECEECPMRNTPEYEELCPRGPGFATKEITNGKPFFKDINECKMIPSLCTHGKCRSTIGSFKCRCDSGFALDSEERNCT",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "CA",
+          "count": 3
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

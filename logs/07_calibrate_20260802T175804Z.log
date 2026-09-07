@@ -1,0 +1,38 @@
+Phase 4 calibration — 2026-08-02T17:58:04.704152+00:00
+
+A. AF3 calibration against experimental structures
+   domain                 model n_res  bbRMSD             Ca dev (A) pLDDT(Ca site)
+   cbEGF9-hyb2-cbEGF10        0   145   1.762             0.72  2.54           96.4
+   cbEGF9-hyb2-cbEGF10        1   145   1.735             0.47  2.67           96.6
+   cbEGF9-hyb2-cbEGF10        2   145   1.845             0.57  2.52           96.4
+   cbEGF9-hyb2-cbEGF10        3   145   1.655             0.54  2.40           96.5
+   cbEGF9-hyb2-cbEGF10        4   145   1.632             0.55  2.11           96.5
+   cbEGF12-13                 0    86   3.335             0.74  3.19           96.1
+   cbEGF12-13                 1    86   3.636             1.40  2.31           95.9
+   cbEGF12-13                 2    86   2.987             1.16  1.95           96.0
+   cbEGF12-13                 3    86   2.873             0.73  2.36           95.7
+   cbEGF12-13                 4    86   3.487             0.80  2.75           95.5
+   cbEGF22-TB4-cbEGF23        0   162   1.459             0.68  0.97           97.1
+   cbEGF22-TB4-cbEGF23        1   162   1.450             0.67  1.49           97.2
+   cbEGF22-TB4-cbEGF23        2   162   1.508             0.66  1.30           97.0
+   cbEGF22-TB4-cbEGF23        3   162   1.463             0.64  1.54           97.1
+   cbEGF22-TB4-cbEGF23        4   162   1.556             0.75  1.81           96.8
+   cbEGF32-33                 0    79   3.146             1.49  2.23           91.0
+   cbEGF32-33                 1    79   2.763             0.64  1.78           91.2
+   cbEGF32-33                 2    79   3.310             1.53  4.46           89.9
+   cbEGF32-33                 3    79   3.284             1.87  4.22           87.4
+   cbEGF32-33                 4    79   2.830             1.19  2.23           85.0
+
+   worst-case Ca displacement across all 20 models: 4.46 A
+   best model per domain: cbEGF12-13 1.95 A, cbEGF22-TB4-cbEGF23 0.97 A, cbEGF32-33 1.78 A, cbEGF9-hyb2-cbEGF10 2.11 A
+
+B. Leave-one-out homology transplant (Tier-3 cross-check)
+   Superpose a donor cbEGF domain onto a target, carry the donor Ca2+ across,
+   and measure the error against the target's own experimental Ca2+.
+   usable experimental cbEGF units: 8
+   56 donor->target transplants
+   Ca transplant error: median 1.44 A, mean 1.61 A, 90th pct 2.79 A, max 3.42 A
+   best donor per target: cbEGF10<-cbEGF13 0.70A, cbEGF12<-cbEGF13 0.81A, cbEGF13<-cbEGF10 0.70A, cbEGF22<-cbEGF23 0.46A, cbEGF23<-cbEGF22 0.46A, cbEGF32<-cbEGF9 1.77A, cbEGF33<-cbEGF23 0.94A, cbEGF9<-cbEGF12 0.88A
+
+wrote results/phase4_calibration.tsv, results/phase4_transplant_loo.tsv
+wrote structures/ca_transplanted/provenance.json

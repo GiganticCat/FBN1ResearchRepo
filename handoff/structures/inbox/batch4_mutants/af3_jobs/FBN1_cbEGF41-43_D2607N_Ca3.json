@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FBN1_cbEGF41-43_D2607N_Ca3",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "DVDECEGNHRCQHGCQNIIGGYRCSCPQGYLQHYQWNQCVNENECLSAHICGGASCHNTLGSYKCMCPAGFQYEQFSGGCQDINECGSAQAPCSYGCSNTEGGYLCGCPPGYFRIGQGHCV",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "CA",
+          "count": 3
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

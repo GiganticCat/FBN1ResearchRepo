@@ -1,0 +1,16 @@
+Phase 5 — FoldX ddG — 2026-08-02T18:22:31.003500+00:00
+751 variants with structural coverage
+
+  2W86: RepairPDB 34s
+  2W86: 254 mutations in 511s (2.0s each)
+  1LMJ: RepairPDB 28s
+  1LMJ: 146 mutations in 289s (2.0s each)
+  1UZJ: RepairPDB 25s
+  1UZJ: 219 mutations in 488s (2.2s each)
+  1EMN: RepairPDB 19s
+  1EMN: 132 mutations in 360s (2.7s each)
+
+  ddG computed for 751 variants; 0 covered-but-missing; 3,700 lack a structure
+  ddG range -6.97 .. 50.49, median 1.21 kcal/mol
+
+wrote data/processed/foldx_ddg.tsv

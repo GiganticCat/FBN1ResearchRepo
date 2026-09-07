@@ -1,0 +1,372 @@
+{
+  "timestamp_utc": "2026-08-30T05:03:35.376971+00:00",
+  "root": "/home/harvey/research/fbn1-marfan",
+  "summary": {
+    "pass": 37,
+    "warn": 6,
+    "fail": 0
+  },
+  "results": [
+    {
+      "check": "scaffold",
+      "status": "PASS",
+      "detail": "all 18 expected directories present",
+      "created": []
+    },
+    {
+      "check": "python.version",
+      "status": "PASS",
+      "detail": "3.14.4 at /home/harvey/research/fbn1-marfan/.venv/bin/python",
+      "executable": "/home/harvey/research/fbn1-marfan/.venv/bin/python",
+      "version": "3.14.4"
+    },
+    {
+      "check": "python.venv",
+      "status": "WARN",
+      "detail": "VIRTUAL_ENV is unset \u2014 is the .venv activated?"
+    },
+    {
+      "check": "import.pandas",
+      "status": "PASS",
+      "detail": "pandas 3.0.5",
+      "version": "3.0.5"
+    },
+    {
+      "check": "import.numpy",
+      "status": "PASS",
+      "detail": "numpy 2.5.1",
+      "version": "2.5.1"
+    },
+    {
+      "check": "import.scipy",
+      "status": "PASS",
+      "detail": "scipy 1.18.0",
+      "version": "1.18.0"
+    },
+    {
+      "check": "import.requests",
+      "status": "PASS",
+      "detail": "requests 2.34.2",
+      "version": "2.34.2"
+    },
+    {
+      "check": "import.Bio",
+      "status": "PASS",
+      "detail": "biopython 1.87",
+      "version": "1.87"
+    },
+    {
+      "check": "import.biotite",
+      "status": "PASS",
+      "detail": "biotite 1.7.1",
+      "version": "1.7.1"
+    },
+    {
+      "check": "import.prody",
+      "status": "PASS",
+      "detail": "ProDy 2.6.1",
+      "version": "2.6.1"
+    },
+    {
+      "check": "import.freesasa",
+      "status": "PASS",
+      "detail": "freesasa 2.2.1",
+      "version": "2.2.1"
+    },
+    {
+      "check": "import.matplotlib",
+      "status": "PASS",
+      "detail": "matplotlib 3.11.1",
+      "version": "3.11.1"
+    },
+    {
+      "check": "import.seaborn",
+      "status": "PASS",
+      "detail": "seaborn 0.13.2",
+      "version": "0.13.2"
+    },
+    {
+      "check": "import.statsmodels",
+      "status": "PASS",
+      "detail": "statsmodels 0.14.6",
+      "version": "0.14.6"
+    },
+    {
+      "check": "import.dotenv",
+      "status": "PASS",
+      "detail": "python-dotenv 1.2.2",
+      "version": "1.2.2"
+    },
+    {
+      "check": "import.pypdf",
+      "status": "PASS",
+      "detail": "pypdf 6.14.2",
+      "version": "6.14.2"
+    },
+    {
+      "check": "tool.pymol",
+      "status": "PASS",
+      "detail": "3.1.0 at /usr/bin/pymol",
+      "path": "/usr/bin/pymol",
+      "version": "3.1.0"
+    },
+    {
+      "check": "tool.mkdssp",
+      "status": "PASS",
+      "detail": "mkdssp version 4.5.7 at /usr/bin/mkdssp",
+      "path": "/usr/bin/mkdssp",
+      "version": "mkdssp version 4.5.7"
+    },
+    {
+      "check": "tool.foldx",
+      "status": "PASS",
+      "detail": "FoldX 5.1 (c) at /home/harvey/.local/bin/foldx -> /home/harvey/tools/foldx/foldx_20261231",
+      "path": "/home/harvey/.local/bin/foldx",
+      "realpath": "/home/harvey/tools/foldx/foldx_20261231",
+      "version": "FoldX 5.1 (c)"
+    },
+    {
+      "check": "tool.foldx.molecules",
+      "status": "PASS",
+      "detail": "/home/harvey/tools/foldx/molecules present (15 files)",
+      "path": "/home/harvey/tools/foldx/molecules"
+    },
+    {
+      "check": "env.file",
+      "status": "PASS",
+      "detail": ".env present"
+    },
+    {
+      "check": "env.NCBI_API_KEY",
+      "status": "PASS",
+      "detail": "present (36 chars, value not shown)"
+    },
+    {
+      "check": "env.NCBI_EMAIL",
+      "status": "PASS",
+      "detail": "present (24 chars, value not shown)"
+    },
+    {
+      "check": "env.gitignored",
+      "status": "PASS",
+      "detail": ".env is git-ignored"
+    },
+    {
+      "check": "am.file",
+      "status": "PASS",
+      "detail": "AlphaMissense_FBN1_P35555.tsv (1,649,641 bytes, sha256 925b3d1a2f96fdf9\u2026)",
+      "path": "/home/harvey/research/fbn1-marfan/resources/databases/AlphaMissense_FBN1_P35555.tsv",
+      "sha256": "925b3d1a2f96fdf9e8ed1ecb40b243d1946b88c111ec62d522e3e897e5f00b69",
+      "bytes": 1649641
+    },
+    {
+      "check": "am.accession",
+      "status": "PASS",
+      "detail": "all 54,568 rows are P35555"
+    },
+    {
+      "check": "am.variant_parse",
+      "status": "PASS",
+      "detail": "all protein_variant strings parse as <WT><pos><ALT>"
+    },
+    {
+      "check": "am.positions",
+      "status": "PASS",
+      "detail": "positions span 1\u20132871, matching P35555 length"
+    },
+    {
+      "check": "am.duplicates",
+      "status": "PASS",
+      "detail": "0 duplicate protein_variant strings"
+    },
+    {
+      "check": "am.wt_consistency",
+      "status": "WARN",
+      "detail": "1 position(s) carry >1 wild-type residue \u2014 pos 472 has WT in ['C', 'Y']. Phase 2 must resolve these by the WT-identity check against the P35555 sequence.",
+      "positions": [
+        472
+      ]
+    },
+    {
+      "check": "am.row_count",
+      "status": "WARN",
+      "detail": "54,568 rows vs 54,549 expected (2871 x 19); difference +19 explained by the multi-WT position(s) above"
+    },
+    {
+      "check": "am.source_archive",
+      "status": "PASS",
+      "detail": "full Zenodo archive present (1.21 GB) \u2014 subset is reproducible from it"
+    },
+    {
+      "check": "db.uniprot",
+      "status": "PASS",
+      "detail": "P35555 sequence length 2871 (expected 2871)",
+      "length": 2871
+    },
+    {
+      "check": "db.uniprot.seq_md5",
+      "status": "PASS",
+      "detail": "f8f84ac9dc30f3ff640ad4f691fee2b1"
+    },
+    {
+      "check": "db.ncbi_clinvar",
+      "status": "PASS",
+      "detail": "esearch FBN1[gene] returned 9,509 ClinVar records (translated as 'FBN1[gene]')",
+      "count": 9509
+    },
+    {
+      "check": "db.pdbe_sifts",
+      "status": "PASS",
+      "detail": "11 PDB entries mapped to P35555: 1APJ, 1EMN, 1EMO, 1LMJ, 1UZJ, 1UZK, 1UZP, 1UZQ, 2M74, 2W86, 5MS9",
+      "pdb_ids": [
+        "1APJ",
+        "1EMN",
+        "1EMO",
+        "1LMJ",
+        "1UZJ",
+        "1UZK",
+        "1UZP",
+        "1UZQ",
+        "2M74",
+        "2W86",
+        "5MS9"
+      ]
+    },
+    {
+      "check": "db.alphafold",
+      "status": "WARN",
+      "detail": "endpoint is live (control P02751, 2477 aa -> HTTP 200) but P35555 returns 404: FBN1 has NO AlphaFold DB model, because AFDB omits sequences >2700 aa and FBN1 is 2871 aa. UniProt carries no AlphaFoldDB cross-reference for P35555 either. This contradicts CLAUDE.md 4 and removes the basis for the Phase 4 Tier-3 AlphaFill cross-check \u2014 see results/phase0_report.md.",
+      "entry": null,
+      "absent": true,
+      "control": "P02751"
+    },
+    {
+      "check": "db.gnomad",
+      "status": "PASS",
+      "detail": "GraphQL reachable; FBN1 = ENSG00000166147",
+      "gene_id": "ENSG00000166147"
+    },
+    {
+      "check": "db.mutalyzer",
+      "status": "PASS",
+      "detail": "NM_000138.5:c.364C>T normalized -> NM_000138.5(NP_000129.3):p.(Arg122Cys)",
+      "protein": "NM_000138.5(NP_000129.3):p.(Arg122Cys)"
+    },
+    {
+      "check": "db.variantvalidator",
+      "status": "PASS",
+      "detail": "NM_000138.5:c.364C>T validated -> NM_000138.5:c.364C>T",
+      "keys": [
+        "NM_000138.5:c.364C>T"
+      ]
+    },
+    {
+      "check": "db.alphafill",
+      "status": "WARN",
+      "detail": "service reachable (HTTP 200) but AF-P35555-F1 status is 'unknown' \u2014 no AlphaFill entry for FBN1, as expected given the absent AlphaFold DB model. Phase 4 Tier-3 cross-check is unavailable for FBN1 unless run on a per-domain model.",
+      "alphafill_status": "unknown"
+    },
+    {
+      "check": "papers.present",
+      "status": "PASS",
+      "detail": "21 PDF(s) in resources/papers/"
+    },
+    {
+      "check": "am.wt_vs_uniprot.472",
+      "status": "WARN",
+      "detail": "P35555 residue 472 is Y \u2014 Phase 2 must keep only the AlphaMissense rows whose WT is Y",
+      "position": 472,
+      "uniprot_residue": "Y"
+    }
+  ],
+  "tools": {
+    "pymol": {
+      "path": "/usr/bin/pymol",
+      "version": "3.1.0"
+    },
+    "mkdssp": {
+      "path": "/usr/bin/mkdssp",
+      "version": "mkdssp version 4.5.7"
+    },
+    "foldx": {
+      "path": "/home/harvey/.local/bin/foldx",
+      "version": "FoldX 5.1 (c)",
+      "molecules": "/home/harvey/tools/foldx/molecules"
+    }
+  },
+  "packages": {
+    "pandas": "3.0.5",
+    "numpy": "2.5.1",
+    "scipy": "1.18.0",
+    "requests": "2.34.2",
+    "biopython": "1.87",
+    "biotite": "1.7.1",
+    "ProDy": "2.6.1",
+    "freesasa": "2.2.1",
+    "matplotlib": "3.11.1",
+    "seaborn": "0.13.2",
+    "statsmodels": "0.14.6",
+    "python-dotenv": "1.2.2",
+    "pypdf": "6.14.2"
+  },
+  "alphamissense": {
+    "subset_sha256": "925b3d1a2f96fdf9e8ed1ecb40b243d1946b88c111ec62d522e3e897e5f00b69",
+    "rows": 54568,
+    "pos_min": 1,
+    "pos_max": 2871,
+    "multi_wt_positions": [
+      472
+    ]
+  },
+  "databases": {
+    "uniprot": true,
+    "uniprot_seq_md5": "f8f84ac9dc30f3ff640ad4f691fee2b1",
+    "ncbi_clinvar": true,
+    "clinvar_count": 9509,
+    "pdbe_sifts": true,
+    "pdb_ids": [
+      "1APJ",
+      "1EMN",
+      "1EMO",
+      "1LMJ",
+      "1UZJ",
+      "1UZK",
+      "1UZP",
+      "1UZQ",
+      "2M74",
+      "2W86",
+      "5MS9"
+    ],
+    "alphafold": false,
+    "alphafold_absent_confirmed": true,
+    "gnomad": true,
+    "mutalyzer": true,
+    "variantvalidator": true,
+    "alphafill": false
+  },
+  "papers": {
+    "pdfs": [
+      "1-s2.0-S0969212609001610-main.pdf",
+      "AlphaFill_2023_NatMethods.pdf",
+      "AlphaFoldDB_2024_NAR.pdf",
+      "AlphaMissense_2023_Science.pdf",
+      "Asano_2022_IJMS_fibrillin_review.pdf",
+      "CheckMyMetal_2017_ActaD.pdf",
+      "ClinGen_FBN1_VCEP_2024_GenomeMed.pdf",
+      "ClinVar_2018_NAR.pdf",
+      "Delhomme_2022_JACCAdv_MV_genotype.pdf",
+      "Downing_1996_Cell_cbEGF_pair.pdf",
+      "FBN1_ClinVar_variability_2019.pdf",
+      "FBN1_cbEGF_ectopia_lentis_ocular.pdf",
+      "Fibrillin1_health_disease_2023_FCELL.pdf",
+      "Godwin_2023_NSMB_microfibril_cryoEM.pdf",
+      "Handford_1995_JBC_cbEGF.pdf",
+      "Jensen_2009_Structure_2W86.pdf",
+      "Jumper_2021_AlphaFold_Nature.pdf",
+      "Rao_1995_Cell_cbEGF_structure.pdf",
+      "UniProt_2023_NAR.pdf",
+      "gnomAD_v4_constraint_2024_Nature.pdf",
+      "kettle1999.pdf"
+    ]
+  }
+}

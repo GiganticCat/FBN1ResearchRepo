@@ -1,0 +1,9 @@
+feature	denominator	path_yes	path_no	denom_yes	denom_no	pct_path	pct_denom	odds_ratio_corrected	ci_lo	ci_hi	zero_cell	p_raw	p_adj
+side-chain Ca ligand	population (gnomAD)	40	484	45	1856	7.6	2.4	3.409	2.2075	5.2698	False	1.1417974524518813e-07	2.2835949049037627e-07
+side-chain Ca ligand	ClinVar benign	40	484	0	29	7.6	0.0	4.932	0.2959	82.2117	True	0.25602577738910753	0.29260088844469434
+backbone-only Ca ligand	population (gnomAD)	2	522	139	1762	0.4	7.3	0.049	0.0172	0.2119	False	7.671302593069591e-13	2.0456806914852243e-12
+backbone-only Ca ligand	ClinVar benign	2	522	1	28	0.4	3.4	0.107	0.0116	0.7126	False	0.14947384973164887	0.19929846630886516
+motif-overcalled (not a ligand)	population (gnomAD)	21	503	52	1849	4.0	2.7	1.485	0.902	2.5087	False	0.1478152468056588	0.19929846630886516
+motif-overcalled (not a ligand)	ClinVar benign	21	503	1	28	4.0	3.4	1.169	0.1486	4.4309	False	1.0	1.0
+cysteine position	population (gnomAD)	370	154	32	1869	70.6	1.7	140.327	92.9928	204.623	False	2.884878817648866e-266	2.307903054119093e-265
+cysteine position	ClinVar benign	370	154	0	29	70.6	0.0	141.485	8.5905	2330.2767	True	2.3916070366120183e-15	9.566428146448073e-15

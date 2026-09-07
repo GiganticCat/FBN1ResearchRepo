@@ -1,0 +1,9 @@
+37_v2fig6_enrichment.py: enrichment forest
+  a  Ca²⁺ ligand (side chain)     gnomAD population  OR=    3.409 [2.208, 5.270] zero_cell=False
+  a  Ca²⁺ ligand (side chain)     ClinVar benign     OR=    4.932 [0.296, 82.212] zero_cell=True
+  a  Ca²⁺ ligand (backbone only)  gnomAD population  OR=    0.049 [0.017, 0.212] zero_cell=False
+  a  Ca²⁺ ligand (backbone only)  ClinVar benign     OR=    0.107 [0.012, 0.713] zero_cell=False
+  a  Motif, non-ligand            gnomAD population  OR=    1.485 [0.902, 2.509] zero_cell=False
+  a  Motif, non-ligand            ClinVar benign     OR=    1.169 [0.149, 4.431] zero_cell=False
+  a  cbEGF cysteine               gnomAD population  OR=  140.327 [92.993, 204.623] zero_cell=False
+  a  cbEGF cysteine               ClinVar benign     OR=  141.485 [8.591, 2330.277] zero_cell=True

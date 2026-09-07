@@ -1,0 +1,23 @@
+Phase 5 revision — Rosetta ddG — 2026-08-16T06:15:11.540648+00:00
+  ref2015; metal bonds on (rebuilt per pass, no harmonic constraints); torsion space; 8.0 A repack/min shell; 1 repeats; 4 workers
+  8 mutations: {'ca_ligand_sidechain': 8}
+  1 prepared structures in /tmp/fbn1-rosetta
+
+  pre-relaxing 1 construct(s) — one-off, cached to /tmp/fbn1-rosetta
+    relaxed FBN1_cbEGF1-3_Ca3_relaxed_torsion_metal.pdb
+  pre-relaxation took 154s
+
+  [1/8] D246V ca_ligand_sidechain      ok                   ddG 15.005 (4.8s)
+  [2/8] D288N ca_ligand_sidechain      ok                   ddG -1.799 (4.8s)
+  [3/8] D288G ca_ligand_sidechain      ok                   ddG 2.178 (4.8s)
+  [4/8] D490N ca_ligand_sidechain      ok                   ddG 0.819 (0.9s)
+  [5/8] D490Y ca_ligand_sidechain      ok                   ddG 2.765 (1.6s)
+  [6/8] E291V ca_ligand_sidechain      ok                   ddG 12.077 (7.0s)
+  [7/8] D490H ca_ligand_sidechain      ok                   ddG 2.678 (1.3s)
+  [8/8] N306D ca_ligand_sidechain      ok                   ddG 4.858 (2.3s)
+
+  8/8 succeeded in 23s (2.8s per mutation wall-clock at 4 workers)
+
+  CALIBRATION ONLY — nothing written.
+  mean 3.4s per mutation per worker; at 4 workers that is 0.9s each.
+  full set is 1934 mutations -> approximately 0.5 h

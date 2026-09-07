@@ -1,0 +1,185 @@
+Batch-4 mutant geometry — 2026-08-30T04:37:00.219271+00:00
+  BVS: 3.2 A shell, R0(Ca-O)=1.967 R0(Ca-N)=2.14 b=0.37; site match Jaccard >= 0.35
+
+60 batch-4 jobs in the manifest; 21 wild-type constructs available
+
+Wild-type constructs (reference sites and seed spread)
+  FBN1_cbEGF1-3_Ca3      site 0  BVS 1.514 +/- 0.121 ( 8.0%)  CN 7.0  pLDDT 95  ion seed spread 0.19 A  admitted  ligands 288,289,291,306,307,310
+  FBN1_cbEGF1-3_Ca3      site 1  BVS 1.559 +/- 0.611 (39.2%)  CN 7.0  pLDDT 90  ion seed spread 0.61 A  EXCLUDED (wild-type quality)  ligands 246,247,249,264,265,268
+  FBN1_cbEGF1-3_Ca3      site 2  BVS 2.194 +/- 0.180 ( 8.2%)  CN 7.0  pLDDT 90  ion seed spread 0.58 A  EXCLUDED (wild-type quality)  ligands 490,491,493,506,507,510
+  FBN1_cbEGF13-15_Ca3    site 0  BVS 1.741 +/- 0.020 ( 1.2%)  CN 7.0  pLDDT 98  ion seed spread 0.07 A  admitted  ligands 1197,1198,1200,1214,1215,1218
+  FBN1_cbEGF13-15_Ca3    site 1  BVS 1.778 +/- 0.073 ( 4.1%)  CN 7.0  pLDDT 97  ion seed spread 0.09 A  admitted  ligands 1155,1156,1158,1173,1174,1177
+  FBN1_cbEGF13-15_Ca3    site 2  BVS 1.707 +/- 0.056 ( 3.3%)  CN 6.0  pLDDT 96  ion seed spread 0.07 A  admitted  ligands 1113,1114,1116,1131,1132,1135
+  FBN1_cbEGF15-17_Ca3    site 0  BVS 1.754 +/- 0.030 ( 1.7%)  CN 7.0  pLDDT 97  ion seed spread 0.10 A  admitted  ligands 1238,1239,1241,1256,1257,1260
+  FBN1_cbEGF15-17_Ca3    site 1  BVS 1.789 +/- 0.029 ( 1.6%)  CN 7.0  pLDDT 98  ion seed spread 0.17 A  admitted  ligands 1280,1281,1283,1298,1299,1302
+  FBN1_cbEGF15-17_Ca3    site 2  BVS 1.866 +/- 0.102 ( 5.5%)  CN 7.0  pLDDT 95  ion seed spread 0.06 A  admitted  ligands 1197,1198,1200,1214,1215,1218
+  FBN1_cbEGF17-19_Ca3    site 0  BVS 1.736 +/- 0.034 ( 2.0%)  CN 7.0  pLDDT 98  ion seed spread 0.16 A  admitted  ligands 1322,1323,1325,1341,1342,1345
+  FBN1_cbEGF17-19_Ca3    site 1  BVS 1.795 +/- 0.049 ( 2.7%)  CN 7.0  pLDDT 98  ion seed spread 0.14 A  admitted  ligands 1363,1364,1366,1382,1383,1386
+  FBN1_cbEGF17-19_Ca3    site 2  BVS 1.618 +/- 0.148 ( 9.2%)  CN 6.0  pLDDT 95  ion seed spread 0.49 A  admitted  ligands 1280,1281,1283,1298,1299,1302
+  FBN1_cbEGF19-21_Ca3    site 0  BVS 1.766 +/- 0.114 ( 6.5%)  CN 7.0  pLDDT 97  ion seed spread 0.08 A  admitted  ligands 1446,1447,1449,1463,1464,1467
+  FBN1_cbEGF19-21_Ca3    site 1  BVS 1.949 +/- 0.068 ( 3.5%)  CN 7.0  pLDDT 97  ion seed spread 0.23 A  admitted  ligands 1404,1405,1407,1422,1423,1426
+  FBN1_cbEGF19-21_Ca3    site 2  BVS 1.804 +/- 0.235 (13.0%)  CN 7.0  pLDDT 95  ion seed spread 0.08 A  admitted  ligands 1363,1364,1366,1382,1383,1386
+  FBN1_cbEGF21-23_Ca3    site 0  BVS 1.774 +/- 0.038 ( 2.1%)  CN 7.0  pLDDT 98  ion seed spread 0.10 A  admitted  ligands 1606,1607,1609,1624,1625,1628
+  FBN1_cbEGF21-23_Ca3    site 1  BVS 1.747 +/- 0.046 ( 2.7%)  CN 7.0  pLDDT 98  ion seed spread 0.08 A  admitted  ligands 1487,1488,1490,1504,1505,1508
+  FBN1_cbEGF21-23_Ca3    site 2  BVS 1.642 +/- 0.089 ( 5.4%)  CN 7.0  pLDDT 92  ion seed spread 0.07 A  admitted  ligands 1446,1447,1449,1463,1464,1467
+  FBN1_cbEGF23-25_Ca3    site 0  BVS 1.876 +/- 0.015 ( 0.8%)  CN 7.0  pLDDT 98  ion seed spread 0.04 A  admitted  ligands 1766,1767,1769,1784,1785,1788
+  FBN1_cbEGF23-25_Ca3    site 1  BVS 1.809 +/- 0.022 ( 1.2%)  CN 7.0  pLDDT 98  ion seed spread 0.09 A  admitted  ligands 1648,1649,1651,1665,1666,1669
+  FBN1_cbEGF23-25_Ca3    site 2  BVS 1.676 +/- 0.186 (11.1%)  CN 6.0  pLDDT 94  ion seed spread 0.07 A  admitted  ligands 1606,1607,1609,1624,1625,1628
+  FBN1_cbEGF25-27_Ca3    site 0  BVS 1.868 +/- 0.029 ( 1.6%)  CN 7.0  pLDDT 98  ion seed spread 0.08 A  admitted  ligands 1808,1809,1811,1826,1827,1830
+  FBN1_cbEGF25-27_Ca3    site 1  BVS 1.940 +/- 0.071 ( 3.6%)  CN 7.0  pLDDT 96  ion seed spread 0.10 A  admitted  ligands 1849,1850,1852,1867,1868,1871
+  FBN1_cbEGF25-27_Ca3    site 2  BVS 1.702 +/- 0.066 ( 3.9%)  CN 6.0  pLDDT 95  ion seed spread 0.06 A  admitted  ligands 1766,1767,1769,1784,1785,1788
+  FBN1_cbEGF27-29_Ca3    site 0  BVS 1.853 +/- 0.028 ( 1.5%)  CN 7.0  pLDDT 98  ion seed spread 0.07 A  admitted  ligands 1930,1931,1933,1949,1950,1953
+  FBN1_cbEGF27-29_Ca3    site 1  BVS 1.740 +/- 0.025 ( 1.4%)  CN 7.0  pLDDT 98  ion seed spread 0.10 A  admitted  ligands 1891,1892,1894,1907,1908,1911
+  FBN1_cbEGF27-29_Ca3    site 2  BVS 1.626 +/- 0.137 ( 8.4%)  CN 6.0  pLDDT 92  ion seed spread 0.06 A  admitted  ligands 1849,1850,1852,1867,1868,1871
+  FBN1_cbEGF29-31_Ca3    site 0  BVS 1.749 +/- 0.047 ( 2.7%)  CN 7.0  pLDDT 97  ion seed spread 0.11 A  admitted  ligands 2013,2014,2016,2031,2032,2035
+  FBN1_cbEGF29-31_Ca3    site 1  BVS 1.674 +/- 0.074 ( 4.4%)  CN 6.0  pLDDT 92  ion seed spread 0.15 A  admitted  ligands 1930,1931,1933,1949,1950,1953
+  FBN1_cbEGF29-31_Ca3    site 2  BVS 1.855 +/- 0.043 ( 2.3%)  CN 7.0  pLDDT 97  ion seed spread 0.21 A  admitted  ligands 1973,1974,1976,1991,1992,1995
+  FBN1_cbEGF3-5_Ca3      site 0  BVS 1.825 +/- 0.038 ( 2.1%)  CN 7.0  pLDDT 97  ion seed spread 0.10 A  admitted  ligands 530,531,533,548,549,552
+  FBN1_cbEGF3-5_Ca3      site 1  BVS 1.678 +/- 0.069 ( 4.1%)  CN 7.0  pLDDT 95  ion seed spread 0.05 A  admitted  ligands 490,491,493,506,507,510
+  FBN1_cbEGF3-5_Ca3      site 2  BVS 1.963 +/- 0.076 ( 3.9%)  CN 7.0  pLDDT 96  ion seed spread 0.18 A  admitted  ligands 572,573,575,589,590,593
+  FBN1_cbEGF31-33_Ca3    site 0  BVS 1.851 +/- 0.034 ( 1.8%)  CN 7.0  pLDDT 96  ion seed spread 0.10 A  admitted  ligands 2127,2128,2130,2144,2145,2148
+  FBN1_cbEGF31-33_Ca3    site 1  BVS 1.920 +/- 0.052 ( 2.7%)  CN 7.0  pLDDT 93  ion seed spread 0.12 A  admitted  ligands 2166,2167,2169,2183,2184,2187
+  FBN1_cbEGF31-33_Ca3    site 2  BVS 1.787 +/- 0.016 ( 0.9%)  CN 7.0  pLDDT 93  ion seed spread 0.07 A  admitted  ligands 2013,2014,2016,2031,2032,2035
+  FBN1_cbEGF37-39_Ca3    site 0  BVS 1.852 +/- 0.079 ( 4.3%)  CN 7.0  pLDDT 98  ion seed spread 0.12 A  admitted  ligands 2444,2445,2447,2461,2462,2465
+  FBN1_cbEGF37-39_Ca3    site 1  BVS 1.920 +/- 0.024 ( 1.2%)  CN 7.0  pLDDT 98  ion seed spread 0.06 A  admitted  ligands 2485,2486,2488,2502,2503,2506
+  FBN1_cbEGF37-39_Ca3    site 2  BVS 1.765 +/- 0.056 ( 3.2%)  CN 6.0  pLDDT 94  ion seed spread 0.11 A  admitted  ligands 2402,2403,2405,2420,2421,2424
+  FBN1_cbEGF39-41_Ca3    site 0  BVS 1.868 +/- 0.065 ( 3.5%)  CN 7.0  pLDDT 96  ion seed spread 0.08 A  admitted  ligands 2567,2568,2570,2583,2584,2587
+  FBN1_cbEGF39-41_Ca3    site 1  BVS 1.801 +/- 0.103 ( 5.7%)  CN 7.0  pLDDT 97  ion seed spread 0.11 A  admitted  ligands 2524,2525,2527,2543,2544,2547
+  FBN1_cbEGF39-41_Ca3    site 2  BVS 1.886 +/- 0.027 ( 1.4%)  CN 6.0  pLDDT 90  ion seed spread 0.08 A  admitted  ligands 2485,2486,2488,2502,2503,2506
+  FBN1_cbEGF41-43_Ca3    site 0  BVS 1.835 +/- 0.038 ( 2.0%)  CN 7.0  pLDDT 95  ion seed spread 0.12 A  admitted  ligands 2607,2608,2610,2624,2625,2628
+  FBN1_cbEGF41-43_Ca3    site 1  BVS 1.744 +/- 0.059 ( 3.4%)  CN 7.0  pLDDT 94  ion seed spread 0.10 A  admitted  ligands 2648,2649,2651,2665,2666,2669
+  FBN1_cbEGF41-43_Ca3    site 2  BVS 1.807 +/- 0.121 ( 6.7%)  CN 7.0  pLDDT 92  ion seed spread 0.11 A  admitted  ligands 2567,2568,2570,2583,2584,2587
+  FBN1_cbEGF5-7_Ca3      site 0  BVS 1.878 +/- 0.087 ( 4.6%)  CN 7.0  pLDDT 97  ion seed spread 0.11 A  admitted  ligands 613,614,616,630,631,634
+  FBN1_cbEGF5-7_Ca3      site 1  BVS 2.013 +/- 0.325 (16.2%)  CN 6.0  pLDDT 92  ion seed spread 0.11 A  EXCLUDED (wild-type quality)  ligands 572,573,575,589,590,593
+  FBN1_cbEGF5-7_Ca3      site 2  BVS 1.936 +/- 0.074 ( 3.8%)  CN 7.0  pLDDT 98  ion seed spread 0.10 A  admitted  ligands 723,724,726,741,742,745
+  FBN1_cbEGF9-11_Ca3     site 0  BVS 1.790 +/- 0.007 ( 0.4%)  CN 7.0  pLDDT 96  ion seed spread 0.14 A  admitted  ligands 1028,1029,1031,1046,1047,1050
+  FBN1_cbEGF9-11_Ca3     site 1  BVS 1.596 +/- 0.026 ( 1.6%)  CN 7.0  pLDDT 97  ion seed spread 0.09 A  admitted  ligands 910,911,913,928,929,932
+  FBN1_cbEGF9-11_Ca3     site 2  BVS 1.412 +/- 0.067 ( 4.8%)  CN 6.0  pLDDT 94  ion seed spread 0.49 A  admitted  ligands 807,808,810,823,824,827
+
+Median wild-type seed spread across all sites: 0.059 BVS units (used to floor the per-site z denominator)
+
+Mutants
+  FBN1_cbEGF3-5_N548I_Ca3  N548I  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 1.06 A  pLDDT 94.2 vs 94.3
+      site 0 (cognate): BVS 1.825 -> 1.223 (-33.0%, z=-10.2)  CN 7.0->6.0  ion 0.28 A (wt seed 0.1 A)  local RMSD 0.47 A  contact kept 0/5
+  FBN1_cbEGF5-7_D723A_Ca3  D723A  [ca_ligand_pathogenic]  cognate site 2 (coordinates)  global RMSD 4.19 A  pLDDT 91.1 vs 90.9
+      site 2 (cognate): BVS 1.936 -> 1.952 (+0.8%, z=+0.2)  CN 7.0->5.0  ion 0.30 A (wt seed 0.1 A)  local RMSD 0.24 A  contact kept 0/5
+  FBN1_cbEGF37-39_E2447K_Ca3  E2447K  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 0.89 A  pLDDT 93.8 vs 94.2
+      site 0 (cognate): BVS 1.852 -> 1.518 (-18.1%, z=-4.2)  CN 7.0->6.0  ion 0.26 A (wt seed 0.12 A)  local RMSD 0.26 A  contact kept 0/5
+  FBN1_cbEGF27-29_D1891H_Ca3  D1891H  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 0.91 A  pLDDT 95.1 vs 95.1
+      site 1 (cognate): BVS 1.740 -> 1.541 (-11.4%, z=-3.4)  CN 7.0->5.0  ion 0.23 A (wt seed 0.1 A)  local RMSD 0.46 A  contact kept 0/5
+  FBN1_cbEGF13-15_D1197N_Ca3  D1197N  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 0.79 A  pLDDT 95.7 vs 95.9
+      site 0 (cognate): BVS 1.741 -> 1.821 (+4.6%, z=+1.3)  CN 7.0->7.0  ion 0.16 A (wt seed 0.07 A)  local RMSD 0.26 A  contact kept 5/5
+  FBN1_cbEGF23-25_D1648N_Ca3  D1648N  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 1.44 A  pLDDT 93.9 vs 94.0
+      site 1 (cognate): BVS 1.809 -> 1.787 (-1.2%, z=-0.4)  CN 7.0->6.0  ion 0.07 A (wt seed 0.09 A)  local RMSD 0.21 A  contact kept 5/5
+  FBN1_cbEGF27-29_N1907D_Ca3  N1907D  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 0.83 A  pLDDT 95.2 vs 95.1
+      site 1 (cognate): BVS 1.740 -> 1.712 (-1.6%, z=-0.5)  CN 7.0->7.0  ion 0.25 A (wt seed 0.1 A)  local RMSD 0.28 A  contact kept 5/5
+  FBN1_cbEGF25-27_E1811K_Ca3  E1811K  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 0.96 A  pLDDT 95.5 vs 95.5
+      site 0 (cognate): BVS 1.868 -> 1.549 (-17.0%, z=-5.4)  CN 7.0->6.0  ion 0.20 A (wt seed 0.08 A)  local RMSD 0.26 A  contact kept 0/5
+  FBN1_cbEGF19-21_D1446N_Ca3  D1446N  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 1.08 A  pLDDT 95.1 vs 95.3
+      site 0 (cognate): BVS 1.766 -> 1.680 (-4.9%, z=-0.8)  CN 7.0->6.0  ion 0.17 A (wt seed 0.08 A)  local RMSD 0.27 A  contact kept 5/5
+  FBN1_cbEGF15-17_D1280N_Ca3  D1280N  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 0.76 A  pLDDT 95.3 vs 94.6
+      site 1 (cognate): BVS 1.789 -> 1.791 (+0.1%, z=+0.0)  CN 7.0->6.0  ion 0.12 A (wt seed 0.17 A)  local RMSD 0.29 A  contact kept 5/5
+  FBN1_cbEGF15-17_D1238N_Ca3  D1238N  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 1.08 A  pLDDT 95.1 vs 94.6
+      site 0 (cognate): BVS 1.754 -> 1.721 (-1.9%, z=-0.6)  CN 7.0->6.0  ion 0.20 A (wt seed 0.1 A)  local RMSD 0.25 A  contact kept 5/5
+  FBN1_cbEGF13-15_D1155N_Ca3  D1155N  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 0.86 A  pLDDT 95.5 vs 95.9
+      site 1 (cognate): BVS 1.778 -> 1.776 (-0.1%, z=-0.0)  CN 7.0->6.0  ion 0.13 A (wt seed 0.09 A)  local RMSD 0.32 A  contact kept 5/5
+  FBN1_cbEGF39-41_E2570K_Ca3  E2570K  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 2.14 A  pLDDT 89.4 vs 89.1
+      site 0 (cognate): BVS 1.868 -> 1.609 (-13.8%, z=-4.0)  CN 7.0->6.0  ion 0.15 A (wt seed 0.08 A)  local RMSD 0.42 A  contact kept 0/5
+  FBN1_cbEGF31-33_N2144H_Ca3  N2144H  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 2.14 A  pLDDT 88.8 vs 91.0
+      site 0 (cognate): BVS 1.851 -> 1.148 (-38.0%, z=-11.9)  CN 7.0->7.0  ion 0.63 A (wt seed 0.1 A)  local RMSD 0.80 A  contact kept 5/5
+  FBN1_cbEGF27-29_E1894K_Ca3  E1894K  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 1.10 A  pLDDT 95.2 vs 95.1
+      site 1 (cognate): BVS 1.740 -> 1.497 (-14.0%, z=-4.1)  CN 7.0->6.0  ion 0.19 A (wt seed 0.1 A)  local RMSD 0.37 A  contact kept 0/5
+  FBN1_cbEGF37-39_D2485G_Ca3  D2485G  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 1.47 A  pLDDT 93.0 vs 94.2
+      site 1 (cognate): BVS 1.920 -> 1.811 (-5.7%, z=-1.8)  CN 7.0->5.0  ion 0.25 A (wt seed 0.06 A)  local RMSD 0.48 A  contact kept 0/5
+  FBN1_cbEGF9-11_D1028G_Ca3  D1028G  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 1.64 A  pLDDT 89.8 vs 90.0
+      site 0 (cognate): BVS 1.790 -> 1.788 (-0.1%, z=-0.0)  CN 7.0->6.0  ion 0.14 A (wt seed 0.14 A)  local RMSD 0.39 A  contact kept 0/5
+  FBN1_cbEGF29-31_E1976A_Ca3  E1976A  [ca_ligand_pathogenic]  cognate site 2 (coordinates)  global RMSD 0.87 A  pLDDT 92.7 vs 92.6
+      site 2 (cognate): BVS 1.855 -> 1.640 (-11.6%, z=-3.6)  CN 7.0->6.0  ion 0.16 A (wt seed 0.21 A)  local RMSD 0.22 A  contact kept 0/5
+  FBN1_cbEGF27-29_D1930N_Ca3  D1930N  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 0.69 A  pLDDT 95.4 vs 95.1
+      site 0 (cognate): BVS 1.853 -> 1.838 (-0.8%, z=-0.3)  CN 7.0->7.0  ion 0.16 A (wt seed 0.07 A)  local RMSD 0.39 A  contact kept 5/5
+  FBN1_cbEGF13-15_N1173T_Ca3  N1173T  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 0.86 A  pLDDT 95.5 vs 95.9
+      site 1 (cognate): BVS 1.778 -> 1.645 (-7.5%, z=-1.8)  CN 7.0->8.0  ion 0.18 A (wt seed 0.09 A)  local RMSD 0.29 A  contact kept 5/5
+  FBN1_cbEGF41-43_N2624S_Ca3  N2624S  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 2.58 A  pLDDT 86.7 vs 87.2
+      site 0 (cognate): BVS 1.835 -> 1.567 (-14.6%, z=-4.5)  CN 7.0->7.0  ion 0.15 A (wt seed 0.12 A)  local RMSD 0.37 A  contact kept 5/5
+  FBN1_cbEGF21-23_E1490K_Ca3  E1490K  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 1.37 A  pLDDT 93.8 vs 93.9
+      site 1 (cognate): BVS 1.747 -> 1.423 (-18.6%, z=-5.5)  CN 7.0->6.0  ion 0.20 A (wt seed 0.08 A)  local RMSD 0.31 A  contact kept 0/5
+  FBN1_cbEGF21-23_D1487N_Ca3  D1487N  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 0.75 A  pLDDT 94.2 vs 93.9
+      site 1 (cognate): BVS 1.747 -> 1.729 (-1.1%, z=-0.3)  CN 7.0->6.0  ion 0.09 A (wt seed 0.08 A)  local RMSD 0.25 A  contact kept 5/5
+  FBN1_cbEGF3-5_N589S_Ca3  N589S  [ca_ligand_pathogenic]  cognate site 2 (coordinates)  global RMSD 1.25 A  pLDDT 94.4 vs 94.3
+      site 2 (cognate): BVS 1.963 -> 1.625 (-17.2%, z=-4.4)  CN 7.0->7.0  ion 0.33 A (wt seed 0.18 A)  local RMSD 0.63 A  contact kept 5/5
+  FBN1_cbEGF1-3_D490Y_Ca3  D490Y  [ca_ligand_pathogenic]  cognate site 2 (coordinates)  global RMSD 24.31 A  pLDDT 74.4 vs 74.2
+      site 2 (cognate): BVS 2.194 -> 2.370 (+8.0%, z=+1.0)  CN 7.0->5.0  ion 0.79 A (wt seed 0.58 A)  local RMSD 0.43 A  contact kept 1/5   [SITE FAILS WILD-TYPE QUALITY FILTER]
+  FBN1_cbEGF41-43_D2607N_Ca3  D2607N  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 1.87 A  pLDDT 86.6 vs 87.2
+      site 0 (cognate): BVS 1.835 -> 1.813 (-1.2%, z=-0.4)  CN 7.0->6.0  ion 0.17 A (wt seed 0.12 A)  local RMSD 0.32 A  contact kept 5/5
+  FBN1_cbEGF27-29_D1891N_Ca3  D1891N  [ca_ligand_pathogenic]  cognate site 1 (coordinates)  global RMSD 0.90 A  pLDDT 95.4 vs 95.1
+      site 1 (cognate): BVS 1.740 -> 1.677 (-3.6%, z=-1.1)  CN 7.0->6.0  ion 0.15 A (wt seed 0.1 A)  local RMSD 0.29 A  contact kept 5/5
+  FBN1_cbEGF9-11_N1046S_Ca3  N1046S  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 1.71 A  pLDDT 89.7 vs 90.0
+      site 0 (cognate): BVS 1.790 -> 1.476 (-17.6%, z=-5.3)  CN 7.0->8.0  ion 0.09 A (wt seed 0.14 A)  local RMSD 0.32 A  contact kept 5/5
+  FBN1_cbEGF5-7_D723G_Ca3  D723G  [ca_ligand_pathogenic]  cognate site 2 (coordinates)  global RMSD 3.82 A  pLDDT 91.3 vs 90.9
+      site 2 (cognate): BVS 1.936 -> 1.997 (+3.1%, z=+0.8)  CN 7.0->5.0  ion 0.27 A (wt seed 0.1 A)  local RMSD 0.20 A  contact kept 0/5
+  FBN1_cbEGF5-7_D613N_Ca3  D613N  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 3.68 A  pLDDT 90.0 vs 90.9
+      site 0 (cognate): BVS 1.878 -> 1.963 (+4.5%, z=+1.0)  CN 7.0->7.0  ion 0.14 A (wt seed 0.11 A)  local RMSD 0.21 A  contact kept 5/5
+  FBN1_cbEGF27-29_D1930G_Ca3  D1930G  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 0.87 A  pLDDT 95.1 vs 95.1
+      site 0 (cognate): BVS 1.853 -> 1.628 (-12.2%, z=-3.8)  CN 7.0->5.0  ion 0.26 A (wt seed 0.07 A)  local RMSD 0.35 A  contact kept 0/5
+  FBN1_cbEGF17-19_D1322N_Ca3  D1322N  [ca_ligand_pathogenic]  cognate site 0 (coordinates)  global RMSD 0.83 A  pLDDT 95.7 vs 95.7
+      site 0 (cognate): BVS 1.736 -> 1.723 (-0.7%, z=-0.2)  CN 7.0->6.0  ion 0.07 A (wt seed 0.16 A)  local RMSD 0.21 A  contact kept 5/5
+  FBN1_cbEGF5-7_E726G_Ca3  E726G  [ca_ligand_pathogenic]  cognate site 2 (coordinates)  global RMSD 4.60 A  pLDDT 90.6 vs 90.9
+      site 2 (cognate): BVS 1.936 -> 1.685 (-13.0%, z=-3.4)  CN 7.0->6.0  ion 0.12 A (wt seed 0.1 A)  local RMSD 0.25 A  contact kept 0/5
+  FBN1_cbEGF5-7_N741K_Ca3  N741K  [ca_ligand_pathogenic]  cognate site 2 (coordinates)  global RMSD 7.78 A  pLDDT 91.2 vs 90.9
+      site 2 (cognate): BVS 1.936 -> 1.473 (-23.9%, z=-6.3)  CN 7.0->6.0  ion 0.08 A (wt seed 0.1 A)  local RMSD 0.28 A  contact kept 0/5
+  FBN1_cbEGF1-3_T382S_Ca3  T382S  [negative_control]  cognate site 0 (nearest ion (24.1 A))  global RMSD 29.82 A  pLDDT 75.3 vs 74.2
+      site 0 (cognate): BVS 1.514 -> 1.622 (+7.2%, z=+0.9)  CN 7.0->7.0  ion 0.27 A (wt seed 0.19 A)  local RMSD 0.13 A
+  FBN1_cbEGF13-15_V1172M_Ca3  V1172M  [negative_control]  cognate site 1 (nearest ion (9.2 A))  global RMSD 0.73 A  pLDDT 95.7 vs 95.9
+      site 1 (cognate): BVS 1.778 -> 1.830 (+2.9%, z=+0.7)  CN 7.0->7.0  ion 0.06 A (wt seed 0.09 A)  local RMSD 0.18 A
+  FBN1_cbEGF15-17_Q1253P_Ca3  Q1253P  [negative_control]  cognate site 0 (nearest ion (14.5 A))  global RMSD 0.95 A  pLDDT 94.6 vs 94.6
+      site 0 (cognate): BVS 1.754 -> 1.659 (-5.4%, z=-1.6)  CN 7.0->7.0  ion 0.11 A (wt seed 0.1 A)  local RMSD 0.26 A
+  FBN1_cbEGF17-19_A1337P_Ca3  A1337P  [negative_control]  cognate site 1 (nearest ion (15.4 A))  global RMSD 1.06 A  pLDDT 91.7 vs 95.7
+      site 1 (cognate): BVS 1.795 -> 1.859 (+3.6%, z=+1.1)  CN 7.0->7.0  ion 0.10 A (wt seed 0.14 A)  local RMSD 0.25 A
+  FBN1_cbEGF19-21_G1418S_Ca3  G1418S  [negative_control]  cognate site 0 (nearest ion (14.2 A))  global RMSD 4.62 A  pLDDT 90.3 vs 95.3
+      site 0 (cognate): BVS 1.766 -> 1.776 (+0.5%, z=+0.1)  CN 7.0->7.0  ion 0.10 A (wt seed 0.08 A)  local RMSD 0.72 A
+  FBN1_cbEGF21-23_L1536W_Ca3  L1536W  [negative_control]  cognate site 0 (nearest ion (17.1 A))  global RMSD 1.12 A  pLDDT 94.2 vs 93.9
+      site 0 (cognate): BVS 1.774 -> 1.790 (+0.9%, z=+0.3)  CN 7.0->7.0  ion 0.08 A (wt seed 0.1 A)  local RMSD 0.19 A
+  FBN1_cbEGF23-25_L1710S_Ca3  L1710S  [negative_control]  cognate site 0 (nearest ion (16.7 A))  global RMSD 1.29 A  pLDDT 93.5 vs 94.0
+      site 0 (cognate): BVS 1.876 -> 1.912 (+1.9%, z=+0.6)  CN 7.0->7.0  ion 0.06 A (wt seed 0.04 A)  local RMSD 0.23 A
+  FBN1_cbEGF25-27_R1832S_Ca3  R1832S  [negative_control]  cognate site 0 (nearest ion (9.5 A))  global RMSD 0.97 A  pLDDT 95.7 vs 95.5
+      site 0 (cognate): BVS 1.868 -> 1.827 (-2.2%, z=-0.7)  CN 7.0->7.0  ion 0.07 A (wt seed 0.08 A)  local RMSD 0.23 A
+  FBN1_cbEGF27-29_R1915L_Ca3  R1915L  [negative_control]  cognate site 1 (nearest ion (15.4 A))  global RMSD 0.99 A  pLDDT 95.2 vs 95.1
+      site 1 (cognate): BVS 1.740 -> 1.736 (-0.2%, z=-0.1)  CN 7.0->7.0  ion 0.10 A (wt seed 0.1 A)  local RMSD 0.19 A
+  FBN1_cbEGF29-31_G1994V_Ca3  G1994V  [negative_control]  cognate site 2 (nearest ion (4.7 A))  global RMSD 1.63 A  pLDDT 92.6 vs 92.6
+      site 2 (cognate): BVS 1.855 -> 1.766 (-4.8%, z=-1.5)  CN 7.0->7.0  ion 0.62 A (wt seed 0.21 A)  local RMSD 0.70 A
+  FBN1_cbEGF3-5_I547T_Ca3  I547T  [negative_control]  cognate site 0 (nearest ion (9.3 A))  global RMSD 0.95 A  pLDDT 94.4 vs 94.3
+      site 0 (cognate): BVS 1.825 -> 1.850 (+1.3%, z=+0.4)  CN 7.0->7.0  ion 0.11 A (wt seed 0.1 A)  local RMSD 0.41 A
+  FBN1_cbEGF31-33_I2110T_Ca3  I2110T  [negative_control]  cognate site 0 (nearest ion (17.5 A))  global RMSD 1.44 A  pLDDT 91.2 vs 91.0
+      site 0 (cognate): BVS 1.851 -> 1.789 (-3.4%, z=-1.0)  CN 7.0->7.0  ion 0.12 A (wt seed 0.1 A)  local RMSD 0.29 A
+  FBN1_cbEGF37-39_S2469L_Ca3  S2469L  [negative_control]  cognate site 0 (nearest ion (14.6 A))  global RMSD 0.84 A  pLDDT 93.9 vs 94.2
+      site 0 (cognate): BVS 1.852 -> 1.838 (-0.8%, z=-0.2)  CN 7.0->7.0  ion 0.21 A (wt seed 0.12 A)  local RMSD 0.24 A
+  FBN1_cbEGF39-41_T2549P_Ca3  T2549P  [negative_control]  cognate site 1 (nearest ion (9.5 A))  global RMSD 2.07 A  pLDDT 88.4 vs 89.1
+      site 1 (cognate): BVS 1.801 -> 1.636 (-9.2%, z=-1.6)  CN 7.0->7.0  ion 0.22 A (wt seed 0.11 A)  local RMSD 0.46 A
+  FBN1_cbEGF1-3_N261S_Ca3  N261S  [composition_control]  cognate site 1 (nearest ion (15.1 A))  global RMSD 24.86 A  pLDDT 73.4 vs 74.2
+      site 1 (cognate): BVS 1.559 -> 5.253 (+237.0%, z=+6.0)  CN 7.0->6.0  ion 1.32 A (wt seed 0.61 A)  local RMSD 0.31 A   [SITE FAILS WILD-TYPE QUALITY FILTER]
+  FBN1_cbEGF1-3_E487A_Ca3  E487A  [composition_control]  cognate site 2 (nearest ion (15.4 A))  global RMSD 15.14 A  pLDDT 75.2 vs 74.2
+      site 2 (cognate): BVS 2.194 -> 2.271 (+3.5%, z=+0.4)  CN 7.0->7.0  ion 0.43 A (wt seed 0.58 A)  local RMSD 0.23 A   [SITE FAILS WILD-TYPE QUALITY FILTER]
+  FBN1_cbEGF15-17_D1250Y_Ca3  D1250Y  [composition_control]  cognate site 1 (nearest ion (13.2 A))  global RMSD 1.05 A  pLDDT 94.5 vs 94.6
+      site 1 (cognate): BVS 1.789 -> 1.750 (-2.2%, z=-0.7)  CN 7.0->7.0  ion 0.25 A (wt seed 0.17 A)  local RMSD 0.46 A
+  FBN1_cbEGF17-19_E1366Q_Ca3  E1366Q  [composition_control]  cognate site 1 (coordinates)  global RMSD 0.97 A  pLDDT 95.1 vs 95.7
+      site 1 (cognate): BVS 1.795 -> 1.765 (-1.7%, z=-0.5)  CN 7.0->7.0  ion 0.15 A (wt seed 0.14 A)  local RMSD 0.22 A  contact kept 5/5
+  FBN1_cbEGF21-23_D1512V_Ca3  D1512V  [composition_control]  cognate site 1 (nearest ion (14.7 A))  global RMSD 0.87 A  pLDDT 94.1 vs 93.9
+      site 1 (cognate): BVS 1.747 -> 1.712 (-2.0%, z=-0.6)  CN 7.0->7.0  ion 0.13 A (wt seed 0.08 A)  local RMSD 0.26 A
+  FBN1_cbEGF23-25_E1653K_Ca3  E1653K  [composition_control]  cognate site 1 (nearest ion (9.7 A))  global RMSD 0.92 A  pLDDT 93.6 vs 94.0
+      site 1 (cognate): BVS 1.809 -> 1.779 (-1.7%, z=-0.5)  CN 7.0->7.0  ion 0.07 A (wt seed 0.09 A)  local RMSD 0.13 A
+  FBN1_cbEGF25-27_N1858T_Ca3  N1858T  [composition_control]  cognate site 1 (nearest ion (16.3 A))  global RMSD 0.96 A  pLDDT 95.8 vs 95.5
+      site 1 (cognate): BVS 1.940 -> 1.883 (-2.9%, z=-0.8)  CN 7.0->7.0  ion 0.10 A (wt seed 0.1 A)  local RMSD 0.25 A
+  FBN1_cbEGF29-31_D1993N_Ca3  D1993N  [composition_control]  cognate site 2 (nearest ion (6.2 A))  global RMSD 1.03 A  pLDDT 92.9 vs 92.6
+      site 2 (cognate): BVS 1.855 -> 1.889 (+1.9%, z=+0.6)  CN 7.0->7.0  ion 0.26 A (wt seed 0.21 A)  local RMSD 0.27 A
+  FBN1_cbEGF31-33_D2104G_Ca3  D2104G  [composition_control]  cognate site 0 (nearest ion (23.4 A))  global RMSD 1.14 A  pLDDT 90.6 vs 91.0
+      site 0 (cognate): BVS 1.851 -> 1.852 (+0.0%, z=+0.0)  CN 7.0->7.0  ion 0.10 A (wt seed 0.1 A)  local RMSD 0.20 A
+  FBN1_cbEGF37-39_D2487G_Ca3  D2487G  [composition_control]  cognate site 1 (nearest ion (5.5 A))  global RMSD 0.91 A  pLDDT 94.2 vs 94.2
+      site 1 (cognate): BVS 1.920 -> 1.957 (+2.0%, z=+0.6)  CN 7.0->7.0  ion 0.20 A (wt seed 0.06 A)  local RMSD 0.26 A
+  FBN1_cbEGF5-7_E638K_Ca3  E638K  [composition_control]  cognate site 0 (nearest ion (14.3 A))  global RMSD 7.25 A  pLDDT 90.2 vs 90.9
+      site 0 (cognate): BVS 1.878 -> 1.797 (-4.3%, z=-0.9)  CN 7.0->7.0  ion 0.10 A (wt seed 0.11 A)  local RMSD 0.23 A
+  FBN1_cbEGF9-11_N867K_Ca3  N867K  [composition_control]  cognate site 1 (nearest ion (14.9 A))  global RMSD 2.60 A  pLDDT 89.0 vs 90.0
+      site 1 (cognate): BVS 1.596 -> 1.600 (+0.2%, z=+0.1)  CN 7.0->7.0  ion 0.09 A (wt seed 0.09 A)  local RMSD 0.21 A
+
+No jobs excluded — all 60 validated and measured.
+wrote data/processed/af3_batch4_geometry.tsv (180 site rows, 60 jobs)
+wrote results/phase5_batch4_geometry.md

@@ -1,0 +1,9 @@
+filename,source,method,pdb_or_job,construct,domains,uniprot_range,n_ca_sites,numbering,author_offset_applied,role,intended_variants
+EXP_2W86_cbEGF9-hyb2-cbEGF10.pdb,experimental,X-ray/NMR,2W86,cbEGF9-hyb2-cbEGF10,cbEGF9+cbEGF10,807-951,2,UniProt P35555,804,ground truth for calibration,n/a (wild-type reference)
+EXP_1LMJ_cbEGF12-13.pdb,experimental,X-ray/NMR,1LMJ,cbEGF12-13,cbEGF12+cbEGF13,1069-1154,2,UniProt P35555,1066,ground truth for calibration,n/a (wild-type reference)
+EXP_1UZJ_cbEGF22-TB4-cbEGF23.pdb,experimental,X-ray/NMR,1UZJ,cbEGF22-TB4-cbEGF23,cbEGF22+cbEGF23,1486-1647,2,UniProt P35555,0,ground truth for calibration,n/a (wild-type reference)
+EXP_1EMN_cbEGF32-33.pdb,experimental,X-ray/NMR,1EMN,cbEGF32-33,cbEGF32+cbEGF33,2127-2205,2,UniProt P35555,0,ground truth for calibration,n/a (wild-type reference)
+AF3_cbEGF9-hyb2-cbEGF10_model0.pdb,AF3 (AlphaFold-Server),cofolded with 2 Ca2+,fold_fbn1_cbegf9_hyb2_cbegf10_ca2,cbEGF9-hyb2-cbEGF10,cbEGF9-hyb2-cbEGF10,807-951,2,UniProt P35555,0,"predicted site, compare against 2W86",n/a (wild-type model)
+AF3_cbEGF12-13_model0.pdb,AF3 (AlphaFold-Server),cofolded with 2 Ca2+,fold_fbn1_cbegf12_13_ca2,cbEGF12-13,cbEGF12-13,1069-1154,2,UniProt P35555,0,"predicted site, compare against 1LMJ",n/a (wild-type model)
+AF3_cbEGF22-TB4-cbEGF23_model0.pdb,AF3 (AlphaFold-Server),cofolded with 2 Ca2+,fold_fbn1_cbegf22_tb4_cbegf23_ca2,cbEGF22-TB4-cbEGF23,cbEGF22-TB4-cbEGF23,1486-1647,2,UniProt P35555,0,"predicted site, compare against 1UZJ",n/a (wild-type model)
+AF3_cbEGF32-33_model0.pdb,AF3 (AlphaFold-Server),cofolded with 2 Ca2+,fold_fbn1_cbegf32_33_ca2,cbEGF32-33,cbEGF32-33,2127-2205,2,UniProt P35555,0,"predicted site, compare against 1EMN",n/a (wild-type model)

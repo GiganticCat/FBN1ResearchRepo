@@ -1,0 +1,81 @@
+FBN1/Marfan Phase 0 environment check
+UTC: 2026-08-02T16:23:46.566769+00:00
+Root: /home/harvey/research/fbn1-marfan
+
+1. Directory scaffold
+---------------------
+  [PASS] scaffold: all 18 expected directories present
+
+2. Python interpreter and packages
+----------------------------------
+  [PASS] python.version: 3.14.4 at /home/harvey/research/fbn1-marfan/.venv/bin/python
+  [PASS] python.venv: /home/harvey/research/fbn1-marfan/.venv
+  [PASS] import.pandas: pandas 3.0.5
+  [PASS] import.numpy: numpy 2.5.1
+  [PASS] import.scipy: scipy 1.18.0
+  [PASS] import.requests: requests 2.34.2
+  [PASS] import.Bio: biopython 1.87
+  [PASS] import.biotite: biotite 1.7.1
+  [PASS] import.prody: ProDy 2.6.1
+  [PASS] import.freesasa: freesasa 2.2.1
+  [PASS] import.matplotlib: matplotlib 3.11.1
+  [PASS] import.seaborn: seaborn 0.13.2
+  [PASS] import.statsmodels: statsmodels 0.14.6
+  [PASS] import.dotenv: python-dotenv 1.2.2
+  [PASS] import.pypdf: pypdf 6.14.2
+
+3. Native structural tools
+--------------------------
+  [PASS] tool.pymol: 3.1.0 at /usr/bin/pymol
+  [PASS] tool.mkdssp: mkdssp version 4.5.7 at /usr/bin/mkdssp
+  [PASS] tool.foldx: FoldX 5.1 (c) at /home/harvey/.local/bin/foldx -> /home/harvey/tools/foldx/foldx_20261231
+  [PASS] tool.foldx.molecules: /home/harvey/tools/foldx/molecules present (15 files)
+
+4. Credentials (.env) — presence only, values never printed
+-----------------------------------------------------------
+  [PASS] env.file: .env present
+  [PASS] env.NCBI_API_KEY: present (36 chars, value not shown)
+  [PASS] env.NCBI_EMAIL: present (24 chars, value not shown)
+  [PASS] env.gitignored: .env is git-ignored
+
+5. AlphaMissense P35555 subset
+------------------------------
+  [PASS] am.file: AlphaMissense_FBN1_P35555.tsv (1,649,641 bytes, sha256 925b3d1a2f96fdf9…)
+  [PASS] am.accession: all 54,568 rows are P35555
+  [PASS] am.variant_parse: all protein_variant strings parse as <WT><pos><ALT>
+  [PASS] am.positions: positions span 1–2871, matching P35555 length
+  [PASS] am.duplicates: 0 duplicate protein_variant strings
+  [WARN] am.wt_consistency: 1 position(s) carry >1 wild-type residue — pos 472 has WT in ['C', 'Y']. Phase 2 must resolve these by the WT-identity check against the P35555 sequence.
+  [WARN] am.row_count: 54,568 rows vs 54,549 expected (2871 x 19); difference +19 explained by the multi-WT position(s) above
+  [PASS] am.source_archive: full Zenodo archive present (1.21 GB) — subset is reproducible from it
+
+6. Database connectivity (small live test queries)
+--------------------------------------------------
+  [PASS] db.uniprot: P35555 sequence length 2871 (expected 2871)
+  [PASS] db.uniprot.seq_md5: f8f84ac9dc30f3ff640ad4f691fee2b1
+  [PASS] db.ncbi_clinvar: esearch returned 13,501 ClinVar records for FBN1 (Gene ID 2200)
+  [PASS] db.pdbe_sifts: 11 PDB entries mapped to P35555: 1APJ, 1EMN, 1EMO, 1LMJ, 1UZJ, 1UZK, 1UZP, 1UZQ, 2M74, 2W86, 5MS9
+  [WARN] db.alphafold: endpoint is live (control P02751, 2477 aa -> HTTP 200) but P35555 returns 404: FBN1 has NO AlphaFold DB model, because AFDB omits sequences >2700 aa and FBN1 is 2871 aa. UniProt carries no AlphaFoldDB cross-reference for P35555 either. This contradicts CLAUDE.md 4 and removes the basis for the Phase 4 Tier-3 AlphaFill cross-check — see results/phase0_report.md.
+  [PASS] db.gnomad: GraphQL reachable; FBN1 = ENSG00000166147
+  [PASS] db.mutalyzer: NM_000138.5:c.364C>T normalized -> NM_000138.5(NP_000129.3):p.(Arg122Cys)
+  [PASS] db.variantvalidator: NM_000138.5:c.364C>T validated -> NM_000138.5:c.364C>T
+  [WARN] db.alphafill: service reachable (HTTP 200) but AF-P35555-F1 status is 'unknown' — no AlphaFill entry for FBN1, as expected given the absent AlphaFold DB model. Phase 4 Tier-3 cross-check is unavailable for FBN1 unless run on a per-domain model.
+
+7. Literature folder inventory
+------------------------------
+  [PASS] papers.present: 14 PDF(s) in resources/papers/
+
+8. Cross-check: AlphaMissense multi-WT positions vs P35555 sequence
+-------------------------------------------------------------------
+  [WARN] am.wt_vs_uniprot.472: P35555 residue 472 is Y — Phase 2 must keep only the AlphaMissense rows whose WT is Y
+
+Summary
+-------
+  PASS 38   WARN 5   FAIL 0
+    [WARN] am.wt_consistency: 1 position(s) carry >1 wild-type residue — pos 472 has WT in ['C', 'Y']. Phase 2 must resolve these by the WT-identity check against the P35555 sequence.
+    [WARN] am.row_count: 54,568 rows vs 54,549 expected (2871 x 19); difference +19 explained by the multi-WT position(s) above
+    [WARN] db.alphafold: endpoint is live (control P02751, 2477 aa -> HTTP 200) but P35555 returns 404: FBN1 has NO AlphaFold DB model, because AFDB omits sequences >2700 aa and FBN1 is 2871 aa. UniProt carries no AlphaFoldDB cross-reference for P35555 either. This contradicts CLAUDE.md 4 and removes the basis for the Phase 4 Tier-3 AlphaFill cross-check — see results/phase0_report.md.
+    [WARN] db.alphafill: service reachable (HTTP 200) but AF-P35555-F1 status is 'unknown' — no AlphaFill entry for FBN1, as expected given the absent AlphaFold DB model. Phase 4 Tier-3 cross-check is unavailable for FBN1 unless run on a per-domain model.
+    [WARN] am.wt_vs_uniprot.472: P35555 residue 472 is Y — Phase 2 must keep only the AlphaMissense rows whose WT is Y
+
+Wrote manifest/tools.md

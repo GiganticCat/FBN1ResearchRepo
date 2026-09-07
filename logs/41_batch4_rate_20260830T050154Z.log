@@ -1,0 +1,48 @@
+Batch-4 disruption rate — 2026-08-30T05:01:54.962233+00:00
+  seed 20260829; 2000 bootstrap resamples; null threshold = 95.0th percentile of |delta BVS %| where no effect is possible
+
+180 site rows, 60 jobs
+14 site rows sit on wild-type sites that failed the quality filter (2 construct(s)); of these 3 are cognate sites and their variants drop out:
+    FBN1_cbEGF1-3_D490Y_Ca3 (ca_ligand_pathogenic) — FBN1_cbEGF1-3_Ca3 site 2, wild-type seed spread 8.2% of valence
+    FBN1_cbEGF1-3_N261S_Ca3 (composition_control) — FBN1_cbEGF1-3_Ca3 site 1, wild-type seed spread 39.2% of valence
+    FBN1_cbEGF1-3_E487A_Ca3 (composition_control) — FBN1_cbEGF1-3_Ca3 site 2, wild-type seed spread 8.2% of valence
+
+NULL: 109 bystander sites + 14 negative-control cognate sites = 123 measurements
+  median +0.40%, IQR -1.50 to +2.95%, |delta| 95th percentile = 9.14%
+  bystanders alone: 9.08%; negative controls alone: 7.90%
+THRESHOLD: a cognate site is disrupted if its valence falls by more than 9.14%, or if the site is vacated outright.
+
+DISRUPTION RATE at the cognate site
+  ca_ligand_pathogenic   15/33 =  45.5%  (95% CI 29.8–62.0%)   median delta -5.7%
+  composition_control     0/10 =   0.0%  (95% CI 0.0–27.8%)   median delta -1.7%
+  negative_control        1/14 =   7.1%  (95% CI 1.3–31.5%)   median delta +0.1%
+
+Fisher's exact, pathogenic ligands against each control group
+  vs composition_control    15/33 vs 0/10   OR inf   p = 0.008188
+  vs negative_control       15/33 vs 1/14   OR 10.83   p = 0.01692
+  vs all controls pooled     15/33 vs 1/24   OR 19.17   p = 0.0007039
+
+MAGNITUDE of the valence change (cognate site, present in >=1 model)
+  pathogenic ligands vs composition controls     -5.7% vs  -1.7%  Cliff's d -0.406 [-0.691, -0.085]  p = 0.05588
+  pathogenic ligands vs negative controls        -5.7% vs  +0.1%  Cliff's d -0.522 [-0.775, -0.242]  p = 0.005243
+
+DONOR CHEMISTRY within the pathogenic ligand set
+  substitution keeps an O donor     3/17 =  17.6%  (95% CI 6.2–41.0%)   median delta -1.2%
+  donor removed                    12/16 =  75.0%  (95% CI 50.5–89.8%)   median delta -13.4%
+  donor removed vs donor kept:  OR 14.00   p = 0.001555
+  the mutated side chain still contacts the ion in all five models for 18/33 pathogenic ligand variants, in none for 15
+
+THE FOLD, measured locally around the same site
+  ca_ligand_pathogenic   local RMSD median 0.29 A (max 0.80); whole-construct RMSD median 1.08 A (max 7.78)
+  composition_control    local RMSD median 0.24 A (max 0.46); whole-construct RMSD median 1.00 A (max 7.25)
+  negative_control       local RMSD median 0.24 A (max 0.72); whole-construct RMSD median 1.09 A (max 29.82)
+  pathogenic ligands vs all controls: Cliff's d +0.365 [+0.047, +0.669], p = 0.01975
+
+GEOMETRY AGAINST ENERGETICS on the same variants
+  Spearman(delta BVS %, Rosetta ddG) over 33 pathogenic ligands: rho = -0.089, p = 0.623
+    disrupted    ddG median 1.45 REU (n=15)
+    not disrupted ddG median 0.82 REU (n=18)
+    AlphaMissense median: disrupted 0.982, not disrupted 0.982 — a sequence method cannot tell these apart
+
+wrote data/processed/batch4_rate.tsv (57 variants)
+wrote results/phase5_batch4_rate.md

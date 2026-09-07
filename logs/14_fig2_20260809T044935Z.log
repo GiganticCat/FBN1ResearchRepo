@@ -1,0 +1,9 @@
+Phase 6 — Figure 2 — seed 20260802
+751 variants with FoldX ddG (of 4451 total)
+  ddG ca_ligand    n= 78  median=0.7580
+  ddG cys_removing n=146  median=4.1905
+  ddG other_cbegf  n=300  median=0.5595
+  AM  ca_ligand    n= 78  median=0.9752
+  AM  cys_removing n=146  median=0.9983
+  AM  other_cbegf  n=300  median=0.3139
+  47/78 Ca ligands are AM-pathogenic with ddG < 2

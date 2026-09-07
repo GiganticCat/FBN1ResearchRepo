@@ -1,0 +1,24 @@
+[{
+ "name": "FBN1_cbEGF27-29_D1891H_Ca3",
+ "modelSeeds": [
+  "520193418"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "DRNECQEIPNICSHGQCIDTVGSFYCLCHTGFKTNDDQTMCLHINECERDACGNGTCRNTIGSFNCRCNHGFILSHNNDCIDVDECASGNGNLCRNGQCINTVGSFQCQCNEGYEVAPDGRTCV",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

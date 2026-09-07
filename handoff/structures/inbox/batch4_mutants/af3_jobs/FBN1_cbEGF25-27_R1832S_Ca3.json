@@ -1,0 +1,22 @@
+[
+  {
+    "name": "FBN1_cbEGF25-27_R1832S_Ca3",
+    "modelSeeds": [],
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "DIDECREIPGVCENGVCINMVGSFRCECPVGFFYNDKLLVCEDIDECQNGPVCQRNAECINTAGSYSCDCKPGYRFTSTGQCNDRNECQEIPNICSHGQCIDTVGSFYCLCHTGFKTNDDQTMCL",
+          "count": 1
+        }
+      },
+      {
+        "ion": {
+          "ion": "CA",
+          "count": 3
+        }
+      }
+    ],
+    "dialect": "alphafoldserver",
+    "version": 1
+  }
+]

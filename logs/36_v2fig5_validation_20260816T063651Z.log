@@ -1,0 +1,4 @@
+36_v2fig5_validation.py: placement and bond-valence validation
+  a  n=8 domains; median Ca deviation 0.454 A, median backbone rmsd 1.353 A; 8/8 below the diagonal
+  b  n=16 sites; Pearson r=0.9610; mean offset +0.1469
+  c  9/16 sites agree exactly on coordination number

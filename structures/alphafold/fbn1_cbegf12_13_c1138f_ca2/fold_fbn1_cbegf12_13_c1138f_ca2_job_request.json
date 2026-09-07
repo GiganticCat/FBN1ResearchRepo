@@ -1,0 +1,24 @@
+[{
+ "name": "FBN1_cbEGF12-13_C1138F_Ca2",
+ "modelSeeds": [
+  "646530926"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "TDIDECRISPDLCGRGQCVNTPGDFECKCDEGYESGFMMMKNCMDIDECQRDPLLCRGGVCHNTEGSYRFECPPGHQLSPNISACI",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 2
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

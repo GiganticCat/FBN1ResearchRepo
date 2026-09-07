@@ -1,0 +1,24 @@
+[{
+ "name": "FBN1_cbEGF21-23_L1536W_Ca3",
+ "modelSeeds": [
+  "1205357888"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "DIDECSLPNICVFGTCHNLPGLFRCECEIGYELDRSGGNCTDVNECLDPTTCISGNCVNTPGSYICDCPPDFELNPTRVGCVDTRSGNCYWDIRPRGDNGDTACSNEIGVGVSKASCCCSLGKAWGTPCEMCPAVNTSEYKILCPGGEGFRPNPITVILEDIDECQELPGLCQGGKCINTFGSFQCRCPTGYYLNEDTRVCD",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

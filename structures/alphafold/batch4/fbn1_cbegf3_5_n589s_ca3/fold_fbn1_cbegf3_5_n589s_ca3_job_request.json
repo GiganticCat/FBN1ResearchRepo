@@ -1,0 +1,24 @@
+[{
+ "name": "FBN1_cbEGF3-5_N589S_Ca3",
+ "modelSeeds": [
+  "700906306"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "DVDECEKNPCAGGECINNQGSYTCQCRAGYQSTLTRTECRDIDECLQNGRICNNGRCINTDGSFHCVCNAGFHVTRDGKNCEDMDECSIRNMCLNGMCISEDGSFKCICKPGFQLASDGRYCK",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

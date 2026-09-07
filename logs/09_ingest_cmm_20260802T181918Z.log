@@ -1,0 +1,17 @@
+Phase 5 — CheckMyMetal ingestion — 2026-08-02T18:19:18.518405+00:00
+
+submitted: 8 files, 16 calcium sites
+  every submitted file returned a parsable result
+  parsed 16 calcium sites
+
+                               experimental              AF3
+  gRMSD (deg)                25.50 (n=8)    24.60 (n=8)
+  nVECSUM                     0.22 (n=8)     0.26 (n=8)
+  valence                     1.45 (n=8)     1.65 (n=8)
+  coordination no.            6.50 (n=8)     6.00 (n=8)
+
+  sites with >=1 outlier parameter: experimental 6/8, AF3 8/8
+  Ca is CMM's top proposed metal: experimental 1/8, AF3 5/8
+
+wrote data/processed/cmm_sites.tsv
+wrote results/phase5_cmm_calibration.md

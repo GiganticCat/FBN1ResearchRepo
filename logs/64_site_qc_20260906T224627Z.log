@@ -1,0 +1,11 @@
+Per-site quality and admission — 2026-09-06T22:46:26.845577+00:00
+  criteria  seed spread <= 15.0% of valence, occupancy 5/5 models, local pLDDT >= 70.0
+
+cross-check  51 sites agree with the batch-4 wild-type measurements, 63 agree with af3_ca_sites.tsv
+
+63 calcium sites across 21 constructs, 60 admitted and 3 excluded
+1 admitted sites sit within 20% of a limit
+  EXCLUDED  cbEGF1-3 site 1  on seed_spread  (spread 39.2%, 5/5 models, pLDDT 89.7)  1 variant(s) dropped
+  EXCLUDED  cbEGF1-3 site 2  on occupancy  (spread 8.2%, 4/5 models, pLDDT 89.9)  2 variant(s) dropped
+  EXCLUDED  cbEGF5-7 site 1  on seed_spread  (spread 16.2%, 5/5 models, pLDDT 92.1)  0 variant(s) dropped
+  borderline  cbEGF19-21 site 2  margin 0.13  (spread 13.0%, pLDDT 94.9)

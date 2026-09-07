@@ -1,0 +1,43 @@
+Final statistics — 2026-08-30T05:57:02.842477+00:00
+  seed 20260829; 2000 bootstrap resamples; BH correction within each family
+
+--- A_alphamissense
+  AlphaMissense: Ca ligands vs composition control                               n=271/323.0  Cliff's delta 0.962 [0.94, 0.982]  q=1.32e-90
+  AlphaMissense: motif non-ligands vs composition control                        n=143/323.0  Cliff's delta 0.64 [0.539, 0.731]  q=2.73e-28
+  AlphaMissense: cysteine-removing vs composition control                        n=1132/323.0  Cliff's delta 0.996 [0.991, 1.0]  q=3.93e-164
+
+--- B_stability
+  foldx_ddG (kcal/mol): Ca ligands vs composition control                        n=50/67.0  Cliff's delta 0.232 [0.02, 0.436]  q=0.0604
+  foldx_ddG (kcal/mol): motif non-ligands vs composition control                 n=26/67.0  Cliff's delta 0.101 [-0.153, 0.356]  q=0.454
+  foldx_ddG (kcal/mol): cysteine-removing vs composition control                 n=198/67.0  Cliff's delta 0.804 [0.727, 0.877]  q=2.29e-22
+  rosetta_ddG (REU): Ca ligands vs composition control                           n=271/323.0  Cliff's delta -0.038 [-0.131, 0.052]  q=0.454
+  rosetta_ddG (REU): motif non-ligands vs composition control                    n=143/323.0  Cliff's delta 0.119 [-0.005, 0.236]  q=0.0604
+  rosetta_ddG (REU): cysteine-removing vs composition control                    n=1038/323.0  Cliff's delta 0.531 [0.48, 0.579]  q=2.05e-46
+
+--- C_position
+  relative solvent accessibility: Ca ligands vs composition control              n=271/323.0  Cliff's delta -0.682 [-0.751, -0.615]  q=3.92e-46
+  rosetta_ddG within buried (RSA<20%): Ca ligands vs composition control         n=97/46.0  Cliff's delta -0.386 [-0.576, -0.182]  q=0.0003
+  rosetta_ddG within partial (20-50%): Ca ligands vs composition control         n=173/186.0  Cliff's delta -0.037 [-0.155, 0.081]  q=0.542
+
+--- D_geometry
+  delta BVS %: pathogenic Ca ligands vs all controls                             n=33/24.0  Cliff's delta -0.473 [-0.717, -0.192]  q=0.00564
+  local backbone RMSD: pathogenic Ca ligands vs all controls                     n=33/24.0  Cliff's delta 0.365 [0.037, 0.645]  q=0.0356
+  disruption rate: pathogenic Ca ligands vs all controls                         n=33/24.0  odds ratio 19.167 [29.8, 62.0]  q=0.00317
+  disruption rate: donor removed vs donor retained                               n=16/17.0  odds ratio 14.0 [50.5, 89.8]  q=0.00466
+  disruption rate: donor removed vs retained, at the Asp/Glu positions           n=13/12.0  odds ratio inf [42.4, 87.3]  q=0.00317
+  disruption rate: donor removed vs retained, at the β-OH Asn position           n=3/5.0  odds ratio inf [43.9, 100.0]  q=0.597
+  disruption rate: Asn→Ser at the β-OH Asn vs every other ligand substitution    n=3/30.0  odds ratio inf [43.9, 100.0]  q=0.125
+  Spearman(delta BVS %, Rosetta ddG) across pathogenic Ca ligands                n=33/nan  Spearman rho -0.089   q=0.623
+  AlphaMissense: disrupted vs intact Ca-ligand variants                          n=15/18.0  Cliff's delta 0.107 [-0.308, 0.496]  q=0.623
+
+--- E_enrichment
+  pathogenic vs population (gnomAD) at side-chain Ca ligand                      n=524/1901.0  odds ratio 3.409 [2.2075, 5.2698]  q=2.28e-07
+  pathogenic vs ClinVar benign at side-chain Ca ligand                           n=524/29.0  odds ratio 4.932 [0.2959, 82.2117]  q=0.293
+  pathogenic vs population (gnomAD) at backbone-only Ca ligand                   n=524/1901.0  odds ratio 0.049 [0.0172, 0.2119]  q=2.05e-12
+  pathogenic vs ClinVar benign at backbone-only Ca ligand                        n=524/29.0  odds ratio 0.107 [0.0116, 0.7126]  q=0.199
+  pathogenic vs population (gnomAD) at motif-overcalled (not a ligand)           n=524/1901.0  odds ratio 1.485 [0.902, 2.5087]  q=0.199
+  pathogenic vs ClinVar benign at motif-overcalled (not a ligand)                n=524/29.0  odds ratio 1.169 [0.1486, 4.4309]  q=1
+  pathogenic vs population (gnomAD) at cysteine position                         n=524/1901.0  odds ratio 140.327 [92.9928, 204.623]  q=2.31e-265
+  pathogenic vs ClinVar benign at cysteine position                              n=524/29.0  odds ratio 141.485 [8.5905, 2330.2767]  q=9.57e-15
+
+wrote results/statistics_final.tsv and results/statistics_final.md (29 rows)

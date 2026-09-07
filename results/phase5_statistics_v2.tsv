@@ -1,0 +1,13 @@
+family	test	n_a	n_b	median_a	median_b	cliffs_delta	ci_lo	ci_hi	delta_wt_matched	n_strata	p_raw	note	p_adj
+A_alphamissense	AlphaMissense: side-chain Ca ligands vs other positions	271	2213	0.9889	0.3106	0.797	0.772	0.821	0.958	3	6.4985491655313575e-102		1.949564749659407e-101
+A_alphamissense	AlphaMissense: side-chain Ca ligands vs other D/E/N positions	271	316	0.9889	0.2524	0.961	0.939	0.98	0.958	3	9.234709532246573e-90	composition control	1.8469419064493146e-89
+A_alphamissense	AlphaMissense: motif-overcalled positions vs other positions	143	2213	0.9374	0.3106	0.454	0.373	0.532	0.443	5	8.175213831098874e-20	should resemble background if the structural definition is right	1.2262820746648312e-19
+A_alphamissense	AlphaMissense: motif-overcalled vs true side-chain ligands	143	271	0.9374	0.9889	-0.517	-0.619	-0.409	-0.752	3	4.693808925575687e-18	definition check	5.632570710690825e-18
+A_alphamissense	AlphaMissense: backbone-only ligands vs other positions	166	2213	0.3699	0.3106	0.055	-0.026	0.135	0.144	9	0.23710232698781175	no substitution can remove a backbone carbonyl	0.23710232698781175
+A_alphamissense	AlphaMissense: cysteine-removing vs other positions	1038	2213	0.9984	0.3106	0.949	0.939	0.959		0	0.0		0.0
+B_foldx_ddg	ddG: side-chain Ca ligands vs all other positions	50	444	0.899	0.689	-0.013	-0.18	0.152	0.128	3	0.8812116219214935	the original comparison	0.8812116219214935
+B_foldx_ddg	ddG: side-chain Ca ligands vs other D/E/N positions	50	65	0.899	0.253	0.211	-0.001	0.416	0.128	3	0.05331921195933976	composition-matched	0.07109228261245301
+B_foldx_ddg	ddG: cysteine-removing vs other positions	198	444	4.368	0.689	0.644	0.568	0.717		0	7.906805086433914e-39		3.1627220345735656e-38
+B_foldx_ddg	ddG: buried vs exposed (RSA<20%)	310	441	3.499	0.665	0.482	0.403	0.552	0.384	14	2.2973015810091035e-29		4.594603162018207e-29
+C_geometry	RSA: side-chain Ca ligands vs other positions	271	2213	21.7	38.4	-0.478	-0.517	-0.435	-0.649	3	6.518110135225333e-38		1.3036220270450667e-37
+C_geometry	distance to nearest Ca: pathogenic vs benign	524	29	10.69	12.12	-0.264	-0.485	-0.046	1.0	1	0.016592245975201078	UNDERPOWERED: benign n=29	0.016592245975201078

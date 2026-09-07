@@ -1,0 +1,9 @@
+34_v2fig3_landscape.py: v2 landscape and coverage
+  A pathogenic   n=578
+  A vus          n=823
+  A benign       n=34
+  B coverage 751 -> 3831 of 4451
+  C ca_ligand              n=271
+  C composition_control    n=323
+  C motif_overcalled       n=143
+  C cys_removing           n=1132

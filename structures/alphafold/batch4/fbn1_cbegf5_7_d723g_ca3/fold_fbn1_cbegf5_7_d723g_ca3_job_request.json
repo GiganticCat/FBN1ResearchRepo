@@ -1,0 +1,24 @@
+[{
+ "name": "FBN1_cbEGF5-7_D723G_Ca3",
+ "modelSeeds": [
+  "2039313680"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "DMDECSIRNMCLNGMCINEDGSFKCICKPGFQLASDGRYCKDINECETPGICMNGRCVNTDGSYRCECFPGLAVGLDGRVCVDTHMRSTCYGGYKRGQCIKPLFGAVTKSECCCASTEYAFGEPCQPCPAQNSAEYQALCSSGPGMTSAGSGINECALDPDICPNGICENLRGTYKCICNSGYEVDSTGKNCV",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

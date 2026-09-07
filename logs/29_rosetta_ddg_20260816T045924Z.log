@@ -1,0 +1,113 @@
+Phase 5 revision — Rosetta ddG — 2026-08-16T04:59:24.106814+00:00
+  ref2015; metal bonds on (rebuilt per pass, no harmonic constraints); torsion space; 8.0 A repack/min shell; 1 repeats; 8 workers
+  1934 mutations: {'ca_ligand_sidechain': 271, 'ca_ligand_backbone': 166, 'motif_overcalled': 143, 'composition_control_DEN': 316, 'cys_removing': 1038}
+  21 prepared structures in /tmp/fbn1-rosetta
+
+  pre-relaxing 18 construct(s) — one-off, cached to /tmp/fbn1-rosetta
+    relaxed FBN1_cbEGF19-21_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF17-19_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF15-17_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF27-29_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF25-27_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF29-31_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF33-35_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF3-5_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF39-41_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF37-39_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF21-23_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF23-25_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF41-43_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF7-9_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF35-37_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF31-33_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF5-7_Ca3_relaxed_torsion_metal.pdb
+    relaxed FBN1_cbEGF9-11_Ca3_relaxed_torsion_metal.pdb
+  pre-relaxation took 175s
+
+  [25/1934] D1155N ca_ligand_sidechain      ok                   ddG -1.952 (0.3s)
+  [50/1934] N1298T ca_ligand_sidechain      ok                   ddG 2.084 (0.2s)
+  [75/1934] N1422T ca_ligand_sidechain      ok                   ddG -2.772 (0.3s)
+  [100/1934] D1766N ca_ligand_sidechain      ok                   ddG 0.282 (0.4s)
+  [125/1934] D1930Y ca_ligand_sidechain      ok                   ddG 1.452 (0.3s)
+  [150/1934] D530Y ca_ligand_sidechain      ok                   ddG 2.614 (0.4s)
+  [175/1934] N2223K ca_ligand_sidechain      ok                   ddG 4.751 (0.3s)
+  [200/1934] D2485E ca_ligand_sidechain      ok                   ddG 0.641 (0.2s)
+  [225/1934] E2610G ca_ligand_sidechain      ok                   ddG 3.158 (0.3s)
+  [250/1934] D765N ca_ligand_sidechain      ok                   ddG 0.033 (0.3s)
+  [275/1934] S268A ca_ligand_backbone       ok                   ddG 3.408 (0.3s)
+  [300/1934] I1156S ca_ligand_backbone       ok                   ddG 3.997 (0.2s)
+  [325/1934] G1426A ca_ligand_backbone       ok                   ddG 16.037 (0.3s)
+  [350/1934] T1950A ca_ligand_backbone       ok                   ddG 5.02 (0.2s)
+  [375/1934] E2248G ca_ligand_backbone       ok                   ddG 5.571 (0.2s)
+  [400/1934] S2547I ca_ligand_backbone       ok                   ddG 23.54 (0.2s)
+  [425/1934] I724K ca_ligand_backbone       ok                   ddG 9.077 (0.4s)
+  [450/1934] D1115Y motif_overcalled         ok                   ddG 5.488 (0.2s)
+  [475/1934] E1366Q motif_overcalled         ok                   ddG 0.822 (0.2s)
+  [500/1934] D1810Y motif_overcalled         ok                   ddG 3.666 (0.3s)
+  [525/1934] D2129G motif_overcalled         ok                   ddG 4.663 (0.2s)
+  [550/1934] F2548L motif_overcalled         ok                   ddG 9.79 (0.2s)
+  [575/1934] E768K motif_overcalled         ok                   ddG 0.501 (0.2s)
+  [600/1934] N386K composition_control_DEN  ok                   ddG -0.255 (0.3s)
+  [625/1934] D1232N composition_control_DEN  ok                   ddG 1.931 (0.2s)
+  [650/1934] D1398G composition_control_DEN  ok                   ddG 8.484 (0.2s)
+  [675/1934] N1581S composition_control_DEN  ok                   ddG 0.761 (0.2s)
+  [700/1934] E1823K composition_control_DEN  ok                   ddG 1.245 (0.2s)
+  [725/1934] D1967E composition_control_DEN  ok                   ddG 4.615 (0.2s)
+  [750/1934] E2097D composition_control_DEN  ok                   ddG 6.049 (0.3s)
+  [775/1934] E2229G composition_control_DEN  ok                   ddG 14.659 (0.2s)
+  [800/1934] N2334Y composition_control_DEN  ok                   ddG 0.236 (0.3s)
+  [825/1934] E2667A composition_control_DEN  ok                   ddG 1.513 (0.1s)
+  [850/1934] E740A composition_control_DEN  ok                   ddG 2.368 (0.4s)
+  [875/1934] E915K composition_control_DEN  ok                   ddG -0.17 (0.3s)
+  [900/1934] C262W cys_removing             ok                   ddG 426.766 (0.5s)
+  [925/1934] C377Y cys_removing             ok                   ddG 138.281 (0.6s)
+  [950/1934] C494R cys_removing             ok                   ddG 6.508 (0.7s)
+  [975/1934] C1095S cys_removing             ok                   ddG -2.155 (0.3s)
+  [1000/1934] C1124R cys_removing             ok                   ddG 34.387 (0.9s)
+  [1025/1934] C1223Y cys_removing             ok                   ddG 330.342 (0.4s)
+  [1050/1934] C1291S cys_removing             ok                   ddG 5.274 (0.2s)
+  [1075/1934] C1339F cys_removing             ok                   ddG 250.372 (0.4s)
+  [1100/1934] C1389Y cys_removing             ok                   ddG 40.373 (0.6s)
+  [1125/1934] C1431Y cys_removing             ok                   ddG 98.107 (0.4s)
+  [1150/1934] C1485R cys_removing             ok                   ddG 77.468 (0.5s)
+  [1175/1934] C1526S cys_removing             ok                   ddG 8.856 (0.5s)
+  [1200/1934] C1622R cys_removing             ok                   ddG 40.067 (0.6s)
+  [1225/1934] C1672F cys_removing             ok                   ddG 388.233 (0.9s)
+  [1250/1934] C1770R cys_removing             ok                   ddG 7.917 (0.4s)
+  [1275/1934] C1812S cys_removing             ok                   ddG -0.658 (0.3s)
+  [1300/1934] C1860R cys_removing             ok                   ddG 146.335 (0.5s)
+  [1325/1934] C1916Y cys_removing             ok                   ddG 2.058 (0.3s)
+  [1350/1934] C1958Y cys_removing             ok                   ddG -2.274 (0.3s)
+  [1375/1934] C2017G cys_removing             ok                   ddG -1.807 (0.2s)
+  [1400/1934] C546R cys_removing             ok                   ddG 33.491 (0.6s)
+  [1425/1934] C582R cys_removing             ok                   ddG 179.465 (0.5s)
+  [1450/1934] C2085S cys_removing             ok                   ddG -2.84 (0.4s)
+  [1475/1934] C2164Y cys_removing             ok                   ddG 208.083 (0.4s)
+  [1500/1934] C2217G cys_removing             ok                   ddG -5.042 (0.2s)
+  [1525/1934] C2251F cys_removing             ok                   ddG -0.279 (0.3s)
+  [1550/1934] C2295W cys_removing             ok                   ddG 2.507 (0.4s)
+  [1575/1934] C2363S cys_removing             ok                   ddG 4.022 (0.8s)
+  [1600/1934] C2429Y cys_removing             ok                   ddG 429.461 (0.5s)
+  [1625/1934] C2483S cys_removing             ok                   ddG 3.894 (0.3s)
+  [1650/1934] C2522Y cys_removing             ok                   ddG 1970.051 (0.5s)
+  [1675/1934] C2581S cys_removing             ok                   ddG 4.49 (0.3s)
+  [1700/1934] C2646Y cys_removing             ok                   ddG 1.828 (0.2s)
+  [1725/1934] C596G cys_removing             ok                   ddG 3.068 (0.3s)
+  [1750/1934] C628S cys_removing             ok                   ddG 4.039 (0.3s)
+  [1775/1934] C684F cys_removing             ok                   ddG 64.559 (0.5s)
+  [1800/1934] C739Y cys_removing             ok                   ddG 200.721 (0.6s)
+  [1825/1934] C790Y cys_removing             ok                   ddG 156.385 (0.4s)
+  [1850/1934] C830Y cys_removing             ok                   ddG 106.236 (0.7s)
+  [1875/1934] C887Y cys_removing             ok                   ddG 544.498 (0.8s)
+  [1900/1934] C926R cys_removing             ok                   ddG 103.295 (0.6s)
+  [1925/1934] C1032R cys_removing             ok                   ddG -4.848 (0.4s)
+
+  1934/1934 succeeded in 105s (0.1s per mutation wall-clock at 8 workers)
+
+  ca_ligand_backbone         n= 166  median ddG +5.019
+  ca_ligand_sidechain        n= 271  median ddG +2.331
+  composition_control_DEN    n= 316  median ddG +2.117
+  cys_removing               n=1038  median ddG +24.761
+  motif_overcalled           n= 143  median ddG +3.270
+
+wrote data/processed/rosetta_ddg.tsv  (1934 rows)

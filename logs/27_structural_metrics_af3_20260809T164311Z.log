@@ -1,0 +1,37 @@
+Phase 5 revision — structural metrics on AF3 batch 2 — 2026-08-09T16:43:11.104998+00:00
+  reference 2871 aa; 155 disulfide bonds from UniProt
+  120 side-chain calcium ligands, 129 backbone-only, from 404 coordinating atoms
+
+Measuring 21 constructs, 5 models each
+  FBN1_cbEGF1-3_Ca3          OK  284 residues
+  FBN1_cbEGF11-13_Ca3        OK  127 residues
+  FBN1_cbEGF13-15_Ca3        OK  125 residues
+  FBN1_cbEGF15-17_Ca3        OK  125 residues
+  FBN1_cbEGF17-19_Ca3        OK  124 residues
+  FBN1_cbEGF19-21_Ca3        OK  124 residues
+  FBN1_cbEGF21-23_Ca3        OK  202 residues
+  FBN1_cbEGF23-25_Ca3        OK  202 residues
+  FBN1_cbEGF25-27_Ca3        OK  125 residues
+  FBN1_cbEGF27-29_Ca3        OK  124 residues
+  FBN1_cbEGF29-31_Ca3        OK  125 residues
+  FBN1_cbEGF3-5_Ca3          OK  123 residues
+  FBN1_cbEGF31-33_Ca3        OK  193 residues
+  FBN1_cbEGF33-35_Ca3        OK  125 residues
+  FBN1_cbEGF35-37_Ca3        OK  197 residues
+  FBN1_cbEGF37-39_Ca3        OK  122 residues
+  FBN1_cbEGF39-41_Ca3        OK  122 residues
+  FBN1_cbEGF41-43_Ca3        OK  121 residues
+  FBN1_cbEGF5-7_Ca3          OK  193 residues
+  FBN1_cbEGF7-9_Ca3          OK  124 residues
+  FBN1_cbEGF9-11_Ca3         OK  263 residues
+
+2442 distinct P35555 positions covered by at least one construct
+3831 variants given structural metrics; 0 dropped on WT identity mismatch
+wrote data/processed/structural_metrics_af3.tsv  (3831 rows)
+
+  by class: {'unlabelled': 2600, 'pathogenic': 524, 'benign': 29, 'vus': 678}
+  at a side-chain calcium ligand : 271 (Counter({'unlabelled': 208, 'pathogenic': 40, 'vus': 23}))
+  cysteine-removing              : 1038
+  consensus-flagged but not a ligand in any model: 143
+  median RSA at calcium ligands  : 21.7%
+wrote results/phase5_structural_af3.md

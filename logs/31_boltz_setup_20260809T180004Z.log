@@ -1,0 +1,30 @@
+Phase 5 revision — Boltz-2 setup — 2026-08-09T18:00:04.859753+00:00
+  21 constructs; reference 2871 aa
+  validating on FBN1_cbEGF31-33_Ca3: 193 aa, 3 Ca, MSA fold_fbn1_cbegf31_33_ca3_unpaired_msa_chains_a.a3m (14154 seqs)
+  wrote structures/boltz/inputs/FBN1_cbEGF31-33_Ca3_wt.yaml
+  running: /home/harvey/research/fbn1-marfan/.venv-boltz/bin/boltz predict /home/harvey/research/fbn1-marfan/structures/boltz/inputs/FBN1_cbEGF31-33_Ca3_wt.yaml --out_dir /home/harvey/research/fbn1-marfan/structures/boltz/predictions --diffusion_samples 1 --output_format mmcif --override
+    Checking input data.
+    All inputs are already processed.
+    Processing 0 inputs with 0 threads.
+    Running structure prediction for 1 input.
+    
+    Predicting: |          | 0/? [00:00<?, ?it/s]
+    Predicting:   0%|          | 0/1 [00:00<?, ?it/s]
+    Predicting DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]
+    Predicting DataLoader 0:   0%|          | 0/1 [00:35<?, ?it/s]
+  FAILED after 157s (exit 1)
+    stderr:   File "/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    stderr:     return self._call_impl(*args, **kwargs)
+    stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    stderr:   File "/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    stderr:     return forward_call(*args, **kwargs)
+    stderr:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    stderr:   File "/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/boltz/model/layers/triangular_mult.py", line 92, in forward
+    stderr:     return kernel_triangular_mult(
+    stderr:            ^^^^^^^^^^^^^^^^^^^^^^^
+    stderr:   File "/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/torch/_dynamo/eval_frame.py", line 745, in _fn
+    stderr:     return fn(*args, **kwargs)
+    stderr:            ^^^^^^^^^^^^^^^^^^^
+    stderr:   File "/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/boltz/model/layers/triangular_mult.py", line 22, in kernel_triangular_mult
+    stderr:     from cuequivariance_torch.primitives.triangle import triangle_multiplicative_update
+    stderr: ModuleNotFoundError: No module named 'cuequivariance_torch'

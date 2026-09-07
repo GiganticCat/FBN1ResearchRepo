@@ -1,0 +1,381 @@
+Phase 6 — Figure 4 — seed 20260802
+PyMOL 3.1.0
+2W86 carries 254 covered variants, 30 pathogenic
+  by mechanism: {'ca_ligand': 1, 'cys_removing': 8, 'other_cbegf': 0}, outside cbEGF: 11
+cbEGF9 AF3 model 0: Ca deviation 0.134 A, backbone RMSD 0.337 A
+  rendering fig4_A_fragment
+    [pymol]  Setting: ray_opaque_background set to 1.
+    [pymol]  Setting: antialias set to 2.
+    [pymol]  Setting: ray_shadow set to off.
+    [pymol]  Setting: specular set to 0.25000.
+    [pymol]  Setting: cartoon_transparency set to 0.00000.
+    [pymol]  Setting: cartoon_loop_radius set to 0.20000.
+    [pymol]  Setting: cartoon_tube_radius set to 0.28000.
+    [pymol]  Setting: stick_radius set to 0.11000.
+    [pymol]  Setting: dash_gap set to 0.28000.
+    [pymol]  Setting: dash_radius set to 0.03500.
+    [pymol]  Setting: dash_color set to grey40.
+    [pymol]  Setting: label_size set to 17.00000.
+    [pymol]  Setting: label_color set to black.
+    [pymol]  Setting: label_outline_color set to white.
+    [pymol]  Setting: label_bg_color set to white.
+    [pymol]  Setting: label_bg_transparency set to 0.25000.
+    [pymol]  Setting: label_position set to [ 0.00000, 0.00000, 2.20000 ].
+    [pymol]  Setting: label_font_id set to 7.
+    [pymol]  Color: "pal_ca" defined as [ 0.106, 0.686, 0.478 ].
+    [pymol]  Color: "pal_cys" defined as [ 0.290, 0.227, 0.655 ].
+    [pymol]  Color: "pal_other" defined as [ 0.478, 0.478, 0.455 ].
+    [pymol]  Color: "pal_af3" defined as [ 0.165, 0.471, 0.839 ].
+    [pymol]  Color: "pal_exp" defined as [ 0.322, 0.318, 0.306 ].
+    [pymol]  CmdLoad: "" loaded as "exp".
+    [pymol]  Remove: eliminated 11 atoms in model "exp".
+    [pymol]  Executive: Colored 1107 atoms.
+    [pymol]  Executive: Colored 301 atoms.
+    [pymol]  Executive: Colored 396 atoms.
+    [pymol]  Executive: Colored 307 atoms.
+    [pymol]  Executive: Colored 2 atoms.
+    [pymol]  Setting: sphere_scale set for 2 atoms in object "exp".
+    [pymol]  Executive: Colored 36 atoms.
+    [pymol]  Executive: Colored 12 atoms.
+    [pymol]  Setting: stick_radius set for 66 bonds in object "exp".
+    [pymol]  Ray: render time: 0.58 sec. = 6218.8 frames/hour (0.58 sec. accum.).
+    [pymol]  ScenePNG: wrote 1500x1350 pixel image to file "/home/harvey/research/fbn1-marfan/figures/panels/fig4_A_fragment.png".
+    [pymol] PyMOL>bg_color white
+    [pymol] PyMOL>set ray_opaque_background, 1
+    [pymol] PyMOL>set antialias, 2
+    [pymol] PyMOL>set ray_shadows, 0
+    [pymol] PyMOL>set specular, 0.25
+    [pymol] PyMOL>set cartoon_transparency, 0.0
+    [pymol] PyMOL>set cartoon_loop_radius, 0.20
+    [pymol] PyMOL>set cartoon_tube_radius, 0.28
+    [pymol] PyMOL>set stick_radius, 0.11
+    [pymol] PyMOL>set sphere_scale, 0.45, elem Ca
+    [pymol] PyMOL>set dash_gap, 0.28
+    [pymol] PyMOL>set dash_radius, 0.035
+    [pymol] PyMOL>set dash_color, grey40
+    [pymol] PyMOL>set label_size, 17
+    [pymol] PyMOL>set label_color, black
+    [pymol] PyMOL>set label_outline_color, white
+    [pymol] PyMOL>set label_bg_color, white
+    [pymol] PyMOL>set label_bg_transparency, 0.25
+    [pymol] PyMOL>set label_position, (0, 0, 2.2)
+    [pymol] PyMOL>set label_font_id, 7
+    [pymol] PyMOL>set_color pal_ca,     [0.106, 0.686, 0.478]
+    [pymol] PyMOL>set_color pal_cys,    [0.290, 0.227, 0.655]
+    [pymol] PyMOL>set_color pal_other,  [0.478, 0.478, 0.455]
+    [pymol] PyMOL>set_color pal_af3,    [0.165, 0.471, 0.839]
+    [pymol] PyMOL>set_color pal_exp,    [0.322, 0.318, 0.306]
+    [pymol] PyMOL>load /home/harvey/research/fbn1-marfan/handoff/cmm/inbox/EXP_2W86_cbEGF9-hyb2-cbEGF10.pdb, exp
+    [pymol] PyMOL>remove exp and resi 805-806
+    [pymol] PyMOL>hide everything
+    [pymol] PyMOL>show cartoon, exp and polymer
+    [pymol] PyMOL>color grey85, exp and polymer
+    [pymol] PyMOL>color skyblue, exp and resi 807-846
+    [pymol] PyMOL>color grey50,  exp and resi 851-902
+    [pymol] PyMOL>color skyblue, exp and resi 910-951
+    [pymol] PyMOL>show spheres, exp and elem Ca
+    [pymol] PyMOL>color pal_ca, exp and elem Ca
+    [pymol] PyMOL>set sphere_scale, 0.55, elem Ca
+    [pymol] PyMOL>show sticks, exp and resi 811+821+816+830+832+845+914+926+921+935+937+950 and (sidechain or name CA)
+    [pymol] PyMOL>color pal_cys, exp and resi 811+821+816+830+832+845+914+926+921+935+937+950 and elem C
+    [pymol] PyMOL>color yellow,  exp and resi 811+821+816+830+832+845+914+926+921+935+937+950 and elem S
+    [pymol] PyMOL>set stick_radius, 0.18, exp and resi 811+821+816+830+832+845+914+926+921+935+937+950
+    [pymol] PyMOL>orient exp and polymer
+    [pymol] PyMOL>turn x, -12
+    [pymol] PyMOL>zoom exp and polymer, 1.0
+    [pymol] PyMOL>ray 1500, 1350
+    [pymol] PyMOL>png /home/harvey/research/fbn1-marfan/figures/panels/fig4_A_fragment.png, dpi=300
+    [pymol] PyMOL>print("VIEW fig4_A_fragment", cmd.get_view())
+    [pymol] VIEW fig4_A_fragment (0.254526287317276, 0.9571661949157715, 0.1380193531513214, -0.09348872303962708, 0.1664050817489624, -0.9816157817840576, -0.9625363945960999, 0.23694375157356262, 0.13183870911598206, 0.0, 0.0, -187.19102478027344, 17.64390754699707, 28.043216705322266, 58.182830810546875, 147.58282470703125, 226.79922485351562, -20.0)
+    cropped to 1319x656 px
+  rendering fig4_B_casite
+    [pymol]  Setting: ray_opaque_background set to 1.
+    [pymol]  Setting: antialias set to 2.
+    [pymol]  Setting: ray_shadow set to off.
+    [pymol]  Setting: specular set to 0.25000.
+    [pymol]  Setting: cartoon_transparency set to 0.00000.
+    [pymol]  Setting: cartoon_loop_radius set to 0.20000.
+    [pymol]  Setting: cartoon_tube_radius set to 0.28000.
+    [pymol]  Setting: stick_radius set to 0.11000.
+    [pymol]  Setting: dash_gap set to 0.28000.
+    [pymol]  Setting: dash_radius set to 0.03500.
+    [pymol]  Setting: dash_color set to grey40.
+    [pymol]  Setting: label_size set to 17.00000.
+    [pymol]  Setting: label_color set to black.
+    [pymol]  Setting: label_outline_color set to white.
+    [pymol]  Setting: label_bg_color set to white.
+    [pymol]  Setting: label_bg_transparency set to 0.25000.
+    [pymol]  Setting: label_position set to [ 0.00000, 0.00000, 2.20000 ].
+    [pymol]  Setting: label_font_id set to 7.
+    [pymol]  Color: "pal_ca" defined as [ 0.106, 0.686, 0.478 ].
+    [pymol]  Color: "pal_cys" defined as [ 0.290, 0.227, 0.655 ].
+    [pymol]  Color: "pal_other" defined as [ 0.478, 0.478, 0.455 ].
+    [pymol]  Color: "pal_af3" defined as [ 0.165, 0.471, 0.839 ].
+    [pymol]  Color: "pal_exp" defined as [ 0.322, 0.318, 0.306 ].
+    [pymol]  CmdLoad: "" loaded as "exp".
+    [pymol]  Remove: eliminated 11 atoms in model "exp".
+    [pymol]  Selector: selection "ca9" defined with 1 atoms.
+    [pymol]  Executive: Colored 301 atoms.
+    [pymol]  Setting: cartoon_transparency set to 0.60000 in object "exp".
+    [pymol]  Executive: Colored 1 atom.
+    [pymol]  Setting: sphere_scale set for 1 atoms in object "exp".
+    [pymol]  Executive: Colored 13 atoms.
+    [pymol]  Executive: Colored 12 atoms.
+    [pymol]  Executive: object "d807" created.
+    [pymol]  Executive: object "d810" created.
+    [pymol]  Executive: object "d823" created.
+    [pymol]  Executive: object "b808" created.
+    [pymol]  Executive: object "b824" created.
+    [pymol]  Executive: object "b827" created.
+    [pymol]  Label: labelled 1 atoms.
+    [pymol]  Label: labelled 1 atoms.
+    [pymol]  Label: labelled 1 atoms.
+    [pymol]  Ray: render time: 0.47 sec. = 7712.5 frames/hour (0.47 sec. accum.).
+    [pymol]  ScenePNG: wrote 1500x1350 pixel image to file "/home/harvey/research/fbn1-marfan/figures/panels/fig4_B_casite.png".
+    [pymol] PyMOL>bg_color white
+    [pymol] PyMOL>set ray_opaque_background, 1
+    [pymol] PyMOL>set antialias, 2
+    [pymol] PyMOL>set ray_shadows, 0
+    [pymol] PyMOL>set specular, 0.25
+    [pymol] PyMOL>set cartoon_transparency, 0.0
+    [pymol] PyMOL>set cartoon_loop_radius, 0.20
+    [pymol] PyMOL>set cartoon_tube_radius, 0.28
+    [pymol] PyMOL>set stick_radius, 0.11
+    [pymol] PyMOL>set sphere_scale, 0.45, elem Ca
+    [pymol] PyMOL>set dash_gap, 0.28
+    [pymol] PyMOL>set dash_radius, 0.035
+    [pymol] PyMOL>set dash_color, grey40
+    [pymol] PyMOL>set label_size, 17
+    [pymol] PyMOL>set label_color, black
+    [pymol] PyMOL>set label_outline_color, white
+    [pymol] PyMOL>set label_bg_color, white
+    [pymol] PyMOL>set label_bg_transparency, 0.25
+    [pymol] PyMOL>set label_position, (0, 0, 2.2)
+    [pymol] PyMOL>set label_font_id, 7
+    [pymol] PyMOL>set_color pal_ca,     [0.106, 0.686, 0.478]
+    [pymol] PyMOL>set_color pal_cys,    [0.290, 0.227, 0.655]
+    [pymol] PyMOL>set_color pal_other,  [0.478, 0.478, 0.455]
+    [pymol] PyMOL>set_color pal_af3,    [0.165, 0.471, 0.839]
+    [pymol] PyMOL>set_color pal_exp,    [0.322, 0.318, 0.306]
+    [pymol] PyMOL>load /home/harvey/research/fbn1-marfan/handoff/cmm/inbox/EXP_2W86_cbEGF9-hyb2-cbEGF10.pdb, exp
+    [pymol] PyMOL>remove exp and resi 805-806
+    [pymol] PyMOL>hide everything
+    [pymol] PyMOL>select ca9, exp and elem Ca within 8 of (exp and resi 807-846)
+    [pymol] PyMOL>show cartoon, exp and resi 807-846
+    [pymol] PyMOL>color grey85, exp and resi 807-846
+    [pymol] PyMOL>set cartoon_transparency, 0.6, exp
+    [pymol] PyMOL>show spheres, ca9
+    [pymol] PyMOL>color pal_ca, ca9
+    [pymol] PyMOL>set sphere_scale, 0.28, ca9
+    [pymol] PyMOL>show sticks, exp and resi 807+810+823 and (sidechain or name CA)
+    [pymol] PyMOL>color pal_ca, exp and resi 807+810+823 and elem C
+    [pymol] PyMOL>show sticks, exp and resi 808+824+827 and name C+O+CA
+    [pymol] PyMOL>color grey45, exp and resi 808+824+827 and elem C
+    [pymol] PyMOL>distance d807, (exp and resi 807 and sidechain and (elem O+N)), (ca9), 3.2, 0
+    [pymol] PyMOL>distance d810, (exp and resi 810 and sidechain and (elem O+N)), (ca9), 3.2, 0
+    [pymol] PyMOL>distance d823, (exp and resi 823 and sidechain and (elem O+N)), (ca9), 3.2, 0
+    [pymol] PyMOL>distance b808, (exp and resi 808 and name O), (ca9), 3.4, 0
+    [pymol] PyMOL>distance b824, (exp and resi 824 and name O), (ca9), 3.4, 0
+    [pymol] PyMOL>distance b827, (exp and resi 827 and name O), (ca9), 3.4, 0
+    [pymol] PyMOL>hide labels, d* b*
+    [pymol] PyMOL>label exp and resi 807 and name CB, "Asp807"
+    [pymol] PyMOL>label exp and resi 810 and name CB, "Glu810"
+    [pymol] PyMOL>label exp and resi 823 and name CB, "Asn823"
+    [pymol] PyMOL>orient (exp and resi 807+810+823+808+824+827) or ca9
+    [pymol] PyMOL>turn y, 20
+    [pymol] PyMOL>zoom ((exp and resi 807+810+823+808+824+827) or ca9), 2.2
+    [pymol] PyMOL>ray 1500, 1350
+    [pymol] PyMOL>png /home/harvey/research/fbn1-marfan/figures/panels/fig4_B_casite.png, dpi=300
+    [pymol] PyMOL>print("VIEW fig4_B_casite", cmd.get_view())
+    [pymol] VIEW fig4_B_casite (0.8363649249076843, 0.5028225779533386, -0.21831929683685303, -0.01934075355529785, 0.4250865578651428, 0.9049460291862488, 0.5478318929672241, -0.7526426911354065, 0.36525243520736694, 0.0, 0.0, -48.745155334472656, 19.400915145874023, 31.212085723876953, 31.556238174438477, 38.431053161621094, 59.05925750732422, -20.0)
+    cropped to 1108x1057 px
+  rendering fig4_C_af3_overlay
+    [pymol]  Setting: ray_opaque_background set to 1.
+    [pymol]  Setting: antialias set to 2.
+    [pymol]  Setting: ray_shadow set to off.
+    [pymol]  Setting: specular set to 0.25000.
+    [pymol]  Setting: cartoon_transparency set to 0.00000.
+    [pymol]  Setting: cartoon_loop_radius set to 0.20000.
+    [pymol]  Setting: cartoon_tube_radius set to 0.28000.
+    [pymol]  Setting: stick_radius set to 0.11000.
+    [pymol]  Setting: dash_gap set to 0.28000.
+    [pymol]  Setting: dash_radius set to 0.03500.
+    [pymol]  Setting: dash_color set to grey40.
+    [pymol]  Setting: label_size set to 17.00000.
+    [pymol]  Setting: label_color set to black.
+    [pymol]  Setting: label_outline_color set to white.
+    [pymol]  Setting: label_bg_color set to white.
+    [pymol]  Setting: label_bg_transparency set to 0.25000.
+    [pymol]  Setting: label_position set to [ 0.00000, 0.00000, 2.20000 ].
+    [pymol]  Setting: label_font_id set to 7.
+    [pymol]  Color: "pal_ca" defined as [ 0.106, 0.686, 0.478 ].
+    [pymol]  Color: "pal_cys" defined as [ 0.290, 0.227, 0.655 ].
+    [pymol]  Color: "pal_other" defined as [ 0.478, 0.478, 0.455 ].
+    [pymol]  Color: "pal_af3" defined as [ 0.165, 0.471, 0.839 ].
+    [pymol]  Color: "pal_exp" defined as [ 0.322, 0.318, 0.306 ].
+    [pymol]  CmdLoad: "" loaded as "exp".
+    [pymol]  Remove: eliminated 11 atoms in model "exp".
+    [pymol]  CmdLoad: "" loaded as "af3".
+    [pymol]  Selector: selection "exp9" defined with 301 atoms.
+    [pymol]  Selector: selection "af39" defined with 288 atoms.
+    [pymol]  Match: read scoring matrix.
+    [pymol]  Match: assigning 40 x 40 pairwise scores.
+    [pymol]  MatchAlign: aligning residues (40 vs 40)...
+    [pymol]  MatchAlign: score 224.000
+    [pymol]  ExecutiveAlign: 160 atoms aligned.
+    [pymol]  ExecutiveRMS: 6 atoms rejected during cycle 1 (RMSD=0.35).
+    [pymol]  ExecutiveRMS: 4 atoms rejected during cycle 2 (RMSD=0.31).
+    [pymol]  ExecutiveRMS: 4 atoms rejected during cycle 3 (RMSD=0.29).
+    [pymol]  ExecutiveRMS: 2 atoms rejected during cycle 4 (RMSD=0.27).
+    [pymol]  ExecutiveRMS: 1 atoms rejected during cycle 5 (RMSD=0.27).
+    [pymol]  Executive: RMSD =    0.263 (143 to 143 atoms)
+    [pymol]  Executive: Colored 301 atoms.
+    [pymol]  Executive: Colored 288 atoms.
+    [pymol]  Selector: selection "caE" defined with 1 atoms.
+    [pymol]  Selector: selection "caA" defined with 1 atoms.
+    [pymol]  Executive: Colored 1 atom.
+    [pymol]  Executive: Colored 1 atom.
+    [pymol]  Setting: sphere_scale set for 1 atoms in object "exp".
+    [pymol]  Setting: sphere_scale set for 1 atoms in object "af3".
+    [pymol]  Setting: sphere_transparency set for 1 atoms in object "exp".
+    [pymol]  Ray: render time: 0.45 sec. = 8014.4 frames/hour (0.45 sec. accum.).
+    [pymol]  ScenePNG: wrote 1500x1350 pixel image to file "/home/harvey/research/fbn1-marfan/figures/panels/fig4_C_af3_overlay.png".
+    [pymol] PyMOL>bg_color white
+    [pymol] PyMOL>set ray_opaque_background, 1
+    [pymol] PyMOL>set antialias, 2
+    [pymol] PyMOL>set ray_shadows, 0
+    [pymol] PyMOL>set specular, 0.25
+    [pymol] PyMOL>set cartoon_transparency, 0.0
+    [pymol] PyMOL>set cartoon_loop_radius, 0.20
+    [pymol] PyMOL>set cartoon_tube_radius, 0.28
+    [pymol] PyMOL>set stick_radius, 0.11
+    [pymol] PyMOL>set sphere_scale, 0.45, elem Ca
+    [pymol] PyMOL>set dash_gap, 0.28
+    [pymol] PyMOL>set dash_radius, 0.035
+    [pymol] PyMOL>set dash_color, grey40
+    [pymol] PyMOL>set label_size, 17
+    [pymol] PyMOL>set label_color, black
+    [pymol] PyMOL>set label_outline_color, white
+    [pymol] PyMOL>set label_bg_color, white
+    [pymol] PyMOL>set label_bg_transparency, 0.25
+    [pymol] PyMOL>set label_position, (0, 0, 2.2)
+    [pymol] PyMOL>set label_font_id, 7
+    [pymol] PyMOL>set_color pal_ca,     [0.106, 0.686, 0.478]
+    [pymol] PyMOL>set_color pal_cys,    [0.290, 0.227, 0.655]
+    [pymol] PyMOL>set_color pal_other,  [0.478, 0.478, 0.455]
+    [pymol] PyMOL>set_color pal_af3,    [0.165, 0.471, 0.839]
+    [pymol] PyMOL>set_color pal_exp,    [0.322, 0.318, 0.306]
+    [pymol] PyMOL>load /home/harvey/research/fbn1-marfan/handoff/cmm/inbox/EXP_2W86_cbEGF9-hyb2-cbEGF10.pdb, exp
+    [pymol] PyMOL>remove exp and resi 805-806
+    [pymol] PyMOL>hide everything
+    [pymol] PyMOL>load /home/harvey/research/fbn1-marfan/handoff/cmm/inbox/AF3_cbEGF9-hyb2-cbEGF10_model0.pdb, af3
+    [pymol] PyMOL>hide everything
+    [pymol] PyMOL>select exp9, exp and resi 807-846
+    [pymol] PyMOL>select af39, af3 and resi 807-846
+    [pymol] PyMOL>align af39 and name CA+C+N+O, exp9 and name CA+C+N+O
+    [pymol] PyMOL>show cartoon, exp9
+    [pymol] PyMOL>show cartoon, af39
+    [pymol] PyMOL>color pal_exp, exp9
+    [pymol] PyMOL>color pal_af3, af39
+    [pymol] PyMOL>select caE, exp and elem Ca within 8 of exp9
+    [pymol] PyMOL>select caA, af3 and elem Ca within 8 of af39
+    [pymol] PyMOL>show spheres, caE
+    [pymol] PyMOL>show spheres, caA
+    [pymol] PyMOL>color pal_exp, caE
+    [pymol] PyMOL>color pal_af3, caA
+    [pymol] PyMOL>set sphere_scale, 0.45, caE
+    [pymol] PyMOL>set sphere_scale, 0.18, caA
+    [pymol] PyMOL>set sphere_transparency, 0.55, caE
+    [pymol] PyMOL>print("ATOMS caE", cmd.count_atoms("caE"), "caA", cmd.count_atoms("caA"))
+    [pymol] ATOMS caE 1 caA 1
+    [pymol] PyMOL>orient exp9
+    [pymol] PyMOL>turn y, 20
+    [pymol] PyMOL>zoom exp9, 1.5
+    [pymol] PyMOL>ray 1500, 1350
+    [pymol] PyMOL>png /home/harvey/research/fbn1-marfan/figures/panels/fig4_C_af3_overlay.png, dpi=300
+    [pymol] PyMOL>print("VIEW fig4_C_af3_overlay", cmd.get_view())
+    [pymol] VIEW fig4_C_af3_overlay (-0.030363142490386963, 0.04398997128009796, -0.998570442199707, -0.5521929860115051, 0.8320016860961914, 0.05344244837760925, 0.8331632614135742, 0.5530262589454651, -0.0009712278842926025, 0.0, 0.0, -92.05723571777344, 21.43362045288086, 26.47237777709961, 40.90817642211914, 72.57862854003906, 111.53584289550781, -20.0)
+    cropped to 1204x744 px
+  rendering fig4_D_variants
+    [pymol]  Setting: ray_opaque_background set to 1.
+    [pymol]  Setting: antialias set to 2.
+    [pymol]  Setting: ray_shadow set to off.
+    [pymol]  Setting: specular set to 0.25000.
+    [pymol]  Setting: cartoon_transparency set to 0.00000.
+    [pymol]  Setting: cartoon_loop_radius set to 0.20000.
+    [pymol]  Setting: cartoon_tube_radius set to 0.28000.
+    [pymol]  Setting: stick_radius set to 0.11000.
+    [pymol]  Setting: dash_gap set to 0.28000.
+    [pymol]  Setting: dash_radius set to 0.03500.
+    [pymol]  Setting: dash_color set to grey40.
+    [pymol]  Setting: label_size set to 17.00000.
+    [pymol]  Setting: label_color set to black.
+    [pymol]  Setting: label_outline_color set to white.
+    [pymol]  Setting: label_bg_color set to white.
+    [pymol]  Setting: label_bg_transparency set to 0.25000.
+    [pymol]  Setting: label_position set to [ 0.00000, 0.00000, 2.20000 ].
+    [pymol]  Setting: label_font_id set to 7.
+    [pymol]  Color: "pal_ca" defined as [ 0.106, 0.686, 0.478 ].
+    [pymol]  Color: "pal_cys" defined as [ 0.290, 0.227, 0.655 ].
+    [pymol]  Color: "pal_other" defined as [ 0.478, 0.478, 0.455 ].
+    [pymol]  Color: "pal_af3" defined as [ 0.165, 0.471, 0.839 ].
+    [pymol]  Color: "pal_exp" defined as [ 0.322, 0.318, 0.306 ].
+    [pymol]  CmdLoad: "" loaded as "exp".
+    [pymol]  Remove: eliminated 11 atoms in model "exp".
+    [pymol]  Executive: Colored 1107 atoms.
+    [pymol]  Executive: Colored 2 atoms.
+    [pymol]  Setting: sphere_scale set for 2 atoms in object "exp".
+    [pymol]  Executive: Colored 8 atoms.
+    [pymol]  Executive: Colored 1 atom.
+    [pymol]  Executive: Colored 11 atoms.
+    [pymol]  Setting: sphere_scale set for 154 atoms in object "exp".
+    [pymol]  Ray: render time: 0.52 sec. = 6931.1 frames/hour (0.52 sec. accum.).
+    [pymol]  ScenePNG: wrote 1500x1350 pixel image to file "/home/harvey/research/fbn1-marfan/figures/panels/fig4_D_variants.png".
+    [pymol] PyMOL>bg_color white
+    [pymol] PyMOL>set ray_opaque_background, 1
+    [pymol] PyMOL>set antialias, 2
+    [pymol] PyMOL>set ray_shadows, 0
+    [pymol] PyMOL>set specular, 0.25
+    [pymol] PyMOL>set cartoon_transparency, 0.0
+    [pymol] PyMOL>set cartoon_loop_radius, 0.20
+    [pymol] PyMOL>set cartoon_tube_radius, 0.28
+    [pymol] PyMOL>set stick_radius, 0.11
+    [pymol] PyMOL>set sphere_scale, 0.45, elem Ca
+    [pymol] PyMOL>set dash_gap, 0.28
+    [pymol] PyMOL>set dash_radius, 0.035
+    [pymol] PyMOL>set dash_color, grey40
+    [pymol] PyMOL>set label_size, 17
+    [pymol] PyMOL>set label_color, black
+    [pymol] PyMOL>set label_outline_color, white
+    [pymol] PyMOL>set label_bg_color, white
+    [pymol] PyMOL>set label_bg_transparency, 0.25
+    [pymol] PyMOL>set label_position, (0, 0, 2.2)
+    [pymol] PyMOL>set label_font_id, 7
+    [pymol] PyMOL>set_color pal_ca,     [0.106, 0.686, 0.478]
+    [pymol] PyMOL>set_color pal_cys,    [0.290, 0.227, 0.655]
+    [pymol] PyMOL>set_color pal_other,  [0.478, 0.478, 0.455]
+    [pymol] PyMOL>set_color pal_af3,    [0.165, 0.471, 0.839]
+    [pymol] PyMOL>set_color pal_exp,    [0.322, 0.318, 0.306]
+    [pymol] PyMOL>load /home/harvey/research/fbn1-marfan/handoff/cmm/inbox/EXP_2W86_cbEGF9-hyb2-cbEGF10.pdb, exp
+    [pymol] PyMOL>remove exp and resi 805-806
+    [pymol] PyMOL>hide everything
+    [pymol] PyMOL>show cartoon, exp and polymer
+    [pymol] PyMOL>color grey85, exp and polymer
+    [pymol] PyMOL>show spheres, exp and elem Ca
+    [pymol] PyMOL>color pal_ca, exp and elem Ca
+    [pymol] PyMOL>set sphere_scale, 0.35, elem Ca
+    [pymol] PyMOL>show spheres, exp and resi 811+816+830+832+914+921+926+937 and name CA
+    [pymol] PyMOL>color pal_cys, exp and resi 811+816+830+832+914+921+926+937 and name CA
+    [pymol] PyMOL>show spheres, exp and resi 913 and name CA
+    [pymol] PyMOL>color pal_ca,  exp and resi 913 and name CA
+    [pymol] PyMOL>show spheres, exp and resi 853+862+875+876+880+882+883+884+887+890+908 and name CA
+    [pymol] PyMOL>color grey40,  exp and resi 853+862+875+876+880+882+883+884+887+890+908 and name CA
+    [pymol] PyMOL>set sphere_scale, 0.85, name CA
+    [pymol] PyMOL>orient exp and polymer
+    [pymol] PyMOL>turn x, -12
+    [pymol] PyMOL>zoom exp and polymer, 1.0
+    [pymol] PyMOL>ray 1500, 1350
+    [pymol] PyMOL>png /home/harvey/research/fbn1-marfan/figures/panels/fig4_D_variants.png, dpi=300
+    [pymol] PyMOL>print("VIEW fig4_D_variants", cmd.get_view())
+    [pymol] VIEW fig4_D_variants (0.254526287317276, 0.9571661949157715, 0.1380193531513214, -0.09348872303962708, 0.1664050817489624, -0.9816157817840576, -0.9625363945960999, 0.23694375157356262, 0.13183870911598206, 0.0, 0.0, -187.19102478027344, 17.64390754699707, 28.043216705322266, 58.182830810546875, 147.58282470703125, 226.79922485351562, -20.0)
+    cropped to 1319x656 px

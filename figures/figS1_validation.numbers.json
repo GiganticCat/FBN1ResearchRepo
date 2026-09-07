@@ -1,0 +1,16 @@
+{
+  "figure": "figS1_validation",
+  "generated": "2026-09-07T03:20:01.057869+00:00",
+  "script": "54_figS1_validation.py",
+  "seed": 20260830,
+  "values": {
+    "a_median_backbone_rmsd_A": 1.353,
+    "a_median_ca_deviation_A": 0.454,
+    "a_n_domains": 8,
+    "b_mean_offset": 0.1469,
+    "b_n_sites": 16,
+    "b_pearson_r": 0.961,
+    "c_n_beyond_noise": 6,
+    "c_n_site_measurements": 18
+  }
+}

@@ -1,0 +1,21 @@
+doi	why
+10.1016/j.ajhg.2016.08.016	REVEL — named in Results/Discussion as the predictor the FBN1 VCEP specifies for PP3, currently uncited
+10.1111/j.2517-6161.1995.tb02031.x	Benjamini-Hochberg — the multiple-testing correction used in Methods, unattributed
+10.1214/aoms/1177730491	Mann-Whitney U — the test used throughout, unattributed
+10.1080/01621459.1927.10502953	Wilson score interval — used for every rate in Fig. 3b, unattributed
+10.1037/0033-2909.114.3.494	Cliff's delta — the effect size in statistics_final.tsv, unattributed
+10.1038/s41586-020-2649-2	NumPy — listed in Software with a version and no citation
+10.1038/s41592-019-0686-2	SciPy — same
+10.1109/MCSE.2007.55	Matplotlib — same
+10.1107/S1600576722008646	gemmi — used for every structure read, listed without citation
+10.1093/nar/gku1028	DSSP 4 / mkdssp — Kabsch & Sander is the algorithm, this is the program actually run
+10.1371/journal.pone.0059004	Rosetta relax protocol — the restrained relaxation the ddG protocol depends on
+10.1107/S0907444906014594	Harding — metal-site distances in proteins; the basis for the 3.2 A donor cutoff
+10.1038/s41586-022-04558-8	MANE Select — we pin NM_000138.5 as the MANE transcript
+10.1002/humu.22981	HGVS nomenclature — the normalisation standard applied in Phase 2
+10.1002/humu.24252	Mutalyzer 2 — the HGVS validator actually used, named in Methods without citation
+10.1056/NEJMsr1406261	ClinGen — the resource whose FBN1 panel rules the paper tests
+10.1002/j.1460-2075.1988.tb03045.x	Rees — beta-hydroxyaspartate/asparagine in EGF domains; central to the Asn result
+10.1038/ng1116	Neptune — TGF-beta dysregulation in Marfan; Introduction context for why FBN1 variants matter
+10.1007/s00441-009-0822-x	Ramirez & Sakai — biogenesis and function of fibrillin assemblies
+10.1002/humu.10249	UMD-FBN1 — the curated FBN1 mutation database, context for the variant spectrum

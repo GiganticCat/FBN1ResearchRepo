@@ -1,0 +1,32 @@
+Phase 2 normalization — 2026-08-02T17:22:38.845184+00:00
+reference: P35555, 2871 aa
+
+ClinVar GRCh38 input rows: 9,327  (from clinvar_fbn1_2026-07-28.tsv)
+  missense, WT-verified : 4,451
+  excluded (non-missense): 4,825
+  WT mismatches          : 0
+  unparsed               : 51
+  reconciliation: 9,327 out == 9,327 in  OK
+
+gnomAD join: 1,523/4,451 normalized variants found in gnomAD v4
+  gnomAD hgvsp disagreements: 0
+
+AlphaMissense: 54,549 usable entries; 19 rows dropped for WT != P35555 (position-472 style)
+  AlphaMissense join: 4,451/4,451 matched
+
+Labelled sets (missense, WT-verified):
+  primary     (stars >= 2): unlabelled=3,016, benign=34, pathogenic=578, vus=823
+  sensitivity (stars >= 1): unlabelled=179, benign=76, conflicting=492, pathogenic=1,409, vus=2,295
+
+Mutalyzer validation on 100 records (0 off-pinned-transcript + 100 random sample)
+    25/100 …
+    50/100 …
+    75/100 …
+    100/100 …
+  agreement: 100 agree, 0 disagree, 0 errors
+
+wrote data/interim/variants_normalized.tsv (4,451)
+wrote data/interim/excluded_from_structural.tsv (4,825)
+wrote data/interim/wt_mismatch.tsv (0)
+wrote data/interim/unparsed.tsv (51)
+wrote data/processed/variant_master.tsv (4,451)

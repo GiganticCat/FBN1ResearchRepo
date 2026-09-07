@@ -1,0 +1,3 @@
+33_v2fig2_geometry.py: v2 calcium-site geometry
+  18 site rows, 9 variants
+  6/18 site measurements exceed +-2.0 seed SD (5 of them at calcium-ligand variants)

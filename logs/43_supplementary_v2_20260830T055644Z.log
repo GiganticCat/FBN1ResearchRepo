@@ -1,0 +1,12 @@
+Phase 6 — v2 supplementary workbook — 2026-08-30T05:56:42.113400+00:00
+  README                  13 rows x  2 cols
+  S1_variants           4451 rows x 42 cols
+  S2_structural         3831 rows x 23 cols
+  S3_ca_sites             63 rows x 14 cols
+  S4_mutant_geometry     180 rows x 36 cols
+  S5_disruption_rate      57 rows x 31 cols
+  S6_statistics           12 rows x 14 cols
+  S7_enrichment            8 rows x 14 cols
+  S8_validation           56 rows x 17 cols
+  S9_dictionary           72 rows x  4 cols
+wrote results/supplementary_tables_v2.xlsx (1254 kB)

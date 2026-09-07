@@ -1,0 +1,65 @@
+Phase 5 revision — AF3 mutant geometry — 2026-08-09T16:13:37.051912+00:00
+  3.2 A shell; R0(Ca-O)=1.967, R0(Ca-N)=2.14, b=0.37; site match Jaccard >= 0.35
+
+4 wild-type jobs, 9 mutant jobs
+
+Wild-type seed spread (the noise a mutant effect must clear)
+  fbn1_cbegf12_13                    site 0  n=5/5 models  BVS median 1.835  seed SD 0.041  (2.3% of valence)
+  fbn1_cbegf12_13                    site 1  n=5/5 models  BVS median 1.810  seed SD 0.223  (12.3% of valence)
+  fbn1_cbegf22_tb4_cbegf23           site 0  n=5/5 models  BVS median 1.736  seed SD 0.071  (4.1% of valence)
+  fbn1_cbegf22_tb4_cbegf23           site 1  n=5/5 models  BVS median 1.718  seed SD 0.046  (2.7% of valence)
+  fbn1_cbegf32_33                    site 0  n=5/5 models  BVS median 2.239  seed SD 0.426  (19.0% of valence)
+  fbn1_cbegf32_33                    site 1  n=5/5 models  BVS median 1.847  seed SD 0.127  (6.9% of valence)
+  fbn1_cbegf9_hyb2_cbegf10           site 0  n=5/5 models  BVS median 1.797  seed SD 0.051  (2.9% of valence)
+  fbn1_cbegf9_hyb2_cbegf10           site 1  n=5/5 models  BVS median 1.709  seed SD 0.028  (1.6% of valence)
+
+Mutants
+  fbn1_cbegf12_13_c1138f_ca2
+      mutation C70F (job name says C1138F) OK
+      fold: Ca RMSD median 1.25 A over 5 models; pLDDT 87.7 vs wild type 91.7
+      site 0: BVS 1.835 -> 1.795 (-2.2%, z=-1.0 vs seed noise) CN 7.0->8.0 ion moved 0.67 A  [below seed noise]
+      site 1: BVS 1.810 -> 1.941 (+7.3%, z=+0.6 vs seed noise) CN 6.0->7.0 ion moved 1.25 A  [below seed noise]
+  fbn1_cbegf12_13_d1113g_ca2
+      mutation D45G (job name says D1113G) OK
+      fold: Ca RMSD median 1.16 A over 5 models; pLDDT 91.0 vs wild type 91.7
+      site 0: BVS 1.835 -> 1.707 (-7.0%, z=-3.1 vs seed noise) CN 7.0->5.0 ion moved 0.71 A  [LOSS beyond seed noise]
+      site 1: BVS 1.810 -> 1.587 (-12.3%, z=-1.0 vs seed noise) CN 6.0->6.0 ion moved 0.77 A  [below seed noise]
+  fbn1_cbegf12_13_e1073k_ca2
+      mutation E5K (job name says E1073K) OK
+      fold: Ca RMSD median 1.12 A over 5 models; pLDDT 92.4 vs wild type 91.7
+      site 0: BVS 1.835 -> 1.888 (+2.9%, z=+1.3 vs seed noise) CN 7.0->7.0 ion moved 0.43 A  [below seed noise]
+      site 1: BVS 1.810 -> 1.594 (-11.9%, z=-1.0 vs seed noise) CN 6.0->6.0 ion moved 1.15 A  [below seed noise]
+  fbn1_cbegf12_13_p1141l_ca2
+      mutation P73L (job name says P1141L) OK
+      fold: Ca RMSD median 1.03 A over 5 models; pLDDT 90.6 vs wild type 91.7
+      site 0: BVS 1.835 -> 1.918 (+4.6%, z=+2.0 vs seed noise) CN 7.0->7.0 ion moved 0.83 A  [gain beyond seed noise]
+      site 1: BVS 1.810 -> 1.863 (+2.9%, z=+0.2 vs seed noise) CN 6.0->7.0 ion moved 1.33 A  [below seed noise]
+  fbn1_cbegf22_tb4_cbegf23_d1487g_ca2
+      mutation D2G (job name says D1487G) OK
+      fold: Ca RMSD median 0.89 A over 5 models; pLDDT 93.4 vs wild type 94.2
+      site 0: BVS 1.736 -> 1.734 (-0.1%, z=-0.0 vs seed noise) CN 7.0->7.0 ion moved 0.28 A  [below seed noise]
+      site 1: BVS 1.718 -> 1.531 (-10.9%, z=-4.1 vs seed noise) CN 7.0->5.0 ion moved 0.66 A  [LOSS beyond seed noise]
+  fbn1_cbegf32_33_e2130k_ca2
+      mutation E4K (job name says E2130K) OK
+      fold: Ca RMSD median 1.52 A over 5 models; pLDDT 90.0 vs wild type 88.1
+      site 0: BVS 2.239 -> 1.968 (-12.1%, z=-0.6 vs seed noise) CN 7.0->7.0 ion moved 0.58 A  [below seed noise]
+      site 1: BVS 1.847 -> 1.629 (-11.8%, z=-1.7 vs seed noise) CN 7.0->4.5 ion moved 1.21 A  [below seed noise; site absent in 1/5 models]
+      1 ion-model(s) matched no wild-type site
+  fbn1_cbegf32_33_n2144s_ca2
+      mutation N18S (job name says N2144S) OK
+      fold: Ca RMSD median 1.86 A over 5 models; pLDDT 87.0 vs wild type 88.1
+      site 0: BVS 2.239 -> 2.166 (-3.2%, z=-0.2 vs seed noise) CN 7.0->7.0 ion moved 1.00 A  [below seed noise]
+      site 1: BVS 1.847 -> 1.320 (-28.5%, z=-4.2 vs seed noise) CN 7.0->7.0 ion moved 1.89 A  [LOSS beyond seed noise]
+  fbn1_cbegf32_33_n2183s_ca2
+      mutation N57S (job name says N2183S) OK
+      fold: Ca RMSD median 1.36 A over 5 models; pLDDT 89.9 vs wild type 88.1
+      site 0: BVS 2.239 -> 1.636 (-26.9%, z=-1.4 vs seed noise) CN 7.0->7.0 ion moved 1.15 A  [below seed noise]
+      site 1: BVS 1.847 -> 1.728 (-6.4%, z=-0.9 vs seed noise) CN 7.0->7.0 ion moved 1.48 A  [below seed noise]
+  fbn1_cbegf9_hyb2_cbegf10_e913k_ca2
+      mutation E107K (job name says E913K) OK
+      fold: Ca RMSD median 1.60 A over 5 models; pLDDT 93.5 vs wild type 94.6
+      site 0: BVS 1.797 -> 1.536 (-14.5%, z=-5.1 vs seed noise) CN 7.0->6.0 ion moved 0.66 A  [LOSS beyond seed noise]
+      site 1: BVS 1.709 -> 1.898 (+11.0%, z=+6.7 vs seed noise) CN 7.0->7.0 ion moved 2.41 A  [gain beyond seed noise]
+
+wrote data/processed/af3_mutant_geometry.tsv  (18 site rows)
+wrote results/phase5_af3_mutants.md

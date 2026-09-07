@@ -1,0 +1,79 @@
+{
+  "generated_utc": "2026-08-02T17:59:06.120912+00:00",
+  "method": "leave-one-out homology transplant between experimental cbEGF domains",
+  "purpose": "Tier-3 cross-check. AlphaFill is unavailable for FBN1 because there is no AlphaFold DB entry (2871 aa exceeds the 2700 aa cap), so transplant accuracy is characterised directly against experimental ground truth.",
+  "donors": [
+    {
+      "label": "cbEGF9",
+      "pdb": "2W86",
+      "uniprot_span": [
+        807,
+        846
+      ]
+    },
+    {
+      "label": "cbEGF10",
+      "pdb": "2W86",
+      "uniprot_span": [
+        910,
+        951
+      ]
+    },
+    {
+      "label": "cbEGF12",
+      "pdb": "1LMJ",
+      "uniprot_span": [
+        1070,
+        1112
+      ]
+    },
+    {
+      "label": "cbEGF13",
+      "pdb": "1LMJ",
+      "uniprot_span": [
+        1113,
+        1154
+      ]
+    },
+    {
+      "label": "cbEGF22",
+      "pdb": "1UZJ",
+      "uniprot_span": [
+        1486,
+        1527
+      ]
+    },
+    {
+      "label": "cbEGF23",
+      "pdb": "1UZJ",
+      "uniprot_span": [
+        1605,
+        1647
+      ]
+    },
+    {
+      "label": "cbEGF32",
+      "pdb": "1EMN",
+      "uniprot_span": [
+        2127,
+        2165
+      ]
+    },
+    {
+      "label": "cbEGF33",
+      "pdb": "1EMN",
+      "uniprot_span": [
+        2166,
+        2205
+      ]
+    }
+  ],
+  "n_transplants": 56,
+  "ca_transplant_error_A": {
+    "median": 1.439,
+    "mean": 1.614,
+    "p90": 2.785,
+    "max": 3.423
+  },
+  "af3_worst_case_ca_deviation_A": 2.238
+}

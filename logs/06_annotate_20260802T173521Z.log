@@ -1,0 +1,34 @@
+Phase 3 annotation — 2026-08-02T17:35:21.259481+00:00
+reference P35555 2871 aa; 56 annotated domains
+
+derived cbEGF sites: 258 cysteines, 215 consensus positions, 87 packing glycines
+  cbEGF cysteine count matches the VCEP's stated 258 exactly
+
+disulfide pairing (UniProt annotations, n=155):
+    C1-C3        43
+    C2-C4        43
+    C5-C6        43
+    non-cbEGF    26
+  all cbEGF disulfides follow the canonical C1-C3, C2-C4, C5-C6 pattern
+
+neonatal region (TB3 -> cbEGF18): 659-1362
+
+annotating 4,451 missense variants
+  every position annotated with a cysteine role has Cys as its reference residue
+  all derived consensus positions satisfy the VCEP motif letters
+
+primary tier (>=2 stars) cross-tab:
+| feature | pathogenic (n=578) | benign (n=34) | vus (n=823) | conflicting (n=0) |
+|---|---|---|---|---|
+| in cbEGF domain | 425 (73.5%) | 21 (61.8%) | 486 (59.1%) | 0 (–) |
+| Ca consensus residue | 61 (10.6%) | 1 (2.9%) | 48 (5.8%) | 0 (–) |
+|   of which sidechain ligand | 42 (7.3%) | 0 (0.0%) | 26 (3.2%) | 0 (–) |
+| cbEGF cysteine (removing) | 304 (52.6%) | 0 (0.0%) | 0 (0.0%) | 0 (–) |
+| cysteine-creating | 52 (9.0%) | 0 (0.0%) | 24 (2.9%) | 0 (–) |
+| packing glycine | 22 (3.8%) | 0 (0.0%) | 21 (2.6%) | 0 (–) |
+| VCEP critical residue | 526 (91.0%) | 0 (0.0%) | 85 (10.3%) | 0 (–) |
+| neonatal region | 134 (23.2%) | 14 (41.2%) | 185 (22.5%) | 0 (–) |
+
+wrote data/processed/variant_annotated.tsv (4,451 x 56)
+wrote data/interim/cbegf_sites.tsv, data/interim/disulfide_pairing.tsv
+wrote results/phase3_crosstab.md

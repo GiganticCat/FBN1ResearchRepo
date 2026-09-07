@@ -1,0 +1,63 @@
+NOTICE — licensing of the material in this repository
+=====================================================
+
+CODE  ......  MIT, see LICENSE. Everything in scripts/ and tests/.
+
+DATA AND FIGURES  ......  CC BY 4.0. Everything in data/, results/, figures/,
+manifest/ and resources/reference/, with the one exception below.
+
+  https://creativecommons.org/licenses/by/4.0/
+
+
+ALPHAMISSENSE IS NOT REDISTRIBUTED HERE
+---------------------------------------
+
+The analysis uses AlphaMissense predictions from
+
+  Cheng J et al. (2023) Accurate proteome-wide missense variant effect
+  prediction with AlphaMissense. Science 381:eadg7492.
+  doi:10.1126/science.adg7492
+  Zenodo record 8208688, doi:10.5281/zenodo.8208688
+
+Those predictions are released under CC BY-NC-SA 4.0, which is a non-commercial
+and share-alike licence. Rather than let those terms travel into this release,
+the per-variant columns `am_pathogenicity` and `am_class` have been removed from
+every table published here. Everything released is therefore CC BY 4.0 without
+exception.
+
+Nothing about the analysis depends on that removal. Run
+
+  scripts/67_restore_alphamissense.py
+
+and the columns are rejoined from the Zenodo record above, on (position,
+wild-type, substituted), under the same wild-type residue identity check every
+other join in this pipeline carries. The restored values are byte-identical to
+the ones the paper was computed from, and tests/test_v2.py then passes in full.
+
+Summary values derived from AlphaMissense do remain: four group medians in
+Fig. 2d, two in Fig. 4b, and three rows of results/statistics_final.tsv. Those
+are results reported with attribution, not a redistributed dataset.
+
+
+MATERIAL NOT REDISTRIBUTED HERE
+-------------------------------
+
+resources/papers/          publisher-copyright journal articles
+resources/databases/       the AlphaMissense subset, see above
+data/raw/                  database responses, regenerable from manifest/
+structures/alphafold/      model coordinates and confidence matrices, in the
+                             Zenodo archive for this paper
+molecules/, tools/         FoldX 5, licensed per user from foldxsuite.crg.eu
+
+
+SOURCES THE ANALYSIS DEPENDS ON
+-------------------------------
+
+ClinVar        NCBI, public domain. Landrum MJ et al. (2018) NAR 46:D1062.
+UniProt        CC BY 4.0. UniProt Consortium (2023) NAR 51:D523.
+gnomAD         Broad Institute, open access. Chen S et al. (2024) Nature 625:92.
+PDB / PDBe     CC0. Entries 2W86, 1LMJ, 1UZJ, 1EMN, 1EMO.
+AlphaFold      Jumper J et al. (2021) Nature 596:583; AlphaFold Server terms of
+               use apply to the predictions and are reproduced beside them in
+               structures/alphafold/.
+CheckMyMetal   Zheng H et al. (2017) Acta Cryst D 73:223.

@@ -1,0 +1,19 @@
+Phase 5 revision — metal geometry — 2026-08-16T05:42:30.537682+00:00
+
+Validation gate
+  BVS validation against CheckMyMetal: n=16, Pearson r = 0.961, mean offset +0.147
+  wrote data/processed/bvs_vs_cmm.tsv (16 sites)
+
+  78 variants sit in a calcium coordination shell (673 covered but not ligands)
+  backbone               n= 28  median delta-BVS +0.000 (+0.0% of site valence)
+  sidechain              n= 50  median delta-BVS -0.268 (-18.2% of site valence)
+
+  donor_abolished                    n= 33  median delta-BVS% -17.8
+  backbone_ligand_retained           n= 28  median delta-BVS% +0.0
+  donor_changed_amide_to_hydroxyl    n=  6  median delta-BVS% -29.0
+  donor_changed_carboxylate_to_amide n=  6  median delta-BVS% -16.8
+  donor_changed_carboxylate_to_imidazole n=  3  median delta-BVS% -15.7
+  donor_changed_carboxylate_to_hydroxyl n=  1  median delta-BVS% -13.6
+  donor_changed_amide_to_imidazole   n=  1  median delta-BVS% -34.0
+
+wrote data/processed/metal_geometry.tsv

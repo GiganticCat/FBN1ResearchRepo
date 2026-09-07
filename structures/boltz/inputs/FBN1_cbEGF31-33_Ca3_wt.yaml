@@ -1,0 +1,15 @@
+version: 1
+sequences:
+  - protein:
+      id: A
+      sequence: DIDECVEEPEICALGTCSNTEGSFKCLCPEGFSLSSSGRRCQDLRMSYCYAKFEGGKCSSPKSRNHSKQECCCALKGEGWGDPCELCPTEPDEAFRQICPYGSGIIVGPDDSAVDMDECKEPDVCKHGQCINTDGSYRCECPFGYILAGNECVDTDECSVGNPCGNGTCKNVIGGFECTCEEGFEPGPMMTCE
+      msa: /home/harvey/research/fbn1-marfan/structures/alphafold/fbn1_cbegf31_33_ca3/msas/fold_fbn1_cbegf31_33_ca3_unpaired_msa_chains_a.a3m
+  - ligand:
+      id: B
+      ccd: CA
+  - ligand:
+      id: C
+      ccd: CA
+  - ligand:
+      id: D
+      ccd: CA

@@ -1,0 +1,22 @@
+{
+  "figure": "fig4_interpretation",
+  "generated": "2026-09-07T03:19:59.515142+00:00",
+  "script": "53_fig4_interpretation.py",
+  "seed": 20260830,
+  "values": {
+    "b_am_p": 0.613,
+    "b_am_q": 0.623,
+    "b_am_reduced_median": 0.982,
+    "b_am_reduced_n": 15,
+    "b_am_retained_median": 0.982,
+    "b_am_retained_n": 18,
+    "or_backbone-only_Ca_ligand": 0.049,
+    "or_cysteine_position": 140.327,
+    "or_motif-overcalled_(not_a_ligand)": 1.485,
+    "or_side-chain_Ca_ligand": 3.409,
+    "spearman_n": 33,
+    "spearman_p": 0.623,
+    "spearman_q": 0.623,
+    "spearman_rho": -0.089
+  }
+}

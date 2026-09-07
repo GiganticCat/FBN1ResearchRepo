@@ -1,0 +1,29 @@
+Phase 5 revision — statistics v2 — 2026-08-09T16:44:44.093930+00:00
+  seed 20260809; 2000 bootstrap resamples; stratum minimum 3
+  3831 variants with structural metrics
+  751 of those carry a FoldX ddG (experimental templates only)
+
+  side-chain Ca ligands 271; backbone-only ligands 166; motif-overcalled 143; cys-removing 1038; other 2213 (of which D/E/N 316)
+
+Rank comparisons (delta_matched is the wild-type-stratified estimate)
+  family               n_a/n_b   delta  matched      p_adj  test
+  A_alphamissense     271/2213   0.797    0.958  1.95e-101  AlphaMissense: side-chain Ca ligands vs other positions
+  A_alphamissense      271/316   0.961    0.958   1.85e-89  AlphaMissense: side-chain Ca ligands vs other D/E/N positions   [composition control]
+  A_alphamissense     143/2213   0.454    0.443   1.23e-19  AlphaMissense: motif-overcalled positions vs other positions   [should resemble background if the structural definition is right]
+  A_alphamissense      143/271  -0.517   -0.752   5.63e-18  AlphaMissense: motif-overcalled vs true side-chain ligands   [definition check]
+  A_alphamissense     166/2213   0.055    0.144      0.237  AlphaMissense: backbone-only ligands vs other positions   [no substitution can remove a backbone carbonyl]
+  A_alphamissense    1038/2213   0.949                   0  AlphaMissense: cysteine-removing vs other positions
+  B_foldx_ddg           50/444  -0.013    0.128      0.881  ddG: side-chain Ca ligands vs all other positions   [the original comparison]
+  B_foldx_ddg            50/65   0.211    0.128     0.0711  ddG: side-chain Ca ligands vs other D/E/N positions   [composition-matched]
+  B_foldx_ddg          198/444   0.644            3.16e-38  ddG: cysteine-removing vs other positions
+  B_foldx_ddg          310/441   0.482    0.384   4.59e-29  ddG: buried vs exposed (RSA<20%)
+  C_geometry          271/2213  -0.478   -0.649    1.3e-37  RSA: side-chain Ca ligands vs other positions
+  C_geometry            524/29  -0.264      1.0     0.0166  distance to nearest Ca: pathogenic vs benign   [UNDERPOWERED: benign n=29]
+
+Enrichment (Fisher)
+  OR      inf  p_adj 0.384  pathogenic vs benign at side-chain Ca ligands   [UNDERPOWERED: benign n=29]
+  OR      inf  p_adj 7.17e-15  pathogenic vs benign at cysteine-removing   [UNDERPOWERED: benign n=29]
+  OR    1.169  p_adj 1  pathogenic vs benign at motif-overcalled positions   [UNDERPOWERED: benign n=29]
+
+wrote results/phase5_statistics_v2.tsv
+wrote results/phase5_statistics_v2.md

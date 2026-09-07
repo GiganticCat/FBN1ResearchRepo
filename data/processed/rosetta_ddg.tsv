@@ -1,0 +1,1935 @@
+variation_id	position	wt_aa	mut_aa	set_primary	group	construct	status	ddg_mean	ddg_kcal_scaled	ddg_sd	n_repeats	seconds
+3070208	246	D	V		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	15.005	5.104	0.0	1	7.8
+519791	288	D	G	vus	ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	2.178	0.741	0.0	1	8.0
+2441376	288	D	N	vus	ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	-1.799	-0.612	0.0	1	8.0
+1408082	490	D	N		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	0.819	0.278	0.0	1	8.3
+1201302	506	N	Y		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	4.332	1.473	0.0	1	0.7
+2628679	506	N	K		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	2.452	0.834	0.0	1	0.7
+1773301	490	D	H		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	2.678	0.911	0.0	1	8.9
+4756398	506	N	K		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	2.452	0.834	0.0	1	0.7
+549019	490	D	Y	pathogenic	ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	2.765	0.94	0.0	1	9.2
+920625	306	N	D		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	4.858	1.652	0.0	1	9.8
+16457	1073	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	1.824	0.621	0.0	1	1.8
+2946781	1073	E	G		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	5.073	1.725	0.0	1	1.8
+2929242	291	E	V	vus	ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	12.077	4.108	0.0	1	10.7
+549148	1088	N	S		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	1.965	0.668	0.0	1	1.8
+549141	1070	D	G		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	14.299	4.864	0.0	1	2.3
+4789671	493	E	D		ca_ligand_sidechain	FBN1_cbEGF1-3_Ca3	ok	1.464	0.498	0.0	1	3.2
+859589	1088	N	K		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	2.024	0.688	0.0	1	1.8
+4688009	1113	D	V		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	12.418	4.224	0.0	1	1.2
+549158	1113	D	G	pathogenic	ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	10.394	3.536	0.0	1	1.9
+549159	1116	E	K		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	0.037	0.013	0.0	1	1.3
+3754080	1116	E	V		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	1.608	0.547	0.0	1	1.3
+573764	1116	E	G		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	3.876	1.318	0.0	1	1.5
+200017	1155	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	-0.406	-0.138	0.0	1	0.6
+1053613	1131	N	K		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	4.695	1.597	0.0	1	1.4
+16447	1131	N	Y		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	19.23	6.541	0.0	1	1.6
+2032122	1155	D	V		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	-2.945	-1.002	0.0	1	0.6
+547310	1173	N	T	pathogenic	ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	2.332	0.793	0.0	1	0.4
+647760	1158	E	G		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	5.062	1.722	0.0	1	0.6
+42332	1131	N	S		ca_ligand_sidechain	FBN1_cbEGF11-13_Ca3	ok	1.617	0.55	0.0	1	1.7
+1480569	1155	D	G		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	0.444	0.151	0.0	1	1.0
+3902828	1158	E	K		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	2.442	0.831	0.0	1	0.6
+4757826	1173	N	D		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	0.869	0.296	0.0	1	0.4
+570671	1173	N	I		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	-8.788	-2.989	0.0	1	1.2
+3759290	1173	N	K		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	-0.17	-0.058	0.0	1	1.1
+42339	1197	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	0.542	0.184	0.0	1	1.2
+179244	1197	D	H		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	2.916	0.992	0.0	1	1.5
+625120	1200	E	V		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	1.739	0.592	0.0	1	1.4
+2921706	1200	E	K		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	0.97	0.33	0.0	1	1.3
+1325413	1197	D	G		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	2.699	0.918	0.0	1	1.5
+200022	1238	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	0.028	0.009	0.0	1	0.6
+639698	1197	D	V		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	-1.086	-0.369	0.0	1	1.6
+1305067	1238	D	H		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	0.531	0.181	0.0	1	0.6
+549179	1214	N	S		ca_ligand_sidechain	FBN1_cbEGF13-15_Ca3	ok	2.051	0.697	0.0	1	0.9
+2662804	1238	D	G		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	2.328	0.792	0.0	1	0.5
+549189	1280	D	V		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	-2.263	-0.77	0.0	1	0.4
+4796683	1238	D	E		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	-0.709	-0.241	0.0	1	0.6
+4796684	1238	D	A		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	0.434	0.148	0.0	1	0.6
+200025	1280	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	0.202	0.069	0.0	1	0.5
+4685602	1280	D	G		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	2.304	0.784	0.0	1	0.5
+2005623	1298	N	T		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	2.413	0.821	0.0	1	0.4
+921344	1256	N	D		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	-14.781	-5.028	0.0	1	0.9
+572562	1256	N	H		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	-4.203	-1.43	0.0	1	1.1
+549198	1322	D	G		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	3.949	1.343	0.0	1	0.6
+3600238	1298	N	H		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	1.085	0.369	0.0	1	0.7
+4786144	1280	D	H		ca_ligand_sidechain	FBN1_cbEGF15-17_Ca3	ok	5.65	1.922	0.0	1	0.9
+2502068	1322	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	0.512	0.174	0.0	1	0.6
+3074340	1322	D	E	vus	ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	0.628	0.214	0.0	1	0.6
+4784463	1322	D	V		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	-0.279	-0.095	0.0	1	0.6
+495603	1341	N	S		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	3.08	1.048	0.0	1	0.4
+4785209	1322	D	E		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	0.628	0.214	0.0	1	0.6
+2430312	1322	D	Y		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	2.194	0.746	0.0	1	1.2
+4291954	1341	N	K		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	6.44	2.191	0.0	1	0.6
+935239	1363	D	V		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	-0.018	-0.006	0.0	1	0.5
+200037	1382	N	K		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	0.218	0.074	0.0	1	0.4
+547318	1382	N	I		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	-0.475	-0.161	0.0	1	0.4
+1802115	1363	D	N		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	-2.645	-0.9	0.0	1	0.6
+4783798	1382	N	S		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	-0.835	-0.284	0.0	1	0.4
+2949132	1382	N	Y		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	8.225	2.798	0.0	1	0.9
+372659	1422	N	S		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	-1.118	-0.38	0.0	1	0.6
+2121178	1363	D	Y		ca_ligand_sidechain	FBN1_cbEGF17-19_Ca3	ok	3.246	1.104	0.0	1	1.1
+4783174	1422	N	T		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	-0.906	-0.308	0.0	1	0.5
+42358	1446	D	V		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	3.14	1.068	0.0	1	0.5
+924199	1446	D	G		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	2.423	0.824	0.0	1	0.5
+200040	1404	D	N		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	0.883	0.3	0.0	1	1.3
+1508660	1404	D	H		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	6.503	2.212	0.0	1	1.4
+2498341	1404	D	G		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	5.448	1.853	0.0	1	1.4
+200042	1446	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	-3.588	-1.221	0.0	1	0.8
+3338879	1404	D	Y		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	4.806	1.635	0.0	1	1.5
+523334	1463	N	S		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	4.353	1.481	0.0	1	1.3
+527205	1487	D	G	pathogenic	ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	8.841	3.007	0.0	1	1.0
+549234	1487	D	A		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	2.34	0.796	0.0	1	0.9
+549228	1463	N	K		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	2.618	0.89	0.0	1	1.3
+1329362	1463	N	I		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	2.461	0.837	0.0	1	1.3
+549232	1487	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	0.966	0.329	0.0	1	0.9
+3754071	1463	N	K		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	2.618	0.89	0.0	1	1.2
+3600240	1463	N	T		ca_ligand_sidechain	FBN1_cbEGF19-21_Ca3	ok	2.596	0.883	0.0	1	1.3
+549235	1490	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	0.165	0.056	0.0	1	0.7
+850247	1490	E	G		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	2.34	0.796	0.0	1	0.7
+933374	1504	N	I		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	1.429	0.486	0.0	1	0.6
+549239	1504	N	S		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	1.871	0.636	0.0	1	0.9
+4786675	1487	D	H		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	1.061	0.361	0.0	1	1.5
+42375	1648	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	0.67	0.228	0.0	1	1.0
+858489	1606	D	N		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	1.961	0.667	0.0	1	1.6
+2029643	1665	N	T		ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	1.066	0.363	0.0	1	1.0
+2939680	1648	D	G	vus	ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	2.6	0.885	0.0	1	1.4
+4757399	1665	N	S		ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	2.65	0.901	0.0	1	1.0
+527168	1504	N	Y		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	-2.461	-0.837	0.0	1	2.2
+1687534	1648	D	H		ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	5.119	1.741	0.0	1	1.6
+3749062	1606	D	G		ca_ligand_sidechain	FBN1_cbEGF21-23_Ca3	ok	1.163	0.396	0.0	1	2.2
+3849175	1766	D	N		ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	-0.193	-0.066	0.0	1	0.9
+3600244	1808	D	N		ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	0.054	0.019	0.0	1	0.7
+527178	1766	D	H		ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	3.191	1.085	0.0	1	1.4
+3894238	1849	D	G		ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	7.002	2.382	0.0	1	0.4
+1477340	1808	D	G		ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	1.548	0.526	0.0	1	1.2
+1330727	1811	E	G		ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	4.117	1.4	0.0	1	1.5
+200063	1811	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	2.572	0.875	0.0	1	1.6
+845508	1826	N	S	vus	ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	1.119	0.381	0.0	1	1.4
+3907154	1784	N	I		ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	2.989	1.017	0.0	1	2.1
+220855	1852	E	G		ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	7.522	2.559	0.0	1	1.3
+1332764	1891	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	0.123	0.042	0.0	1	0.6
+2922440	1852	E	A		ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	-0.607	-0.206	0.0	1	1.5
+36092	1891	D	H	pathogenic	ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	-0.29	-0.099	0.0	1	1.1
+988304	1891	D	G		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	0.245	0.083	0.0	1	1.1
+42387	1907	N	D	pathogenic	ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	2.012	0.684	0.0	1	0.4
+4789645	1852	E	K		ca_ligand_sidechain	FBN1_cbEGF25-27_Ca3	ok	1.72	0.585	0.0	1	1.7
+406360	1907	N	S		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	2.637	0.897	0.0	1	0.4
+2014899	1891	D	Y		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	6.703	2.28	0.0	1	1.3
+1420959	1769	E	K		ca_ligand_sidechain	FBN1_cbEGF23-25_Ca3	ok	26.305	8.947	0.0	1	3.7
+381610	1894	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	1.446	0.492	0.0	1	1.6
+42390	1907	N	K		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	-0.116	-0.039	0.0	1	1.2
+547333	1930	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	3.306	1.124	0.0	1	1.2
+4758567	1933	E	D		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	1.219	0.415	0.0	1	0.6
+1723088	1930	D	G	pathogenic	ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	7.476	2.543	0.0	1	1.2
+4786587	1930	D	V		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	2.977	1.012	0.0	1	1.2
+549306	1930	D	Y		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	8.289	2.82	0.0	1	1.7
+200071	1973	D	G		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	0.164	0.056	0.0	1	0.6
+1522965	1933	E	K	vus	ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	-0.439	-0.149	0.0	1	1.1
+1071569	1930	D	H		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	9.23	3.139	0.0	1	1.8
+3754060	1949	N	S		ca_ligand_sidechain	FBN1_cbEGF27-29_Ca3	ok	2.924	0.995	0.0	1	1.2
+2952394	2013	D	G	vus	ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	4.156	1.414	0.0	1	0.6
+549325	2013	D	H		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	0.806	0.274	0.0	1	0.9
+3237352	2013	D	N		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	0.081	0.028	0.0	1	0.6
+549319	1976	E	G		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	5.001	1.701	0.0	1	1.6
+3600247	2031	N	I		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	3.221	1.096	0.0	1	0.5
+519761	1976	E	A	pathogenic	ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	1.99	0.677	0.0	1	1.9
+1750532	1976	E	K	vus	ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	1.842	0.627	0.0	1	1.8
+1193222	2016	E	K		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	-5.039	-1.714	0.0	1	1.1
+1702801	1991	N	H	vus	ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	8.497	2.89	0.0	1	1.9
+199973	530	D	G		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	3.365	1.145	0.0	1	0.6
+1715110	530	D	V		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	1.414	0.481	0.0	1	0.6
+200072	1991	N	Y		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	21.394	7.277	0.0	1	2.1
+1806740	2016	E	D		ca_ligand_sidechain	FBN1_cbEGF29-31_Ca3	ok	-1.65	-0.561	0.0	1	1.2
+4795157	533	E	D		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	1.889	0.643	0.0	1	0.6
+549037	572	D	V		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	-2.316	-0.788	0.0	1	0.4
+660849	572	D	G		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	0.744	0.253	0.0	1	0.4
+4789669	548	N	S		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	-0.348	-0.118	0.0	1	0.6
+1373971	572	D	N		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	-1.362	-0.463	0.0	1	0.5
+3757095	530	D	Y		ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	0.559	0.19	0.0	1	1.3
+16432	548	N	I	pathogenic	ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	-4.96	-1.687	0.0	1	1.3
+549041	589	N	S	pathogenic	ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	1.45	0.493	0.0	1	0.9
+549341	2127	D	N		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	-0.314	-0.107	0.0	1	1.7
+1325439	2127	D	V		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	-1.968	-0.669	0.0	1	1.7
+1427197	2127	D	A		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	-0.552	-0.188	0.0	1	1.6
+929149	575	E	K	vus	ca_ligand_sidechain	FBN1_cbEGF3-5_Ca3	ok	5.795	1.971	0.0	1	2.1
+2946863	2127	D	H		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	1.84	0.626	0.0	1	1.7
+1299642	2127	D	G		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	2.288	0.778	0.0	1	2.2
+200087	2166	D	N		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	-0.644	-0.219	0.0	1	0.5
+200088	2166	D	H	vus	ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	3.07	1.044	0.0	1	0.9
+200194	2166	D	Y		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	2.934	0.998	0.0	1	1.1
+2949658	2166	D	G		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	3.593	1.222	0.0	1	0.4
+16431	2144	N	S	pathogenic	ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	1.92	0.653	0.0	1	1.5
+263837	2144	N	H	pathogenic	ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	3.083	1.049	0.0	1	1.5
+519735	2169	E	Q		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	-0.671	-0.228	0.0	1	0.5
+2948442	2169	E	K		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	3.79	1.289	0.0	1	0.5
+3234950	2130	E	A		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	-1.459	-0.496	0.0	1	2.8
+1325443	2183	N	K		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	5.208	1.771	0.0	1	0.5
+457246	2183	N	K		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	5.208	1.771	0.0	1	0.5
+200191	2130	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	3.427	1.166	0.0	1	3.2
+3600250	2130	E	V		ca_ligand_sidechain	FBN1_cbEGF31-33_Ca3	ok	-0.364	-0.124	0.0	1	2.7
+406283	2247	D	G		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	4.18	1.422	0.0	1	0.5
+549358	2223	N	H		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	15.797	5.373	0.0	1	1.3
+3600252	2223	N	K		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	-1.708	-0.581	0.0	1	1.2
+636946	2206	D	G		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	5.279	1.796	0.0	1	1.9
+406344	2209	E	A		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	-0.085	-0.029	0.0	1	1.7
+437420	2206	D	N		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	0.888	0.302	0.0	1	2.0
+1041375	2206	D	V		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	1.28	0.435	0.0	1	2.0
+1312035	2209	E	V		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	1.235	0.42	0.0	1	2.1
+373981	2267	N	I		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	-0.107	-0.036	0.0	1	1.1
+2441378	2267	N	T		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	-1.036	-0.352	0.0	1	1.1
+457252	2267	N	K		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	1.423	0.484	0.0	1	1.2
+549370	2267	N	K		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	1.423	0.484	0.0	1	1.2
+662944	2250	E	K		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	-1.644	-0.559	0.0	1	1.8
+581358	2291	D	G		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	7.121	2.422	0.0	1	1.0
+992537	2250	E	V		ca_ligand_sidechain	FBN1_cbEGF33-35_Ca3	ok	0.706	0.24	0.0	1	1.9
+200094	2291	D	N		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	-0.292	-0.099	0.0	1	1.4
+4871220	2291	D	V		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	-0.284	-0.097	0.0	1	1.0
+638157	2402	D	N		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	1.584	0.539	0.0	1	0.9
+393048	2402	D	H		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	-2.895	-0.985	0.0	1	1.1
+1319506	2420	N	S	vus	ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	2.001	0.68	0.0	1	1.9
+1304680	2309	N	S		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	2.324	0.791	0.0	1	2.3
+2922623	2294	E	K	vus	ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	2.781	0.946	0.0	1	2.5
+2137675	2420	N	H	vus	ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	5.787	1.968	0.0	1	1.8
+406366	2444	D	G		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	1.763	0.6	0.0	1	1.8
+549373	2294	E	A		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	-0.607	-0.206	0.0	1	3.0
+1497751	2309	N	Y		ca_ligand_sidechain	FBN1_cbEGF35-37_Ca3	ok	5.238	1.782	0.0	1	2.8
+549401	2444	D	Y		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	2.033	0.691	0.0	1	1.9
+495645	2461	N	K		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	6.502	2.212	0.0	1	1.3
+519781	2461	N	S		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	3.863	1.314	0.0	1	1.1
+427047	2485	D	G	pathogenic	ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	1.819	0.619	0.0	1	1.2
+2130947	2447	E	Q		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	1.873	0.637	0.0	1	1.9
+4845398	2461	N	T		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	1.699	0.578	0.0	1	1.4
+923954	2485	D	E	vus	ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	-1.571	-0.534	0.0	1	1.1
+16437	2447	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	3.466	1.179	0.0	1	2.0
+3762723	2447	E	D		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	2.239	0.762	0.0	1	2.3
+3756045	2524	D	G		ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	5.771	1.963	0.0	1	0.7
+2007509	2488	E	A		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	0.747	0.254	0.0	1	1.5
+839607	2524	D	H		ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	-0.84	-0.286	0.0	1	1.1
+449160	2502	N	I		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	2.748	0.935	0.0	1	1.3
+2029363	2488	E	G		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	7.922	2.695	0.0	1	1.5
+3766654	2543	N	T	vus	ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	0.872	0.297	0.0	1	0.5
+4847167	2502	N	Y		ca_ligand_sidechain	FBN1_cbEGF37-39_Ca3	ok	12.244	4.165	0.0	1	1.6
+42428	2527	E	A		ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	1.382	0.47	0.0	1	1.5
+3513531	2527	E	K	vus	ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	2.569	0.874	0.0	1	1.5
+4789632	2543	N	K		ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	-2.218	-0.755	0.0	1	1.1
+1351948	2527	E	Q		ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	1.139	0.388	0.0	1	1.7
+2580027	2567	D	N	vus	ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	0.506	0.172	0.0	1	1.1
+2944327	2543	N	H		ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	2.899	0.986	0.0	1	1.5
+636638	2607	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	4.042	1.375	0.0	1	0.6
+935557	2607	D	Y		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	2.663	0.906	0.0	1	0.6
+3600260	2607	D	V		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	2.613	0.889	0.0	1	0.6
+854052	2583	N	S	vus	ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	0.196	0.067	0.0	1	1.4
+4255458	2567	D	H		ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	7.989	2.717	0.0	1	1.5
+1705455	2607	D	G	vus	ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	2.515	0.855	0.0	1	1.0
+263398	2570	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF39-41_Ca3	ok	2.686	0.913	0.0	1	1.7
+549437	2624	N	S	pathogenic	ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	0.338	0.115	0.0	1	0.6
+4277387	2624	N	D		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	0.558	0.19	0.0	1	0.6
+264272	2610	E	K		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	-1.046	-0.356	0.0	1	1.6
+523335	2610	E	G		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	3.284	1.117	0.0	1	1.4
+519749	2651	E	Q		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	1.447	0.492	0.0	1	1.0
+803079	2610	E	D		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	1.943	0.661	0.0	1	1.4
+549433	2610	E	V		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	0.078	0.027	0.0	1	1.5
+200124	2665	N	S	vus	ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	2.38	0.809	0.0	1	1.2
+4789626	2651	E	K		ca_ligand_sidechain	FBN1_cbEGF41-43_Ca3	ok	-0.023	-0.008	0.0	1	1.4
+1355106	613	D	N	pathogenic	ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	3.368	1.146	0.0	1	0.9
+495561	613	D	Y		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	2.552	0.868	0.0	1	1.6
+16433	723	D	A	pathogenic	ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	-0.314	-0.107	0.0	1	0.9
+199983	630	N	K		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	2.382	0.81	0.0	1	1.6
+1343365	723	D	G	pathogenic	ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	1.19	0.405	0.0	1	0.6
+199982	630	N	I		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	1.796	0.611	0.0	1	1.7
+549067	723	D	Y		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	-0.041	-0.014	0.0	1	1.1
+495565	630	N	Y		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	6.36	2.163	0.0	1	1.8
+684580	630	N	H		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	4.077	1.387	0.0	1	1.8
+4538111	630	N	D		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	0.76	0.258	0.0	1	1.7
+2925570	726	E	G	pathogenic	ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	5.2	1.769	0.0	1	0.7
+4687179	723	D	H		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	5.446	1.852	0.0	1	1.1
+993417	765	D	N		ca_ligand_sidechain	FBN1_cbEGF7-9_Ca3	ok	0.388	0.132	0.0	1	0.6
+2152241	741	N	S		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	-2.185	-0.743	0.0	1	1.0
+1171857	765	D	E		ca_ligand_sidechain	FBN1_cbEGF7-9_Ca3	ok	-1.142	-0.388	0.0	1	0.6
+1678694	765	D	G		ca_ligand_sidechain	FBN1_cbEGF7-9_Ca3	ok	6.301	2.143	0.0	1	0.6
+2943749	741	N	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	1.054	0.359	0.0	1	1.1
+3256597	741	N	K		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	1.054	0.359	0.0	1	1.1
+1308437	783	N	K	vus	ca_ligand_sidechain	FBN1_cbEGF7-9_Ca3	ok	7.64	2.599	0.0	1	0.6
+1465947	726	E	Q		ca_ligand_sidechain	FBN1_cbEGF5-7_Ca3	ok	-4.639	-1.578	0.0	1	1.7
+3230410	810	E	G		ca_ligand_sidechain	FBN1_cbEGF7-9_Ca3	ok	3.548	1.207	0.0	1	1.0
+569969	807	D	N		ca_ligand_sidechain	FBN1_cbEGF7-9_Ca3	ok	0.799	0.272	0.0	1	1.5
+2441381	807	D	V		ca_ligand_sidechain	FBN1_cbEGF7-9_Ca3	ok	0.102	0.035	0.0	1	1.7
+429319	1028	D	G	pathogenic	ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	4.788	1.629	0.0	1	1.2
+1698862	910	D	V		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	-0.184	-0.062	0.0	1	2.4
+452428	1028	D	N		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	0.779	0.265	0.0	1	1.3
+1493355	1028	D	V		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	1.473	0.501	0.0	1	1.2
+2954376	1028	D	A		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	1.902	0.647	0.0	1	0.8
+626597	928	N	I		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	3.065	1.043	0.0	1	2.6
+457180	913	E	A		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	0.961	0.327	0.0	1	3.7
+549109	913	E	G		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	5.442	1.851	0.0	1	3.6
+546242	913	E	K	pathogenic	ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	7.259	2.469	0.0	1	3.8
+1480110	1046	N	H		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	4.233	1.44	0.0	1	1.5
+1333372	1046	N	S	pathogenic	ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	0.688	0.234	0.0	1	1.6
+4294425	1046	N	T		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	-0.086	-0.029	0.0	1	1.7
+527175	265	T	S	vus	ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	1.328	0.452	0.0	1	1.6
+691913	265	T	I	vus	ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	3.342	1.137	0.0	1	1.6
+3759293	1031	E	D		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	1.028	0.35	0.0	1	3.5
+4758159	265	T	A		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	3.546	1.206	0.0	1	1.7
+1163383	289	I	M		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	3.305	1.124	0.0	1	0.8
+4787560	1031	E	D		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	1.028	0.35	0.0	1	3.6
+432343	1031	E	K		ca_ligand_sidechain	FBN1_cbEGF9-11_Ca3	ok	6.189	2.105	0.0	1	3.9
+2773395	289	I	T		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	2.488	0.846	0.0	1	0.8
+2926585	289	I	V		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	0.193	0.066	0.0	1	0.8
+2943641	268	S	P		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	17.649	6.003	0.0	1	2.4
+3072126	268	S	A		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	2.573	0.875	0.0	1	1.6
+919237	491	V	A	vus	ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	2.476	0.842	0.0	1	0.8
+3071789	307	T	R		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	2.843	0.967	0.0	1	1.3
+1424504	1050	S	T		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	4.82	1.64	0.0	1	0.8
+549133	1050	S	I		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	10.94	3.721	0.0	1	1.0
+2159797	310	S	R		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	1.248	0.425	0.0	1	1.8
+2939932	310	S	T		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	2.647	0.9	0.0	1	1.8
+1171533	491	V	F		ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	11.464	3.899	0.0	1	1.9
+1305164	491	V	I	vus	ca_ligand_backbone	FBN1_cbEGF1-3_Ca3	ok	-3.829	-1.302	0.0	1	1.6
+3073186	1092	D	N		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	4.967	1.69	0.0	1	0.4
+549142	1071	I	S		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	1.402	0.477	0.0	1	1.8
+919241	1089	T	N		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	4.098	1.394	0.0	1	1.1
+1006686	1071	I	V	vus	ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	0.567	0.193	0.0	1	1.8
+2936846	1089	T	A	vus	ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	0.94	0.32	0.0	1	1.2
+1728962	1071	I	T		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	1.421	0.483	0.0	1	1.7
+2941933	1132	T	A		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	-3.588	-1.22	0.0	1	0.7
+1677948	1092	D	V		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	10.761	3.66	0.0	1	1.5
+993755	1156	I	S		ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	4.27	1.452	0.0	1	0.5
+3386815	1156	I	N		ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	6.044	2.056	0.0	1	0.4
+918493	1135	S	R	vus	ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	6.244	2.124	0.0	1	1.1
+1479942	1135	S	G		ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	-0.835	-0.284	0.0	1	1.1
+927858	1114	I	T		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	1.181	0.402	0.0	1	2.0
+457196	1174	L	P		ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	22.766	7.744	0.0	1	0.9
+2922624	1215	S	F	vus	ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	-2.645	-0.9	0.0	1	0.6
+931716	1218	S	R		ca_ligand_backbone	FBN1_cbEGF15-17_Ca3	ok	5.15	1.752	0.0	1	0.4
+4758557	1239	I	V		ca_ligand_backbone	FBN1_cbEGF15-17_Ca3	ok	0.562	0.191	0.0	1	0.4
+4281920	1257	I	N	vus	ca_ligand_backbone	FBN1_cbEGF15-17_Ca3	ok	3.509	1.193	0.0	1	0.4
+636757	1198	I	T	vus	ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	2.77	0.942	0.0	1	1.3
+923663	1114	I	V		ca_ligand_backbone	FBN1_cbEGF11-13_Ca3	ok	0.045	0.015	0.0	1	2.3
+316375	1299	T	M	benign	ca_ligand_backbone	FBN1_cbEGF15-17_Ca3	ok	3.195	1.087	0.0	1	0.4
+2949928	1215	S	P		ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	16.614	5.651	0.0	1	0.8
+928399	1198	I	V	vus	ca_ligand_backbone	FBN1_cbEGF13-15_Ca3	ok	2.431	0.827	0.0	1	1.3
+4758149	1299	T	R		ca_ligand_backbone	FBN1_cbEGF15-17_Ca3	ok	3.257	1.108	0.0	1	0.4
+3752500	1323	I	M		ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	2.95	1.003	0.0	1	0.5
+2125129	1345	S	R		ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	8.842	3.007	0.0	1	0.4
+3754075	1383	T	S		ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	1.713	0.583	0.0	1	0.4
+3070839	1302	S	L	vus	ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	2.067	0.703	0.0	1	0.9
+3906696	1342	T	R		ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	1.982	0.674	0.0	1	1.0
+1362963	1302	S	P		ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	11.451	3.895	0.0	1	1.3
+1430918	1345	S	I		ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	7.87	2.677	0.0	1	1.3
+4758147	1423	A	V		ca_ligand_backbone	FBN1_cbEGF19-21_Ca3	ok	4.706	1.601	0.0	1	0.6
+1319508	1342	T	P		ca_ligand_backbone	FBN1_cbEGF17-19_Ca3	ok	18.504	6.294	0.0	1	1.4
+200041	1405	L	R	vus	ca_ligand_backbone	FBN1_cbEGF19-21_Ca3	ok	0.153	0.052	0.0	1	0.9
+3070734	1405	L	I		ca_ligand_backbone	FBN1_cbEGF19-21_Ca3	ok	1.803	0.613	0.0	1	0.8
+927577	1464	L	F		ca_ligand_backbone	FBN1_cbEGF19-21_Ca3	ok	-2.477	-0.843	0.0	1	0.6
+200039	1386	S	F	vus	ca_ligand_backbone	FBN1_cbEGF19-21_Ca3	ok	8.827	3.003	0.0	1	1.5
+1743811	1628	S	R		ca_ligand_backbone	FBN1_cbEGF23-25_Ca3	ok	8.38	2.85	0.0	1	0.6
+920374	1426	G	A	vus	ca_ligand_backbone	FBN1_cbEGF19-21_Ca3	ok	18.569	6.316	0.0	1	1.1
+626103	1488	V	L	vus	ca_ligand_backbone	FBN1_cbEGF21-23_Ca3	ok	5.611	1.908	0.0	1	1.3
+4843838	1666	T	A		ca_ligand_backbone	FBN1_cbEGF23-25_Ca3	ok	7.835	2.665	0.0	1	1.0
+519764	1508	S	I		ca_ligand_backbone	FBN1_cbEGF21-23_Ca3	ok	7.882	2.681	0.0	1	1.7
+3764244	1649	V	M		ca_ligand_backbone	FBN1_cbEGF23-25_Ca3	ok	5.322	1.81	0.0	1	1.2
+641887	1426	G	R		ca_ligand_backbone	FBN1_cbEGF19-21_Ca3	ok	11.613	3.95	0.0	1	2.3
+926630	1785	M	I		ca_ligand_backbone	FBN1_cbEGF23-25_Ca3	ok	2.193	0.746	0.0	1	1.1
+2934476	1809	I	V	vus	ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	-3.64	-1.238	0.0	1	0.9
+3759277	1827	T	P		ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	21.005	7.144	0.0	1	1.2
+927315	1830	S	N	vus	ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	0.138	0.047	0.0	1	0.9
+4756904	1669	N	S		ca_ligand_backbone	FBN1_cbEGF23-25_Ca3	ok	-1.198	-0.407	0.0	1	2.2
+1450245	1788	S	N		ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	0.35	0.119	0.0	1	2.0
+1743364	1607	I	T	vus	ca_ligand_backbone	FBN1_cbEGF21-23_Ca3	ok	6.524	2.219	0.0	1	3.5
+928372	1868	T	I		ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	5.146	1.75	0.0	1	1.1
+919776	1850	R	C		ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	3.814	1.297	0.0	1	1.6
+918768	1868	T	R	vus	ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	4.29	1.459	0.0	1	1.1
+1507924	1850	R	H	vus	ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	7.077	2.407	0.0	1	1.6
+2121644	1767	I	T	vus	ca_ligand_backbone	FBN1_cbEGF23-25_Ca3	ok	3.873	1.317	0.0	1	3.5
+582086	1892	I	L		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	1.774	0.603	0.0	1	0.4
+3071548	1850	R	L		ca_ligand_backbone	FBN1_cbEGF25-27_Ca3	ok	4.49	1.527	0.0	1	1.6
+915613	1892	I	V		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	0.504	0.171	0.0	1	0.4
+4758462	1892	I	M		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	3.517	1.196	0.0	1	0.5
+922756	1908	T	I	vus	ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	2.589	0.881	0.0	1	0.4
+3074354	1950	T	A		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	4.839	1.646	0.0	1	0.4
+527180	1871	S	R	vus	ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	7.14	2.428	0.0	1	1.5
+3346435	1950	T	I		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	4.024	1.369	0.0	1	0.4
+1172144	1871	S	R		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	7.14	2.428	0.0	1	1.5
+264487	1974	I	T		ca_ligand_backbone	FBN1_cbEGF29-31_Ca3	ok	3.88	1.32	0.0	1	0.4
+3756857	1974	I	V	vus	ca_ligand_backbone	FBN1_cbEGF29-31_Ca3	ok	0.597	0.203	0.0	1	0.4
+549299	1908	T	P		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	11.963	4.069	0.0	1	1.2
+1332122	2014	I	T	vus	ca_ligand_backbone	FBN1_cbEGF29-31_Ca3	ok	3.288	1.118	0.0	1	0.4
+1718831	1992	L	F		ca_ligand_backbone	FBN1_cbEGF29-31_Ca3	ok	4.69	1.595	0.0	1	0.7
+923073	510	S	L	vus	ca_ligand_backbone	FBN1_cbEGF3-5_Ca3	ok	12.443	4.232	0.0	1	0.4
+316369	2032	T	S	vus	ca_ligand_backbone	FBN1_cbEGF29-31_Ca3	ok	2.744	0.933	0.0	1	0.7
+3386779	1911	S	F		ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	3.253	1.106	0.0	1	1.4
+527199	1931	V	I	vus	ca_ligand_backbone	FBN1_cbEGF27-29_Ca3	ok	2.531	0.861	0.0	1	1.5
+3072236	531	I	S		ca_ligand_backbone	FBN1_cbEGF3-5_Ca3	ok	3.139	1.068	0.0	1	0.4
+2506792	2032	T	A		ca_ligand_backbone	FBN1_cbEGF29-31_Ca3	ok	4.149	1.411	0.0	1	0.8
+549322	1995	S	P		ca_ligand_backbone	FBN1_cbEGF29-31_Ca3	ok	15.019	5.108	0.0	1	1.2
+1438047	2145	T	I		ca_ligand_backbone	FBN1_cbEGF31-33_Ca3	ok	7.208	2.452	0.0	1	0.6
+1753509	2145	T	K		ca_ligand_backbone	FBN1_cbEGF31-33_Ca3	ok	5.885	2.002	0.0	1	0.6
+1302568	573	M	T	vus	ca_ligand_backbone	FBN1_cbEGF3-5_Ca3	ok	-3.143	-1.069	0.0	1	1.3
+2924353	573	M	V		ca_ligand_backbone	FBN1_cbEGF3-5_Ca3	ok	-1.184	-0.403	0.0	1	1.3
+3386845	573	M	I		ca_ligand_backbone	FBN1_cbEGF3-5_Ca3	ok	0.849	0.289	0.0	1	1.4
+200195	2167	T	P		ca_ligand_backbone	FBN1_cbEGF31-33_Ca3	ok	9.345	3.179	0.0	1	1.1
+927659	2187	G	D	vus	ca_ligand_backbone	FBN1_cbEGF33-35_Ca3	ok	10.812	3.678	0.0	1	0.8
+928686	2187	G	S	vus	ca_ligand_backbone	FBN1_cbEGF33-35_Ca3	ok	3.511	1.194	0.0	1	0.9
+3070990	2227	S	L		ca_ligand_backbone	FBN1_cbEGF33-35_Ca3	ok	11.938	4.061	0.0	1	0.5
+4822288	2248	E	G		ca_ligand_backbone	FBN1_cbEGF33-35_Ca3	ok	11.489	3.908	0.0	1	0.9
+4789637	2268	L	P		ca_ligand_backbone	FBN1_cbEGF33-35_Ca3	ok	18.29	6.221	0.0	1	1.0
+3236095	2148	S	P		ca_ligand_backbone	FBN1_cbEGF31-33_Ca3	ok	14.718	5.006	0.0	1	2.4
+1754802	2224	T	P		ca_ligand_backbone	FBN1_cbEGF33-35_Ca3	ok	18.387	6.254	0.0	1	1.6
+1376081	2128	M	T	vus	ca_ligand_backbone	FBN1_cbEGF31-33_Ca3	ok	2.464	0.838	0.0	1	2.8
+2689056	2421	D	N		ca_ligand_backbone	FBN1_cbEGF35-37_Ca3	ok	1.335	0.454	0.0	1	0.5
+457251	2227	S	P		ca_ligand_backbone	FBN1_cbEGF33-35_Ca3	ok	17.024	5.79	0.0	1	1.8
+2933381	2462	T	A	vus	ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	4.927	1.676	0.0	1	0.4
+2628374	2462	T	S		ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	1.716	0.584	0.0	1	0.4
+2944325	2313	S	I		ca_ligand_backbone	FBN1_cbEGF35-37_Ca3	ok	14.787	5.03	0.0	1	2.2
+4756787	2313	S	N		ca_ligand_backbone	FBN1_cbEGF35-37_Ca3	ok	0.072	0.024	0.0	1	2.0
+1171975	2503	T	I	vus	ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	7.162	2.436	0.0	1	0.6
+1392263	2465	S	I		ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	13.085	4.451	0.0	1	1.1
+938945	2462	T	P		ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	14.91	5.072	0.0	1	1.6
+4792311	2525	N	D		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	1.544	0.525	0.0	1	0.4
+3073132	2544	T	A	vus	ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	1.543	0.525	0.0	1	0.4
+1759237	2503	T	P		ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	25.344	8.62	0.0	1	0.9
+982345	2486	L	V		ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	3.922	1.334	0.0	1	1.6
+457262	2506	G	S		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	4.37	1.486	0.0	1	1.0
+3072775	2445	L	P		ca_ligand_backbone	FBN1_cbEGF37-39_Ca3	ok	12.912	4.392	0.0	1	2.2
+4528264	2544	T	N		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	3.41	1.16	0.0	1	0.4
+549396	2403	I	N		ca_ligand_backbone	FBN1_cbEGF35-37_Ca3	ok	8.293	2.821	0.0	1	2.8
+1043471	2584	I	M		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	2.594	0.882	0.0	1	0.7
+527191	2547	S	R		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	8.493	2.889	0.0	1	0.9
+42430	2547	S	I		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	15.86	5.395	0.0	1	1.0
+3900970	2584	I	F		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	5.221	1.776	0.0	1	0.8
+3600257	2544	T	P		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	19.262	6.552	0.0	1	1.4
+993575	2587	G	S	vus	ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	1.831	0.623	0.0	1	0.7
+4785387	2608	E	K		ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	0.614	0.209	0.0	1	0.3
+3070215	2628	S	N	vus	ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	2.009	0.683	0.0	1	0.3
+200125	2669	G	C	pathogenic	ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	10.48	3.564	0.0	1	0.4
+161238	2568	V	M	vus	ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	3.104	1.056	0.0	1	1.5
+4852311	2587	G	C		ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	5.569	1.894	0.0	1	0.7
+3386754	2568	V	L		ca_ligand_backbone	FBN1_cbEGF39-41_Ca3	ok	2.864	0.974	0.0	1	1.7
+3072739	614	I	T	vus	ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	3.428	1.166	0.0	1	0.6
+495655	2669	G	S	vus	ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	0.71	0.241	0.0	1	0.9
+2441773	2669	G	R		ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	3.453	1.175	0.0	1	0.8
+922302	631	T	S		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	1.229	0.418	0.0	1	1.1
+263642	2669	G	V	pathogenic	ca_ligand_backbone	FBN1_cbEGF41-43_Ca3	ok	8.838	3.006	0.0	1	1.6
+3754088	631	T	A		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	2.535	0.862	0.0	1	1.1
+2929795	766	I	V		ca_ligand_backbone	FBN1_cbEGF7-9_Ca3	ok	0.278	0.095	0.0	1	0.4
+959230	631	T	P		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	25.43	8.65	0.0	1	1.8
+3072036	784	T	S	vus	ca_ligand_backbone	FBN1_cbEGF7-9_Ca3	ok	2.482	0.844	0.0	1	0.4
+495573	742	L	P		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	17.236	5.863	0.0	1	1.1
+918422	784	T	I	vus	ca_ligand_backbone	FBN1_cbEGF7-9_Ca3	ok	-1.464	-0.498	0.0	1	0.7
+2926625	724	I	V		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	2.593	0.882	0.0	1	1.9
+237084	724	I	T		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	6.138	2.088	0.0	1	2.0
+2773375	824	S	N		ca_ligand_backbone	FBN1_cbEGF7-9_Ca3	ok	3.81	1.296	0.0	1	0.3
+1723377	808	I	V		ca_ligand_backbone	FBN1_cbEGF7-9_Ca3	ok	0.641	0.218	0.0	1	0.6
+3752004	634	S	F		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	11.912	4.052	0.0	1	2.7
+1349036	827	S	C		ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	3.435	1.168	0.0	1	0.8
+2920966	787	S	I		ca_ligand_backbone	FBN1_cbEGF7-9_Ca3	ok	8.75	2.976	0.0	1	1.1
+2941278	724	I	K		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	13.679	4.653	0.0	1	2.3
+568701	634	S	P		ca_ligand_backbone	FBN1_cbEGF5-7_Ca3	ok	36.337	12.36	0.0	1	3.2
+3386832	911	I	T	vus	ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	4.56	1.551	0.0	1	1.1
+495580	929	T	S	vus	ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	0.906	0.308	0.0	1	1.4
+628357	929	T	A	vus	ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	0.644	0.219	0.0	1	1.4
+36051	827	S	P	vus	ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	17.999	6.122	0.0	1	2.1
+1795984	929	T	S		ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	0.906	0.308	0.0	1	1.4
+2773371	929	T	I	vus	ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	-0.454	-0.154	0.0	1	1.4
+982324	1029	I	S		ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	8.353	2.841	0.0	1	1.5
+4758303	1047	T	A		ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	4.892	1.664	0.0	1	0.7
+3073231	1029	I	V	vus	ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	2.321	0.789	0.0	1	1.4
+2953543	290	D	Y	vus	motif_overcalled	FBN1_cbEGF1-3_Ca3	ok	8.282	2.817	0.0	1	0.8
+3070180	932	S	L	vus	ca_ligand_backbone	FBN1_cbEGF9-11_Ca3	ok	8.902	3.028	0.0	1	2.3
+4789088	290	D	N		motif_overcalled	FBN1_cbEGF1-3_Ca3	ok	3.381	1.15	0.0	1	0.8
+3075006	492	D	N		motif_overcalled	FBN1_cbEGF1-3_Ca3	ok	0.188	0.064	0.0	1	0.8
+3386863	290	D	V	vus	motif_overcalled	FBN1_cbEGF1-3_Ca3	ok	1.025	0.349	0.0	1	1.5
+925903	269	F	S	vus	motif_overcalled	FBN1_cbEGF1-3_Ca3	ok	3.584	1.219	0.0	1	2.1
+527185	1072	D	N	vus	motif_overcalled	FBN1_cbEGF11-13_Ca3	ok	2.818	0.958	0.0	1	1.3
+200015	1115	D	G	pathogenic	motif_overcalled	FBN1_cbEGF11-13_Ca3	ok	5.462	1.858	0.0	1	1.1
+549134	1051	F	S		motif_overcalled	FBN1_cbEGF11-13_Ca3	ok	5.964	2.029	0.0	1	1.7
+549143	1072	D	H		motif_overcalled	FBN1_cbEGF11-13_Ca3	ok	4.975	1.692	0.0	1	1.3
+982323	1072	D	V		motif_overcalled	FBN1_cbEGF11-13_Ca3	ok	5.711	1.942	0.0	1	1.3
+3074967	269	F	L		motif_overcalled	FBN1_cbEGF1-3_Ca3	ok	6.377	2.169	0.0	1	2.5
+200020	1199	D	G	pathogenic	motif_overcalled	FBN1_cbEGF13-15_Ca3	ok	6.715	2.284	0.0	1	0.4
+549171	1178	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF13-15_Ca3	ok	9.143	3.11	0.0	1	0.4
+1172046	1115	D	N		motif_overcalled	FBN1_cbEGF11-13_Ca3	ok	1.311	0.446	0.0	1	1.0
+200024	1240	D	N		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	1.735	0.59	0.0	1	0.4
+851489	1241	E	G		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	2.174	0.739	0.0	1	0.4
+2946282	1241	E	K	pathogenic	motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	-0.278	-0.095	0.0	1	0.4
+2922438	1115	D	Y		motif_overcalled	FBN1_cbEGF11-13_Ca3	ok	4.181	1.422	0.0	1	1.1
+549181	1219	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	4.279	1.456	0.0	1	1.0
+3369611	1282	N	K		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	3.635	1.236	0.0	1	0.7
+3894123	1282	N	D		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	3.47	1.18	0.0	1	0.7
+255295	1282	N	S		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	-1.244	-0.423	0.0	1	1.0
+3340335	1261	Y	N		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	-0.382	-0.13	0.0	1	1.1
+42343	1283	E	A		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	-5.49	-1.867	0.0	1	0.8
+549190	1283	E	K		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	-4.851	-1.65	0.0	1	0.8
+2953586	1324	N	T		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	2.913	0.991	0.0	1	0.3
+3513581	1303	F	C		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	8.938	3.04	0.0	1	0.5
+3763910	1324	N	S	vus	motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	-1.358	-0.462	0.0	1	0.4
+3763443	1324	N	D		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	1.811	0.616	0.0	1	0.3
+567633	1283	E	V		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	-5.081	-1.728	0.0	1	0.8
+2941083	1219	Y	S		motif_overcalled	FBN1_cbEGF15-17_Ca3	ok	-6.141	-2.089	0.0	1	1.8
+200031	1325	E	D		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	1.334	0.454	0.0	1	0.4
+200185	1325	E	A		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	-0.736	-0.25	0.0	1	0.4
+625121	1346	F	V		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	-0.431	-0.146	0.0	1	0.7
+200035	1365	D	G		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	8.297	2.822	0.0	1	0.9
+3386807	1365	D	N		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	4.307	1.465	0.0	1	0.9
+263872	1366	E	Q		motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	0.81	0.275	0.0	1	1.4
+973318	1406	D	G	pathogenic	motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	2.102	0.715	0.0	1	1.1
+200036	1366	E	K	pathogenic	motif_overcalled	FBN1_cbEGF17-19_Ca3	ok	3.135	1.066	0.0	1	1.6
+42350	1387	Y	C		motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	9.705	3.301	0.0	1	1.6
+527144	1448	D	N		motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	0.75	0.255	0.0	1	0.8
+200043	1448	D	G		motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	4.524	1.539	0.0	1	0.9
+439718	1387	Y	D	vus	motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	13.03	4.432	0.0	1	1.8
+449440	1427	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	9.649	3.282	0.0	1	1.4
+36076	1489	N	K	pathogenic	motif_overcalled	FBN1_cbEGF21-23_Ca3	ok	2.949	1.003	0.0	1	0.6
+373598	1489	N	S	vus	motif_overcalled	FBN1_cbEGF21-23_Ca3	ok	-0.412	-0.14	0.0	1	0.6
+180355	1509	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF21-23_Ca3	ok	6.022	2.048	0.0	1	0.6
+2952959	1509	Y	D		motif_overcalled	FBN1_cbEGF21-23_Ca3	ok	8.734	2.971	0.0	1	0.6
+3600239	1449	E	K		motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	0.693	0.236	0.0	1	1.3
+549225	1449	E	D	vus	motif_overcalled	FBN1_cbEGF19-21_Ca3	ok	1.371	0.466	0.0	1	1.4
+3072880	1608	D	N	vus	motif_overcalled	FBN1_cbEGF21-23_Ca3	ok	0.301	0.102	0.0	1	0.7
+3072799	1608	D	V		motif_overcalled	FBN1_cbEGF21-23_Ca3	ok	-0.251	-0.085	0.0	1	1.1
+1372322	1468	F	L	vus	motif_overcalled	FBN1_cbEGF21-23_Ca3	ok	4.989	1.697	0.0	1	1.8
+2773338	1629	F	S		motif_overcalled	FBN1_cbEGF23-25_Ca3	ok	3.27	1.112	0.0	1	2.0
+886749	1810	D	V		motif_overcalled	FBN1_cbEGF25-27_Ca3	ok	3.845	1.308	0.0	1	0.4
+885815	1768	D	E		motif_overcalled	FBN1_cbEGF23-25_Ca3	ok	0.81	0.276	0.0	1	1.8
+3849176	1768	D	Y	vus	motif_overcalled	FBN1_cbEGF23-25_Ca3	ok	2.668	0.907	0.0	1	1.8
+618120	1670	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF23-25_Ca3	ok	7.422	2.525	0.0	1	2.3
+3754062	1810	D	N		motif_overcalled	FBN1_cbEGF25-27_Ca3	ok	1.102	0.375	0.0	1	0.4
+888018	1810	D	Y		motif_overcalled	FBN1_cbEGF25-27_Ca3	ok	0.718	0.244	0.0	1	0.8
+2173266	1789	F	I		motif_overcalled	FBN1_cbEGF25-27_Ca3	ok	12.786	4.349	0.0	1	2.1
+2926374	1629	F	Y		motif_overcalled	FBN1_cbEGF23-25_Ca3	ok	-3.478	-1.183	0.0	1	3.7
+36090	1851	N	S		motif_overcalled	FBN1_cbEGF25-27_Ca3	ok	-0.801	-0.272	0.0	1	1.2
+4789646	1831	Y	N		motif_overcalled	FBN1_cbEGF25-27_Ca3	ok	0.129	0.044	0.0	1	1.3
+3896490	1651	E	G	vus	motif_overcalled	FBN1_cbEGF23-25_Ca3	ok	1.912	0.65	0.0	1	3.6
+264424	1651	E	K		motif_overcalled	FBN1_cbEGF23-25_Ca3	ok	-0.923	-0.314	0.0	1	4.0
+2446328	1872	F	S		motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	1.624	0.552	0.0	1	2.0
+982360	1912	F	C		motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	13.709	4.663	0.0	1	1.3
+180357	1954	F	C	pathogenic	motif_overcalled	FBN1_cbEGF29-31_Ca3	ok	5.36	1.823	0.0	1	0.4
+659198	1893	N	K		motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	-2.517	-0.856	0.0	1	2.1
+684598	1893	N	S	pathogenic	motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	-0.955	-0.325	0.0	1	2.1
+549307	1932	D	A		motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	3.779	1.285	0.0	1	1.2
+527208	1912	F	L		motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	6.669	2.268	0.0	1	1.8
+1400799	1975	N	S		motif_overcalled	FBN1_cbEGF29-31_Ca3	ok	-1.122	-0.382	0.0	1	0.4
+2584377	1975	N	K		motif_overcalled	FBN1_cbEGF29-31_Ca3	ok	5.145	1.75	0.0	1	0.4
+549300	1912	F	S		motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	5.289	1.799	0.0	1	1.9
+289267	2015	D	N	vus	motif_overcalled	FBN1_cbEGF29-31_Ca3	ok	0.459	0.156	0.0	1	0.4
+1683888	1912	F	L		motif_overcalled	FBN1_cbEGF27-29_Ca3	ok	6.669	2.268	0.0	1	1.8
+549328	2015	D	V	vus	motif_overcalled	FBN1_cbEGF29-31_Ca3	ok	3.893	1.324	0.0	1	0.5
+2950335	1954	F	L		motif_overcalled	FBN1_cbEGF29-31_Ca3	ok	-3.243	-1.103	0.0	1	1.1
+857616	553	F	I		motif_overcalled	FBN1_cbEGF3-5_Ca3	ok	0.862	0.293	0.0	1	0.9
+2773384	553	F	V	vus	motif_overcalled	FBN1_cbEGF3-5_Ca3	ok	2.652	0.902	0.0	1	1.0
+997890	2036	F	L		motif_overcalled	FBN1_cbEGF31-33_Ca3	ok	3.063	1.042	0.0	1	0.7
+527148	532	D	G	vus	motif_overcalled	FBN1_cbEGF3-5_Ca3	ok	6.222	2.116	0.0	1	1.2
+2939569	1996	Y	H		motif_overcalled	FBN1_cbEGF29-31_Ca3	ok	2.297	0.781	0.0	1	1.7
+618124	574	D	G		motif_overcalled	FBN1_cbEGF3-5_Ca3	ok	4.63	1.575	0.0	1	1.2
+439720	511	Y	C		motif_overcalled	FBN1_cbEGF3-5_Ca3	ok	8.509	2.894	0.0	1	1.7
+36100	2129	D	Y		motif_overcalled	FBN1_cbEGF31-33_Ca3	ok	1.623	0.552	0.0	1	1.3
+643925	2208	N	S		motif_overcalled	FBN1_cbEGF33-35_Ca3	ok	1.237	0.421	0.0	1	0.5
+1517910	2129	D	V		motif_overcalled	FBN1_cbEGF31-33_Ca3	ok	8.301	2.823	0.0	1	1.2
+449437	2168	D	G	pathogenic	motif_overcalled	FBN1_cbEGF31-33_Ca3	ok	4.65	1.582	0.0	1	1.2
+2674623	2188	F	C		motif_overcalled	FBN1_cbEGF33-35_Ca3	ok	5.903	2.008	0.0	1	1.2
+625125	2129	D	G		motif_overcalled	FBN1_cbEGF31-33_Ca3	ok	3.146	1.07	0.0	1	1.7
+42402	2149	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF31-33_Ca3	ok	4.668	1.588	0.0	1	1.7
+629673	2149	Y	F		motif_overcalled	FBN1_cbEGF31-33_Ca3	ok	0.93	0.316	0.0	1	1.6
+1406445	2249	D	N	vus	motif_overcalled	FBN1_cbEGF33-35_Ca3	ok	-1.429	-0.486	0.0	1	0.4
+495638	2228	Y	C	vus	motif_overcalled	FBN1_cbEGF33-35_Ca3	ok	14.494	4.93	0.0	1	0.8
+3754049	2208	N	T		motif_overcalled	FBN1_cbEGF33-35_Ca3	ok	-1.618	-0.55	0.0	1	1.1
+1754862	2228	Y	D		motif_overcalled	FBN1_cbEGF33-35_Ca3	ok	9.247	3.145	0.0	1	1.3
+42409	2249	D	G	vus	motif_overcalled	FBN1_cbEGF33-35_Ca3	ok	1.233	0.419	0.0	1	1.1
+2948974	2293	N	K		motif_overcalled	FBN1_cbEGF35-37_Ca3	ok	3.822	1.3	0.0	1	1.6
+1407992	2272	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF35-37_Ca3	ok	5.599	1.904	0.0	1	1.9
+4758034	2272	Y	H		motif_overcalled	FBN1_cbEGF35-37_Ca3	ok	6.733	2.29	0.0	1	1.9
+2453674	2446	N	D		motif_overcalled	FBN1_cbEGF37-39_Ca3	ok	0.496	0.169	0.0	1	1.4
+373268	2314	Y	C	vus	motif_overcalled	FBN1_cbEGF35-37_Ca3	ok	8.059	2.741	0.0	1	2.1
+4789636	2314	Y	N		motif_overcalled	FBN1_cbEGF35-37_Ca3	ok	9.133	3.106	0.0	1	2.3
+373976	2425	Y	C		motif_overcalled	FBN1_cbEGF37-39_Ca3	ok	7.628	2.594	0.0	1	1.8
+519765	2466	Y	C	vus	motif_overcalled	FBN1_cbEGF37-39_Ca3	ok	4.73	1.609	0.0	1	1.2
+3754041	2487	D	Y		motif_overcalled	FBN1_cbEGF37-39_Ca3	ok	5.573	1.896	0.0	1	1.1
+1759019	2487	D	G	pathogenic	motif_overcalled	FBN1_cbEGF37-39_Ca3	ok	6.178	2.101	0.0	1	1.3
+200198	2526	N	S	pathogenic	motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	2.069	0.704	0.0	1	1.0
+573316	2404	D	N		motif_overcalled	FBN1_cbEGF35-37_Ca3	ok	-1.134	-0.386	0.0	1	3.2
+2921756	2507	F	C		motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	4.66	1.585	0.0	1	1.3
+571222	2588	Y	C		motif_overcalled	FBN1_cbEGF41-43_Ca3	ok	6.183	2.103	0.0	1	0.5
+2773311	2588	Y	H		motif_overcalled	FBN1_cbEGF41-43_Ca3	ok	2.774	0.943	0.0	1	0.5
+1760233	2569	D	V		motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	3.269	1.112	0.0	1	1.1
+1392848	2569	D	G		motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	1.56	0.531	0.0	1	1.3
+3069737	2609	N	D		motif_overcalled	FBN1_cbEGF41-43_Ca3	ok	1.111	0.378	0.0	1	0.4
+2108834	2569	D	A		motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	-0.714	-0.243	0.0	1	1.2
+1465148	2548	F	L		motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	7.005	2.383	0.0	1	1.8
+3849180	2569	D	N		motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	-1.541	-0.524	0.0	1	1.2
+2413174	2548	F	Y	vus	motif_overcalled	FBN1_cbEGF39-41_Ca3	ok	-0.2	-0.068	0.0	1	2.1
+263693	2650	N	S	vus	motif_overcalled	FBN1_cbEGF41-43_Ca3	ok	-5.078	-1.727	0.0	1	0.7
+200201	2670	Y	C		motif_overcalled	FBN1_cbEGF41-43_Ca3	ok	3.734	1.27	0.0	1	1.0
+1761019	2629	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF41-43_Ca3	ok	5.762	1.96	0.0	1	1.1
+1401667	2670	Y	F		motif_overcalled	FBN1_cbEGF41-43_Ca3	ok	-0.003	-0.001	0.0	1	1.0
+42293	615	N	S	vus	motif_overcalled	FBN1_cbEGF5-7_Ca3	ok	1.522	0.518	0.0	1	1.1
+3255130	767	N	Y		motif_overcalled	FBN1_cbEGF7-9_Ca3	ok	0.089	0.03	0.0	1	0.4
+495562	616	E	G		motif_overcalled	FBN1_cbEGF5-7_Ca3	ok	7.683	2.613	0.0	1	1.1
+42294	616	E	K		motif_overcalled	FBN1_cbEGF5-7_Ca3	ok	0.349	0.119	0.0	1	1.6
+3513548	594	F	L		motif_overcalled	FBN1_cbEGF5-7_Ca3	ok	7.603	2.586	0.0	1	2.0
+2940719	616	E	Q		motif_overcalled	FBN1_cbEGF5-7_Ca3	ok	0.381	0.13	0.0	1	1.6
+495574	746	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF7-9_Ca3	ok	13.359	4.544	0.0	1	1.4
+520493	635	Y	C	pathogenic	motif_overcalled	FBN1_cbEGF5-7_Ca3	ok	3.39	1.153	0.0	1	1.5
+549080	809	D	G		motif_overcalled	FBN1_cbEGF7-9_Ca3	ok	3.793	1.29	0.0	1	0.6
+199994	768	E	A		motif_overcalled	FBN1_cbEGF7-9_Ca3	ok	-0.72	-0.245	0.0	1	1.3
+982338	768	E	G		motif_overcalled	FBN1_cbEGF7-9_Ca3	ok	3.59	1.221	0.0	1	1.3
+1789313	768	E	K	vus	motif_overcalled	FBN1_cbEGF7-9_Ca3	ok	0.765	0.26	0.0	1	1.5
+263632	1030	N	S	benign	motif_overcalled	FBN1_cbEGF9-11_Ca3	ok	1.517	0.516	0.0	1	1.2
+519802	261	N	S		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	-2.404	-0.818	0.0	1	1.5
+943589	912	D	G		motif_overcalled	FBN1_cbEGF9-11_Ca3	ok	1.909	0.649	0.0	1	1.9
+1331752	912	D	V		motif_overcalled	FBN1_cbEGF9-11_Ca3	ok	3.075	1.046	0.0	1	1.7
+3074011	912	D	H		motif_overcalled	FBN1_cbEGF9-11_Ca3	ok	0.832	0.283	0.0	1	1.8
+921386	261	N	I	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	-0.652	-0.222	0.0	1	1.5
+423542	281	E	D	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	0.651	0.221	0.0	1	0.6
+4789665	828	F	L		motif_overcalled	FBN1_cbEGF9-11_Ca3	ok	10.076	3.427	0.0	1	2.4
+920377	270	E	Q	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	0.96	0.327	0.0	1	1.6
+942009	281	E	D	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	0.651	0.221	0.0	1	0.7
+581305	303	E	K	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	1.16	0.395	0.0	1	0.8
+1677462	300	E	G		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	1.685	0.573	0.0	1	0.9
+925643	324	D	V		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	6.537	2.223	0.0	1	0.9
+1332115	324	D	G		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	8.076	2.747	0.0	1	1.0
+4758600	324	D	N		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	1.725	0.587	0.0	1	0.9
+1966585	287	E	K		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	1.556	0.529	0.0	1	2.0
+3075108	330	D	G	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	10.476	3.563	0.0	1	1.1
+2153030	375	E	D	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	2.368	0.805	0.0	1	0.9
+549470	287	E	G		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	5.072	1.725	0.0	1	2.1
+200177	383	E	K	pathogenic	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	0.938	0.319	0.0	1	1.0
+1040606	361	D	V	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	9.357	3.183	0.0	1	1.5
+2773391	400	E	D		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	1.064	0.362	0.0	1	0.7
+1017965	384	D	N	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	0.969	0.33	0.0	1	1.4
+2773393	330	D	V		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	5.042	1.715	0.0	1	2.2
+923169	475	E	D		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	2.277	0.775	0.0	1	0.8
+1171253	384	D	E	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	-0.521	-0.177	0.0	1	1.4
+263638	386	N	K		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	-0.226	-0.077	0.0	1	1.5
+643422	386	N	H		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	1.608	0.547	0.0	1	1.7
+200014	1062	D	N	vus	composition_control_DEN	FBN1_cbEGF11-13_Ca3	ok	2.292	0.78	0.0	1	0.9
+2773387	497	N	K	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	0.643	0.219	0.0	1	1.2
+546316	1099	E	D		composition_control_DEN	FBN1_cbEGF11-13_Ca3	ok	2.219	0.755	0.0	1	0.5
+4794184	497	N	K		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	0.643	0.219	0.0	1	1.2
+457191	1099	E	K		composition_control_DEN	FBN1_cbEGF11-13_Ca3	ok	0.376	0.128	0.0	1	0.7
+1004610	1120	D	V		composition_control_DEN	FBN1_cbEGF11-13_Ca3	ok	1.999	0.68	0.0	1	0.7
+2090244	483	D	A		composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	6.473	2.202	0.0	1	2.1
+452521	1149	N	S		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	0.052	0.018	0.0	1	0.5
+3386816	1149	N	T	vus	composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	1.767	0.601	0.0	1	0.5
+629467	487	E	A	vus	composition_control_DEN	FBN1_cbEGF1-3_Ca3	ok	5.831	1.983	0.0	1	1.9
+919653	1160	E	K	vus	composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	0.477	0.162	0.0	1	0.7
+222603	1191	D	N		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	2.129	0.724	0.0	1	0.3
+495595	1191	D	E	vus	composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	2.922	0.994	0.0	1	0.3
+2935318	1191	D	G		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	5.7	1.939	0.0	1	0.3
+3894505	1216	E	K		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	0.113	0.038	0.0	1	0.3
+2951892	1232	D	N		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	1.86	0.633	0.0	1	0.3
+200021	1205	N	S	vus	composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	3.133	1.066	0.0	1	0.7
+263998	1168	N	S		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	4.431	1.507	0.0	1	1.4
+3891895	1232	D	E		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	6.539	2.224	0.0	1	0.4
+519795	1243	E	G		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	1.188	0.404	0.0	1	0.4
+639700	1209	E	V		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	3.231	1.099	0.0	1	0.8
+3386812	1209	E	G		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	4.089	1.391	0.0	1	0.9
+2140340	1244	D	N		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	-0.764	-0.26	0.0	1	0.4
+391621	1139	E	Q		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	0.436	0.148	0.0	1	1.8
+3073182	1247	N	S	vus	composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	-0.532	-0.181	0.0	1	0.3
+316376	1247	N	I		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	4.998	1.7	0.0	1	0.3
+1734565	1250	D	E		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	3.773	1.283	0.0	1	0.3
+2682337	1267	D	G		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	3.428	1.166	0.0	1	0.3
+4538988	1267	D	N		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	1.339	0.455	0.0	1	0.3
+1328783	1289	N	S		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	0.039	0.013	0.0	1	0.3
+2042296	1168	N	I		composition_control_DEN	FBN1_cbEGF13-15_Ca3	ok	26.252	8.929	0.0	1	1.9
+2572595	1327	E	D		composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	0.377	0.128	0.0	1	0.3
+549184	1250	D	Y		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	17.1	5.816	0.0	1	1.0
+527189	1285	D	N		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	1.801	0.612	0.0	1	0.8
+918578	1332	N	K		composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	2.02	0.687	0.0	1	0.4
+4635371	1285	D	A	vus	composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	1.468	0.499	0.0	1	0.8
+3070377	1285	D	H		composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	2.179	0.741	0.0	1	0.8
+200027	1297	E	G	benign	composition_control_DEN	FBN1_cbEGF15-17_Ca3	ok	3.427	1.165	0.0	1	0.7
+3573861	1393	E	V		composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	4.375	1.488	0.0	1	0.4
+684789	1398	D	N		composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	2.339	0.796	0.0	1	0.3
+3386808	1357	D	V		composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	7.551	2.568	0.0	1	0.8
+42348	1369	N	S		composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	0.347	0.118	0.0	1	0.7
+3386806	1369	N	D	vus	composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	1.461	0.497	0.0	1	0.7
+4756913	1357	D	E		composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	5.783	1.967	0.0	1	0.9
+3072829	1369	N	K	vus	composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	0.911	0.31	0.0	1	0.7
+918294	1411	N	H		composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	3.7	1.258	0.0	1	0.4
+3752082	1411	N	K		composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	4.177	1.421	0.0	1	0.4
+4794352	1379	D	E		composition_control_DEN	FBN1_cbEGF17-19_Ca3	ok	3.771	1.283	0.0	1	1.0
+976206	1417	N	S		composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	3.469	1.18	0.0	1	0.4
+4076605	1417	N	K		composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	3.948	1.343	0.0	1	0.4
+918869	1454	N	S	vus	composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	2.228	0.758	0.0	1	0.3
+1018326	1398	D	G	vus	composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	4.359	1.483	0.0	1	1.1
+3386799	1471	E	Q		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	0.337	0.115	0.0	1	0.6
+222605	1477	E	K	vus	composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	2.191	0.745	0.0	1	0.6
+925320	1493	D	G	vus	composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	7.231	2.459	0.0	1	0.6
+200044	1479	D	E		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	7.498	2.551	0.0	1	0.6
+922236	1432	D	N	vus	composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	1.376	0.468	0.0	1	1.1
+3067747	1432	D	H		composition_control_DEN	FBN1_cbEGF19-21_Ca3	ok	2.579	0.877	0.0	1	1.1
+3375611	1493	D	N		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	1.092	0.372	0.0	1	0.6
+928275	1516	D	E	vus	composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	2.043	0.695	0.0	1	0.6
+4757782	1512	D	V		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	-1.166	-0.397	0.0	1	0.6
+2137692	1528	D	N		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	4.989	1.697	0.0	1	0.9
+3386791	1544	N	S		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	0.84	0.286	0.0	1	0.6
+4790191	1544	N	Y		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	1.599	0.544	0.0	1	0.6
+915679	1546	D	Y		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	3.836	1.305	0.0	1	0.7
+1331944	1528	D	E		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	0.62	0.211	0.0	1	1.9
+3849166	1537	D	N		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	0.064	0.022	0.0	1	2.0
+924833	1537	D	Y	vus	composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	-1.271	-0.432	0.0	1	2.0
+4088053	1537	D	G		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	3.7	1.259	0.0	1	1.8
+926574	1533	N	S		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	0.413	0.141	0.0	1	2.2
+3766278	1552	E	K		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	2.758	0.938	0.0	1	0.7
+2062673	1581	N	S	vus	composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	1.037	0.353	0.0	1	0.6
+42370	1584	E	K	benign	composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	2.165	0.736	0.0	1	0.7
+2015139	1593	E	G	vus	composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	3.544	1.206	0.0	1	0.7
+4536445	1520	N	K		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	34.826	11.846	0.0	1	3.0
+4756905	1641	E	K		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	0.155	0.053	0.0	1	0.6
+3069467	1551	N	I		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	10.539	3.585	0.0	1	1.8
+636784	1642	D	G		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	5.581	1.898	0.0	1	0.6
+4838978	1551	N	D		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	0.367	0.125	0.0	1	1.7
+4756831	1653	E	K		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	-0.083	-0.028	0.0	1	0.8
+1998376	1677	D	G		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	0.432	0.147	0.0	1	0.6
+1683750	1702	D	G	vus	composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	2.983	1.014	0.0	1	0.6
+1952443	1647	D	G		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	2.164	0.736	0.0	1	1.4
+4685136	1702	D	V		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	2.105	0.716	0.0	1	0.6
+632810	1647	D	V		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	-2.65	-0.901	0.0	1	1.6
+4758887	1612	E	A		composition_control_DEN	FBN1_cbEGF21-23_Ca3	ok	2.136	0.726	0.0	1	2.1
+967627	1698	N	S	vus	composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	0.057	0.019	0.0	1	2.0
+2921441	1734	E	K		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	1.039	0.353	0.0	1	0.9
+3386790	1698	N	D	vus	composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	0.184	0.063	0.0	1	2.1
+2773337	1707	D	E		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	5.1	1.735	0.0	1	1.6
+3750421	1685	N	S		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	-0.669	-0.227	0.0	1	2.7
+3761207	1707	D	N		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	3.106	1.056	0.0	1	1.6
+527197	1814	N	S		composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	-4.783	-1.627	0.0	1	0.5
+2663149	1707	D	G		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	5.401	1.837	0.0	1	2.0
+2928628	1758	D	N		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	2.679	0.911	0.0	1	1.1
+626593	1834	D	E	vus	composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	0.265	0.09	0.0	1	0.4
+947613	1823	E	K		composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	1.025	0.348	0.0	1	0.4
+1314852	1814	N	D		composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	-6.0	-2.041	0.0	1	0.6
+4292903	1758	D	A		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	5.087	1.73	0.0	1	1.2
+2180768	1884	D	V	vus	composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	2.77	0.942	0.0	1	0.4
+3761461	1884	D	N	vus	composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	1.131	0.385	0.0	1	0.4
+3069693	1730	N	S		composition_control_DEN	FBN1_cbEGF23-25_Ca3	ok	-4.315	-1.468	0.0	1	2.5
+429562	1858	N	S	vus	composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	1.831	0.623	0.0	1	0.8
+971295	1858	N	T		composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	5.161	1.755	0.0	1	0.8
+926906	1913	N	S	vus	composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	-0.041	-0.014	0.0	1	0.4
+4849735	1913	N	D		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	-0.02	-0.007	0.0	1	0.4
+2637410	1848	N	K		composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	0.663	0.226	0.0	1	1.5
+4787763	1917	N	S		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	1.051	0.358	0.0	1	0.4
+2953924	1885	D	E		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	0.511	0.174	0.0	1	0.8
+4756157	1883	N	S		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	0.426	0.145	0.0	1	1.3
+1372341	1925	N	S		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	1.716	0.584	0.0	1	0.3
+3758950	1848	N	S		composition_control_DEN	FBN1_cbEGF25-27_Ca3	ok	-0.579	-0.197	0.0	1	1.5
+2441380	1898	D	Y		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	1.607	0.547	0.0	1	0.9
+406371	1926	N	D	vus	composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	2.053	0.698	0.0	1	0.4
+924564	1926	N	K		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	1.268	0.431	0.0	1	0.4
+3894408	1926	N	S		composition_control_DEN	FBN1_cbEGF27-29_Ca3	ok	2.351	0.8	0.0	1	0.4
+519734	1959	N	K		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	2.391	0.813	0.0	1	0.4
+925249	1959	N	S		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	2.188	0.744	0.0	1	0.4
+920583	1959	N	D	vus	composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	-0.307	-0.104	0.0	1	0.4
+3906469	1960	E	Q		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	1.393	0.474	0.0	1	0.3
+1172438	1959	N	H		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	3.721	1.266	0.0	1	0.4
+632806	1967	D	E		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	4.115	1.4	0.0	1	0.4
+1172082	1967	D	Y	vus	composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	6.824	2.321	0.0	1	0.4
+4789641	1967	D	E		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	4.115	1.4	0.0	1	0.4
+579213	1993	D	N	vus	composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	0.541	0.184	0.0	1	0.3
+3386777	2008	N	K		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	1.185	0.403	0.0	1	0.3
+3894357	2008	N	S		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	1.52	0.517	0.0	1	0.3
+200190	2009	E	K		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	-1.269	-0.432	0.0	1	0.4
+623870	2019	E	K		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	0.08	0.027	0.0	1	0.3
+3894173	2022	E	K		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	0.33	0.112	0.0	1	0.4
+1751536	2033	E	K	vus	composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	1.775	0.604	0.0	1	0.4
+1388574	1980	E	Q		composition_control_DEN	FBN1_cbEGF29-31_Ca3	ok	0.634	0.216	0.0	1	0.8
+1298624	566	D	G		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	4.864	1.654	0.0	1	0.4
+3071190	591	D	E		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	-2.803	-0.953	0.0	1	0.4
+928916	584	N	S		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	4.59	1.561	0.0	1	0.6
+927454	542	N	S		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	-0.693	-0.236	0.0	1	1.0
+924155	542	N	H		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	1.222	0.416	0.0	1	1.1
+3072642	584	N	K		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	2.583	0.879	0.0	1	0.8
+921147	2066	E	K	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	0.48	0.163	0.0	1	0.7
+3849164	2077	N	T		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	0.096	0.033	0.0	1	0.7
+4794471	2077	N	S		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	0.827	0.281	0.0	1	0.6
+406372	543	N	I		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	18.161	6.177	0.0	1	1.5
+4757833	543	N	D		composition_control_DEN	FBN1_cbEGF3-5_Ca3	ok	1.678	0.571	0.0	1	1.5
+2931986	2094	D	E		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	2.893	0.984	0.0	1	0.7
+886701	2097	E	K	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	1.359	0.462	0.0	1	1.6
+200080	2105	E	Q		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	2.165	0.737	0.0	1	1.6
+3754053	2097	E	D		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	4.289	1.459	0.0	1	1.7
+1008866	2105	E	V		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	1.536	0.522	0.0	1	1.6
+3386774	2104	D	G		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	2.744	0.933	0.0	1	1.8
+1325434	2105	E	K		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	0.33	0.112	0.0	1	1.7
+2954494	2122	D	G		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	6.325	2.151	0.0	1	0.6
+2501637	2123	D	V		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	16.741	5.694	0.0	1	0.7
+3900131	2133	E	K		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	7.604	2.586	0.0	1	0.7
+200081	2135	D	N	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	0.047	0.016	0.0	1	0.6
+4847161	2082	E	K		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	3.755	1.277	0.0	1	3.1
+1332267	2135	D	H	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	2.359	0.802	0.0	1	0.7
+2572188	2105	E	D		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	2.022	0.688	0.0	1	1.6
+2090263	2135	D	V		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	17.084	5.811	0.0	1	0.6
+1309316	2133	E	G		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	2.972	1.011	0.0	1	1.4
+828000	2082	E	Q	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	0.215	0.073	0.0	1	3.7
+2630059	2163	E	V		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	1.332	0.453	0.0	1	0.6
+4758126	2174	N	S		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	11.336	3.856	0.0	1	0.7
+1332324	2178	N	S	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	3.414	1.161	0.0	1	0.7
+885629	2194	E	D		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	0.229	0.078	0.0	1	0.5
+519782	2178	N	K	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	0.998	0.34	0.0	1	0.9
+527149	2152	E	K	vus	composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	1.656	0.563	0.0	1	1.5
+255306	2193	E	K		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	-0.45	-0.153	0.0	1	0.8
+2773326	2229	E	G		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	14.396	4.897	0.0	1	0.4
+1753617	2152	E	G		composition_control_DEN	FBN1_cbEGF31-33_Ca3	ok	2.006	0.682	0.0	1	1.6
+927108	2253	E	D		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	2.245	0.763	0.0	1	0.4
+1522145	2253	E	K	vus	composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	-0.224	-0.076	0.0	1	0.4
+1709063	2260	E	K		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	0.491	0.167	0.0	1	0.3
+3069777	2257	D	N		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	0.456	0.155	0.0	1	0.3
+919296	2197	E	A	vus	composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	3.624	1.233	0.0	1	1.0
+2934416	2241	D	H	vus	composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	8.07	2.745	0.0	1	0.8
+1049329	2264	E	G		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	2.925	0.995	0.0	1	0.4
+628701	2189	E	Q		composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	0.531	0.181	0.0	1	1.7
+1330512	2197	E	D	vus	composition_control_DEN	FBN1_cbEGF33-35_Ca3	ok	0.308	0.105	0.0	1	1.2
+495641	2285	D	V		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	1.824	0.62	0.0	1	1.0
+921655	2304	N	S	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	3.457	1.176	0.0	1	0.7
+921460	2285	D	G	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	3.186	1.084	0.0	1	1.0
+926243	2287	E	Q		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-1.622	-0.552	0.0	1	1.1
+1190771	2287	E	K	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-1.56	-0.531	0.0	1	1.1
+3893941	2304	N	K		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	4.629	1.574	0.0	1	0.7
+4788301	2287	E	D		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-1.328	-0.452	0.0	1	1.1
+2948021	2304	N	T	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	5.539	1.884	0.0	1	1.1
+2773322	2319	N	S	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-0.585	-0.199	0.0	1	0.6
+200099	2320	D	V	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	3.299	1.122	0.0	1	0.5
+3072679	2327	N	S	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	0.633	0.215	0.0	1	0.6
+527165	2320	D	G	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	2.361	0.803	0.0	1	0.6
+3068674	2336	E	V	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	1.735	0.59	0.0	1	0.7
+3075457	2329	D	N		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	0.476	0.162	0.0	1	1.8
+316365	2329	D	E	benign	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-0.502	-0.171	0.0	1	1.8
+884560	2330	E	K	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-1.749	-0.595	0.0	1	2.1
+4023417	2330	E	G	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-0.697	-0.237	0.0	1	2.0
+2773320	2342	E	A		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	2.226	0.757	0.0	1	1.9
+263901	2356	N	S	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	2.922	0.994	0.0	1	1.5
+928188	2334	N	Y	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	3.487	1.186	0.0	1	2.3
+1502613	2411	D	N		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	3.204	1.09	0.0	1	0.9
+3071836	2354	N	S	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	0.01	0.003	0.0	1	2.8
+4758033	2356	N	D		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	0.105	0.036	0.0	1	1.8
+571705	2415	N	I	vus	composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	20.716	7.046	0.0	1	1.3
+3070691	2417	E	D		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-0.132	-0.045	0.0	1	1.0
+4055844	2415	N	S		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	4.965	1.689	0.0	1	1.2
+42425	2449	N	S	benign	composition_control_DEN	FBN1_cbEGF37-39_Ca3	ok	0.532	0.181	0.0	1	0.4
+3075005	2436	D	N	vus	composition_control_DEN	FBN1_cbEGF37-39_Ca3	ok	0.159	0.054	0.0	1	0.7
+3072157	2417	E	K		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	0.918	0.312	0.0	1	1.1
+3073825	2417	E	G		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	4.453	1.515	0.0	1	1.1
+648865	2366	D	N		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	-0.943	-0.321	0.0	1	2.6
+1415876	2399	N	S		composition_control_DEN	FBN1_cbEGF35-37_Ca3	ok	2.469	0.84	0.0	1	2.3
+632816	2495	N	S	vus	composition_control_DEN	FBN1_cbEGF37-39_Ca3	ok	0.915	0.311	0.0	1	0.7
+915546	2559	D	V		composition_control_DEN	FBN1_cbEGF39-41_Ca3	ok	3.155	1.073	0.0	1	0.3
+919568	2456	N	S	vus	composition_control_DEN	FBN1_cbEGF37-39_Ca3	ok	1.016	0.346	0.0	1	1.2
+3069409	2559	D	N		composition_control_DEN	FBN1_cbEGF39-41_Ca3	ok	1.566	0.533	0.0	1	0.3
+4757618	2531	D	H		composition_control_DEN	FBN1_cbEGF39-41_Ca3	ok	3.508	1.193	0.0	1	0.8
+1177904	2456	N	H	vus	composition_control_DEN	FBN1_cbEGF37-39_Ca3	ok	1.714	0.583	0.0	1	1.4
+200116	2533	N	S		composition_control_DEN	FBN1_cbEGF39-41_Ca3	ok	-0.533	-0.181	0.0	1	0.9
+36124	2667	E	K		composition_control_DEN	FBN1_cbEGF41-43_Ca3	ok	0.047	0.016	0.0	1	0.3
+3894170	2667	E	A		composition_control_DEN	FBN1_cbEGF41-43_Ca3	ok	1.299	0.442	0.0	1	0.3
+2954373	2533	N	K	vus	composition_control_DEN	FBN1_cbEGF39-41_Ca3	ok	1.13	0.384	0.0	1	1.0
+1332378	2572	E	K	vus	composition_control_DEN	FBN1_cbEGF39-41_Ca3	ok	-1.797	-0.611	0.0	1	0.8
+926733	2640	E	K	vus	composition_control_DEN	FBN1_cbEGF41-43_Ca3	ok	0.07	0.024	0.0	1	0.9
+3069213	632	D	G	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	2.508	0.853	0.0	1	0.5
+4787601	2640	E	A	vus	composition_control_DEN	FBN1_cbEGF41-43_Ca3	ok	-0.772	-0.263	0.0	1	0.9
+1433690	648	D	E	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	5.699	1.939	0.0	1	0.5
+4531015	648	D	G		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	8.245	2.804	0.0	1	0.5
+858956	2566	E	A	vus	composition_control_DEN	FBN1_cbEGF39-41_Ca3	ok	1.274	0.433	0.0	1	1.5
+2137706	654	D	N	pathogenic	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	4.443	1.511	0.0	1	0.7
+1332614	638	E	K	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	2.785	0.947	0.0	1	1.3
+199984	638	E	D	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	6.24	2.122	0.0	1	1.3
+4023418	689	E	K		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	1.495	0.508	0.0	1	0.7
+2689055	694	E	D		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	-0.502	-0.171	0.0	1	0.6
+4055950	694	E	D		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	-0.502	-0.171	0.0	1	0.6
+42299	730	D	N	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	7.365	2.505	0.0	1	0.6
+4759125	732	D	G		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	2.37	0.806	0.0	1	0.8
+4871232	682	E	K		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	6.459	2.197	0.0	1	1.8
+237085	736	N	D	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	3.513	1.195	0.0	1	0.9
+569768	654	D	H		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	3.841	1.307	0.0	1	2.1
+927916	682	E	Q	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	0.71	0.242	0.0	1	2.1
+4756313	730	D	E		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	2.697	0.917	0.0	1	1.2
+617875	736	N	S		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	4.313	1.467	0.0	1	0.9
+925725	736	N	K	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	2.96	1.007	0.0	1	0.9
+3386840	751	N	H	vus	composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	1.317	0.448	0.0	1	0.4
+4757350	751	N	S		composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	0.307	0.104	0.0	1	0.4
+884371	740	E	G	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	14.196	4.829	0.0	1	0.8
+1311615	740	E	A	vus	composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	2.345	0.797	0.0	1	1.1
+3073585	755	E	K		composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	1.659	0.564	0.0	1	0.9
+925034	772	N	S	vus	composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	4.087	1.39	0.0	1	0.7
+3901629	772	N	H	vus	composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	3.4	1.157	0.0	1	0.7
+4789666	740	E	D		composition_control_DEN	FBN1_cbEGF5-7_Ca3	ok	3.054	1.039	0.0	1	1.3
+3069584	777	D	H	vus	composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	-1.059	-0.36	0.0	1	0.8
+199997	812	E	K		composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	-1.027	-0.349	0.0	1	0.3
+926387	757	D	H	vus	composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	4.661	1.585	0.0	1	1.5
+457172	806	E	K		composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	-3.926	-1.335	0.0	1	0.7
+4074613	806	E	G		composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	-1.139	-0.387	0.0	1	0.8
+2441375	831	E	V		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	6.919	2.353	0.0	1	1.1
+2499897	835	E	Q		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	6.162	2.096	0.0	1	1.0
+859325	762	N	K		composition_control_DEN	FBN1_cbEGF7-9_Ca3	ok	-5.696	-1.937	0.0	1	2.5
+3600267	835	E	V		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-0.539	-0.183	0.0	1	1.8
+2949767	839	D	N		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	0.007	0.003	0.0	1	1.8
+2935379	865	N	K		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	4.177	1.421	0.0	1	2.0
+519804	867	N	S		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	8.683	2.954	0.0	1	1.7
+3386837	863	E	A	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	3.126	1.063	0.0	1	2.3
+450130	867	N	I		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	9.245	3.145	0.0	1	2.8
+1171630	867	N	K		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	5.823	1.981	0.0	1	2.6
+925624	909	E	D		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	1.643	0.559	0.0	1	0.9
+4756594	867	N	T		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	5.696	1.937	0.0	1	2.6
+1076287	952	D	N		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	1.42	0.483	0.0	1	1.0
+402849	915	E	K	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-0.145	-0.049	0.0	1	1.4
+549101	893	D	N		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	10.605	3.607	0.0	1	3.4
+36056	893	D	H		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	11.224	3.818	0.0	1	3.6
+923997	923	N	S	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	3.215	1.094	0.0	1	2.0
+2773372	893	D	G	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	14.39	4.894	0.0	1	2.9
+1163973	893	D	Y		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	12.281	4.177	0.0	1	3.4
+1304329	964	D	V		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	16.981	5.776	0.0	1	0.7
+641157	963	E	K	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-1.521	-0.517	0.0	1	1.5
+449603	965	E	K	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-0.644	-0.219	0.0	1	0.7
+1329358	963	E	Q		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-2.226	-0.757	0.0	1	1.5
+520495	965	E	Q	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	0.364	0.124	0.0	1	0.7
+1325487	952	D	H		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	2.561	0.871	0.0	1	2.3
+2419758	992	E	D		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	1.378	0.469	0.0	1	1.1
+918728	1000	N	S		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	2.054	0.699	0.0	1	0.8
+519785	966	E	D	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	2.923	0.994	0.0	1	1.8
+3386826	994	E	A		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	1.568	0.533	0.0	1	1.5
+1332421	994	E	K	vus	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-0.241	-0.082	0.0	1	1.5
+1038536	1000	N	I		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	16.207	5.513	0.0	1	0.8
+4789658	1000	N	D		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	0.629	0.214	0.0	1	0.9
+3074390	995	E	K		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	0.772	0.262	0.0	1	2.1
+199947	978	D	E	benign	composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	2.543	0.865	0.0	1	3.0
+200009	1005	E	K		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-0.927	-0.315	0.0	1	1.6
+2924888	978	D	G		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	7.043	2.395	0.0	1	3.2
+921753	1006	E	K		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	-0.183	-0.062	0.0	1	2.5
+3760955	1006	E	G		composition_control_DEN	FBN1_cbEGF9-11_Ca3	ok	0.876	0.298	0.0	1	2.6
+2944928	250	C	R		cys_removing	FBN1_cbEGF1-3_Ca3	ok	3.318	1.129	0.0	1	2.7
+3230427	262	C	F		cys_removing	FBN1_cbEGF1-3_Ca3	ok	25.552	8.691	0.0	1	3.0
+3375811	262	C	W		cys_removing	FBN1_cbEGF1-3_Ca3	ok	40.517	13.781	0.0	1	3.1
+617870	271	C	W		cys_removing	FBN1_cbEGF1-3_Ca3	ok	15.521	5.279	0.0	1	2.7
+406269	271	C	G	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	5.051	1.718	0.0	1	3.7
+3068333	271	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	1.676	0.57	0.0	1	2.4
+1762124	271	C	Y		cys_removing	FBN1_cbEGF1-3_Ca3	ok	13.05	4.439	0.0	1	3.5
+807250	299	C	R	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	69.107	23.506	0.0	1	4.6
+495662	304	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	35.106	11.941	0.0	1	3.8
+1067815	313	C	F		cys_removing	FBN1_cbEGF1-3_Ca3	ok	16.975	5.774	0.0	1	3.7
+3754093	299	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	67.566	22.982	0.0	1	5.1
+4277258	313	C	Y		cys_removing	FBN1_cbEGF1-3_Ca3	ok	19.67	6.69	0.0	1	4.3
+934678	336	C	G		cys_removing	FBN1_cbEGF1-3_Ca3	ok	-3.796	-1.291	0.0	1	1.9
+1325438	313	C	R		cys_removing	FBN1_cbEGF1-3_Ca3	ok	31.38	10.674	0.0	1	4.6
+2632875	345	C	R		cys_removing	FBN1_cbEGF1-3_Ca3	ok	-2.408	-0.819	0.0	1	2.5
+548997	336	C	R	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	25.095	8.536	0.0	1	3.7
+2921976	358	C	S	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	3.632	1.235	0.0	1	3.0
+1469554	336	C	Y		cys_removing	FBN1_cbEGF1-3_Ca3	ok	65.189	22.173	0.0	1	5.1
+2095184	315	C	R	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	20.949	7.126	0.0	1	8.1
+549003	359	C	Y		cys_removing	FBN1_cbEGF1-3_Ca3	ok	8.521	2.898	0.0	1	3.1
+549002	359	C	R		cys_removing	FBN1_cbEGF1-3_Ca3	ok	15.296	5.203	0.0	1	4.0
+1784344	358	C	W		cys_removing	FBN1_cbEGF1-3_Ca3	ok	130.022	44.225	0.0	1	6.0
+1076563	359	C	F		cys_removing	FBN1_cbEGF1-3_Ca3	ok	6.421	2.184	0.0	1	2.9
+457157	360	C	Y		cys_removing	FBN1_cbEGF1-3_Ca3	ok	12.218	4.156	0.0	1	3.3
+549001	358	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	81.475	27.713	0.0	1	6.9
+3773843	360	C	W		cys_removing	FBN1_cbEGF1-3_Ca3	ok	44.552	15.154	0.0	1	3.4
+2927220	377	C	G	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	9.102	3.096	0.0	1	1.6
+264158	377	C	R	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	45.187	15.37	0.0	1	4.1
+803097	377	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	30.087	10.234	0.0	1	3.4
+636640	460	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	37.254	12.672	0.0	1	3.6
+684576	460	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	2.374	0.808	0.0	1	2.9
+4635358	460	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	2.374	0.808	0.0	1	2.9
+549472	313	C	W		cys_removing	FBN1_cbEGF1-3_Ca3	ok	71.539	24.333	0.0	1	15.5
+199967	474	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	26.328	8.955	0.0	1	2.7
+495555	474	C	G		cys_removing	FBN1_cbEGF1-3_Ca3	ok	1.299	0.442	0.0	1	2.5
+449898	474	C	R		cys_removing	FBN1_cbEGF1-3_Ca3	ok	34.577	11.761	0.0	1	3.2
+4635372	460	C	W		cys_removing	FBN1_cbEGF1-3_Ca3	ok	77.78	26.456	0.0	1	4.8
+200179	476	C	G	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	2.197	0.747	0.0	1	2.4
+929136	476	C	F		cys_removing	FBN1_cbEGF1-3_Ca3	ok	1.241	0.422	0.0	1	2.0
+549015	474	C	F	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	21.799	7.415	0.0	1	2.6
+406325	476	C	R	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	21.81	7.418	0.0	1	2.4
+517124	474	C	W		cys_removing	FBN1_cbEGF1-3_Ca3	ok	36.915	12.556	0.0	1	3.1
+970337	476	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	-0.231	-0.079	0.0	1	2.1
+1772413	476	C	W	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	2.269	0.772	0.0	1	2.1
+3775330	476	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	-0.754	-0.257	0.0	1	2.3
+1180492	488	C	G		cys_removing	FBN1_cbEGF1-3_Ca3	ok	6.63	2.255	0.0	1	2.5
+374079	494	C	F		cys_removing	FBN1_cbEGF1-3_Ca3	ok	5.121	1.742	0.0	1	1.5
+4789672	488	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	4.575	1.556	0.0	1	2.7
+381612	494	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	4.05	1.378	0.0	1	1.7
+502478	494	C	S	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	-2.386	-0.812	0.0	1	1.7
+1996097	494	C	W	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	3.692	1.256	0.0	1	1.8
+846906	499	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	5.184	1.763	0.0	1	1.4
+549018	488	C	F		cys_removing	FBN1_cbEGF1-3_Ca3	ok	18.548	6.309	0.0	1	4.6
+549017	488	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	56.15	19.099	0.0	1	4.5
+2941675	494	C	R		cys_removing	FBN1_cbEGF1-3_Ca3	ok	4.011	1.364	0.0	1	1.8
+155791	499	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	44.699	15.204	0.0	1	2.1
+1120215	499	C	G		cys_removing	FBN1_cbEGF1-3_Ca3	ok	3.498	1.19	0.0	1	1.6
+457162	488	C	R	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	17.582	5.98	0.0	1	5.8
+4783806	499	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	5.184	1.763	0.0	1	1.4
+495557	504	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	4.962	1.688	0.0	1	1.8
+2925575	499	C	R		cys_removing	FBN1_cbEGF1-3_Ca3	ok	72.724	24.736	0.0	1	2.2
+549021	504	C	Y	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	23.75	8.078	0.0	1	2.0
+3775542	499	C	F		cys_removing	FBN1_cbEGF1-3_Ca3	ok	33.439	11.374	0.0	1	2.2
+549020	504	C	R	pathogenic	cys_removing	FBN1_cbEGF1-3_Ca3	ok	11.321	3.851	0.0	1	2.0
+653004	504	C	S		cys_removing	FBN1_cbEGF1-3_Ca3	ok	4.962	1.688	0.0	1	1.7
+547307	1053	C	G	pathogenic	cys_removing	FBN1_cbEGF11-13_Ca3	ok	3.063	1.042	0.0	1	1.8
+549135	1053	C	S		cys_removing	FBN1_cbEGF11-13_Ca3	ok	2.991	1.017	0.0	1	1.8
+42327	1055	C	Y	pathogenic	cys_removing	FBN1_cbEGF11-13_Ca3	ok	2.122	0.722	0.0	1	1.2
+549136	1055	C	W		cys_removing	FBN1_cbEGF11-13_Ca3	ok	3.589	1.221	0.0	1	1.3
+665324	1068	C	S		cys_removing	FBN1_cbEGF11-13_Ca3	ok	3.036	1.033	0.0	1	1.5
+549137	1068	C	R		cys_removing	FBN1_cbEGF11-13_Ca3	ok	28.572	9.718	0.0	1	2.1
+16465	1086	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	20.979	7.136	0.0	1	1.2
+16438	1074	C	R		cys_removing	FBN1_cbEGF11-13_Ca3	ok	3.066	1.043	0.0	1	1.6
+439705	1074	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	4.358	1.482	0.0	1	1.6
+946557	1053	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	48.603	16.532	0.0	1	3.0
+946172	1086	C	G		cys_removing	FBN1_cbEGF11-13_Ca3	ok	-2.292	-0.78	0.0	1	1.0
+549138	1068	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	41.752	14.202	0.0	1	3.2
+3254610	1086	C	S		cys_removing	FBN1_cbEGF11-13_Ca3	ok	-1.017	-0.346	0.0	1	1.1
+418194	1095	C	S		cys_removing	FBN1_cbEGF11-13_Ca3	ok	-4.934	-1.678	0.0	1	1.3
+684730	1095	C	S		cys_removing	FBN1_cbEGF11-13_Ca3	ok	-4.934	-1.678	0.0	1	1.3
+549147	1086	C	R		cys_removing	FBN1_cbEGF11-13_Ca3	ok	27.731	9.432	0.0	1	1.8
+949264	1095	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	9.339	3.176	0.0	1	1.6
+1067104	1111	C	G		cys_removing	FBN1_cbEGF11-13_Ca3	ok	4.386	1.492	0.0	1	1.4
+2021355	1111	C	S		cys_removing	FBN1_cbEGF11-13_Ca3	ok	5.478	1.863	0.0	1	1.5
+429763	1097	C	R		cys_removing	FBN1_cbEGF11-13_Ca3	ok	17.0	5.782	0.0	1	2.2
+549150	1097	C	Y	pathogenic	cys_removing	FBN1_cbEGF11-13_Ca3	ok	23.133	7.868	0.0	1	2.2
+864854	1053	C	W		cys_removing	FBN1_cbEGF11-13_Ca3	ok	73.879	25.129	0.0	1	6.1
+626596	1097	C	F		cys_removing	FBN1_cbEGF11-13_Ca3	ok	11.988	4.078	0.0	1	2.9
+16428	1117	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	1.695	0.577	0.0	1	1.5
+1390245	1117	C	R		cys_removing	FBN1_cbEGF11-13_Ca3	ok	8.884	3.022	0.0	1	1.4
+625119	1111	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	55.213	18.78	0.0	1	3.2
+1810233	1117	C	F		cys_removing	FBN1_cbEGF11-13_Ca3	ok	1.39	0.473	0.0	1	1.5
+1325494	1124	C	G		cys_removing	FBN1_cbEGF11-13_Ca3	ok	0.722	0.246	0.0	1	1.5
+3061450	1111	C	F		cys_removing	FBN1_cbEGF11-13_Ca3	ok	67.006	22.791	0.0	1	3.0
+1466451	1124	C	S		cys_removing	FBN1_cbEGF11-13_Ca3	ok	5.439	1.85	0.0	1	1.8
+855960	1129	C	R		cys_removing	FBN1_cbEGF11-13_Ca3	ok	46.228	15.724	0.0	1	1.6
+16463	1129	C	Y		cys_removing	FBN1_cbEGF11-13_Ca3	ok	19.204	6.532	0.0	1	1.6
+1683743	1124	C	R		cys_removing	FBN1_cbEGF11-13_Ca3	ok	54.387	18.499	0.0	1	2.2
+495590	1138	C	S	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	0.97	0.33	0.0	1	1.8
+430152	1138	C	R		cys_removing	FBN1_cbEGF13-15_Ca3	ok	9.551	3.249	0.0	1	1.9
+42333	1138	C	F	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	6.613	2.249	0.0	1	2.5
+406347	1140	C	Y		cys_removing	FBN1_cbEGF13-15_Ca3	ok	20.24	6.884	0.0	1	2.2
+200018	1159	C	S		cys_removing	FBN1_cbEGF13-15_Ca3	ok	-7.894	-2.685	0.0	1	0.9
+263660	1153	C	R	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	13.969	4.751	0.0	1	2.3
+667006	1138	C	Y		cys_removing	FBN1_cbEGF13-15_Ca3	ok	5.49	1.867	0.0	1	3.8
+547309	1159	C	Y	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	-0.087	-0.03	0.0	1	1.8
+2571593	1153	C	F		cys_removing	FBN1_cbEGF13-15_Ca3	ok	7.589	2.581	0.0	1	2.4
+549164	1140	C	F		cys_removing	FBN1_cbEGF13-15_Ca3	ok	18.393	6.256	0.0	1	3.0
+549168	1159	C	R	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	-3.007	-1.023	0.0	1	2.0
+457194	1153	C	Y	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	14.899	5.068	0.0	1	3.4
+420926	1166	C	R		cys_removing	FBN1_cbEGF13-15_Ca3	ok	28.607	9.73	0.0	1	2.6
+549170	1171	C	Y		cys_removing	FBN1_cbEGF13-15_Ca3	ok	25.133	8.549	0.0	1	2.2
+863722	1166	C	Y	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	25.756	8.761	0.0	1	2.9
+803091	1182	C	Y	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	0.916	0.312	0.0	1	1.7
+549172	1180	C	Y		cys_removing	FBN1_cbEGF13-15_Ca3	ok	28.165	9.58	0.0	1	2.4
+1460238	1180	C	R		cys_removing	FBN1_cbEGF13-15_Ca3	ok	18.624	6.335	0.0	1	2.2
+1069718	1171	C	R		cys_removing	FBN1_cbEGF13-15_Ca3	ok	18.958	6.448	0.0	1	2.6
+1712174	1182	C	S		cys_removing	FBN1_cbEGF13-15_Ca3	ok	0.21	0.071	0.0	1	1.8
+492828	1171	C	W		cys_removing	FBN1_cbEGF13-15_Ca3	ok	36.683	12.477	0.0	1	223.2
+549176	1201	C	Y		cys_removing	FBN1_cbEGF13-15_Ca3	ok	5.063	1.722	0.0	1	220.7
+1522804	1195	C	G		cys_removing	FBN1_cbEGF13-15_Ca3	ok	5.676	1.931	0.0	1	221.0
+387797	1212	C	S		cys_removing	FBN1_cbEGF13-15_Ca3	ok	1.054	0.359	0.0	1	220.8
+519748	1208	C	F	pathogenic	cys_removing	FBN1_cbEGF13-15_Ca3	ok	32.362	11.007	0.0	1	220.9
+944924	1212	C	R		cys_removing	FBN1_cbEGF13-15_Ca3	ok	27.279	9.278	0.0	1	221.2
+2069386	1208	C	W		cys_removing	FBN1_cbEGF13-15_Ca3	ok	53.43	18.173	0.0	1	221.6
+263427	1195	C	Y		cys_removing	FBN1_cbEGF13-15_Ca3	ok	18.405	6.26	0.0	1	222.2
+1332729	1212	C	Y		cys_removing	FBN1_cbEGF13-15_Ca3	ok	10.17	3.459	0.0	1	2.0
+1456223	1221	C	R		cys_removing	FBN1_cbEGF15-17_Ca3	ok	4.293	1.46	0.0	1	2.0
+1472021	1221	C	S		cys_removing	FBN1_cbEGF15-17_Ca3	ok	-1.08	-0.367	0.0	1	2.0
+16444	1223	C	Y		cys_removing	FBN1_cbEGF15-17_Ca3	ok	5.096	1.733	0.0	1	1.9
+495599	1236	C	Y	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	4.547	1.547	0.0	1	1.8
+200184	1223	C	F		cys_removing	FBN1_cbEGF15-17_Ca3	ok	4.921	1.674	0.0	1	1.9
+549182	1236	C	R		cys_removing	FBN1_cbEGF15-17_Ca3	ok	5.955	2.025	0.0	1	1.7
+16464	1221	C	Y		cys_removing	FBN1_cbEGF15-17_Ca3	ok	11.858	4.033	0.0	1	3.0
+16429	1242	C	Y	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	-7.71	-2.622	0.0	1	1.1
+2637911	1242	C	W		cys_removing	FBN1_cbEGF15-17_Ca3	ok	-7.047	-2.397	0.0	1	1.1
+2952527	1249	C	G		cys_removing	FBN1_cbEGF15-17_Ca3	ok	-0.259	-0.088	0.0	1	0.5
+1350034	1236	C	G		cys_removing	FBN1_cbEGF15-17_Ca3	ok	4.691	1.595	0.0	1	1.6
+1454772	1242	C	R		cys_removing	FBN1_cbEGF15-17_Ca3	ok	-7.722	-2.627	0.0	1	1.3
+16425	1249	C	S		cys_removing	FBN1_cbEGF15-17_Ca3	ok	-4.838	-1.645	0.0	1	1.3
+457199	1265	C	S	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	0.33	0.112	0.0	1	0.5
+2118439	1249	C	Y		cys_removing	FBN1_cbEGF15-17_Ca3	ok	24.538	8.346	0.0	1	2.0
+430151	1254	C	Y		cys_removing	FBN1_cbEGF15-17_Ca3	ok	23.834	8.107	0.0	1	2.3
+3513520	1265	C	G		cys_removing	FBN1_cbEGF15-17_Ca3	ok	2.4	0.816	0.0	1	0.6
+2137697	1265	C	Y	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	-2.828	-0.962	0.0	1	1.4
+3759288	1254	C	R		cys_removing	FBN1_cbEGF15-17_Ca3	ok	35.037	11.917	0.0	1	2.5
+1735367	1278	C	S	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	4.216	1.434	0.0	1	0.4
+2949946	1263	C	F		cys_removing	FBN1_cbEGF15-17_Ca3	ok	44.729	15.214	0.0	1	2.4
+16450	1265	C	R		cys_removing	FBN1_cbEGF15-17_Ca3	ok	43.861	14.919	0.0	1	2.9
+1406071	1265	C	F		cys_removing	FBN1_cbEGF15-17_Ca3	ok	66.267	22.54	0.0	1	2.7
+1393053	1284	C	S		cys_removing	FBN1_cbEGF15-17_Ca3	ok	-6.098	-2.074	0.0	1	0.9
+847403	1284	C	R		cys_removing	FBN1_cbEGF15-17_Ca3	ok	-2.624	-0.892	0.0	1	1.0
+449441	1284	C	Y	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	1.71	0.582	0.0	1	1.2
+2098867	1278	C	Y		cys_removing	FBN1_cbEGF15-17_Ca3	ok	21.094	7.175	0.0	1	2.1
+4789656	1291	C	S		cys_removing	FBN1_cbEGF15-17_Ca3	ok	1.489	0.506	0.0	1	1.3
+265347	1278	C	W	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	71.553	24.338	0.0	1	2.6
+373490	1263	C	W		cys_removing	FBN1_cbEGF15-17_Ca3	ok	97.391	33.126	0.0	1	4.6
+42344	1296	C	R	pathogenic	cys_removing	FBN1_cbEGF15-17_Ca3	ok	39.148	13.316	0.0	1	1.8
+3754077	1296	C	Y		cys_removing	FBN1_cbEGF15-17_Ca3	ok	37.978	12.918	0.0	1	1.9
+549196	1320	C	S		cys_removing	FBN1_cbEGF17-19_Ca3	ok	2.176	0.74	0.0	1	1.6
+2929120	1305	C	Y		cys_removing	FBN1_cbEGF17-19_Ca3	ok	26.544	9.028	0.0	1	2.7
+1736484	1320	C	S		cys_removing	FBN1_cbEGF17-19_Ca3	ok	2.176	0.74	0.0	1	1.5
+549197	1320	C	F		cys_removing	FBN1_cbEGF17-19_Ca3	ok	45.898	15.611	0.0	1	2.3
+973868	1307	C	W		cys_removing	FBN1_cbEGF17-19_Ca3	ok	45.976	15.638	0.0	1	3.2
+2137695	1326	C	R		cys_removing	FBN1_cbEGF17-19_Ca3	ok	5.004	1.702	0.0	1	1.2
+432123	1326	C	Y	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	5.953	2.025	0.0	1	1.3
+4783800	1320	C	Y	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	48.803	16.6	0.0	1	2.3
+4789654	1326	C	S		cys_removing	FBN1_cbEGF17-19_Ca3	ok	0.163	0.055	0.0	1	1.1
+639403	1320	C	R	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	21.839	7.428	0.0	1	3.4
+3600505	1326	C	W		cys_removing	FBN1_cbEGF17-19_Ca3	ok	7.681	2.612	0.0	1	1.4
+42346	1339	C	S	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	14.065	4.784	0.0	1	1.0
+2152237	1333	C	Y		cys_removing	FBN1_cbEGF17-19_Ca3	ok	26.241	8.925	0.0	1	2.2
+3383081	1333	C	G		cys_removing	FBN1_cbEGF17-19_Ca3	ok	2.91	0.99	0.0	1	1.6
+3754076	1333	C	R		cys_removing	FBN1_cbEGF17-19_Ca3	ok	13.446	4.573	0.0	1	1.9
+549200	1339	C	Y		cys_removing	FBN1_cbEGF17-19_Ca3	ok	38.713	13.168	0.0	1	1.8
+2137696	1307	C	Y	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	34.54	11.748	0.0	1	5.6
+4403235	1339	C	F		cys_removing	FBN1_cbEGF17-19_Ca3	ok	32.121	10.926	0.0	1	1.8
+42347	1350	C	S		cys_removing	FBN1_cbEGF17-19_Ca3	ok	0.88	0.299	0.0	1	1.0
+803089	1350	C	G		cys_removing	FBN1_cbEGF17-19_Ca3	ok	5.033	1.712	0.0	1	0.8
+457202	1348	C	Y	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	14.776	5.026	0.0	1	2.7
+1072290	1348	C	R		cys_removing	FBN1_cbEGF17-19_Ca3	ok	15.441	5.252	0.0	1	2.3
+527200	1348	C	W		cys_removing	FBN1_cbEGF17-19_Ca3	ok	32.027	10.894	0.0	1	2.8
+1413441	1348	C	F		cys_removing	FBN1_cbEGF17-19_Ca3	ok	14.926	5.077	0.0	1	2.5
+803090	1350	C	R	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	29.974	10.195	0.0	1	1.7
+527159	1367	C	S		cys_removing	FBN1_cbEGF17-19_Ca3	ok	0.961	0.327	0.0	1	1.2
+549204	1350	C	F	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	70.837	24.094	0.0	1	2.9
+549209	1367	C	R		cys_removing	FBN1_cbEGF17-19_Ca3	ok	4.149	1.411	0.0	1	1.2
+626882	1361	C	R	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	20.574	6.998	0.0	1	2.0
+1325416	1367	C	Y	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	3.202	1.089	0.0	1	1.3
+519726	1361	C	Y	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	19.743	6.715	0.0	1	2.3
+549203	1350	C	Y		cys_removing	FBN1_cbEGF17-19_Ca3	ok	67.156	22.842	0.0	1	3.2
+1325418	1374	C	R		cys_removing	FBN1_cbEGF17-19_Ca3	ok	55.074	18.733	0.0	1	1.4
+1325419	1374	C	G	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	3.803	1.294	0.0	1	1.4
+429778	1380	C	R		cys_removing	FBN1_cbEGF17-19_Ca3	ok	39.935	13.583	0.0	1	1.2
+4789651	1374	C	F		cys_removing	FBN1_cbEGF17-19_Ca3	ok	56.587	19.247	0.0	1	1.5
+1451231	1374	C	Y	pathogenic	cys_removing	FBN1_cbEGF17-19_Ca3	ok	45.337	15.421	0.0	1	1.7
+2925557	1380	C	Y		cys_removing	FBN1_cbEGF17-19_Ca3	ok	24.189	8.228	0.0	1	1.4
+406277	1389	C	S	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	5.533	1.882	0.0	1	1.7
+36073	1389	C	G		cys_removing	FBN1_cbEGF19-21_Ca3	ok	3.147	1.07	0.0	1	1.8
+1325420	1402	C	G	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	2.899	0.986	0.0	1	1.0
+4255466	1391	C	W		cys_removing	FBN1_cbEGF19-21_Ca3	ok	4.11	1.398	0.0	1	1.6
+1075671	1389	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	19.217	6.537	0.0	1	2.7
+519799	1402	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	11.834	4.025	0.0	1	2.0
+1176338	1408	C	G		cys_removing	FBN1_cbEGF19-21_Ca3	ok	-1.384	-0.471	0.0	1	0.4
+2773346	1402	C	S		cys_removing	FBN1_cbEGF19-21_Ca3	ok	3.448	1.173	0.0	1	1.1
+1738683	1402	C	R		cys_removing	FBN1_cbEGF19-21_Ca3	ok	59.013	20.072	0.0	1	2.5
+3759285	1389	C	R		cys_removing	FBN1_cbEGF19-21_Ca3	ok	31.327	10.656	0.0	1	3.4
+2949991	1408	C	S		cys_removing	FBN1_cbEGF19-21_Ca3	ok	-5.605	-1.907	0.0	1	0.9
+500066	1391	C	F		cys_removing	FBN1_cbEGF19-21_Ca3	ok	226.367	76.995	0.0	1	3.7
+42351	1408	C	R	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	27.295	9.284	0.0	1	1.4
+565385	1391	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	310.458	105.598	0.0	1	3.5
+3362270	1408	C	F		cys_removing	FBN1_cbEGF19-21_Ca3	ok	-1.938	-0.659	0.0	1	0.9
+2950251	1420	C	S		cys_removing	FBN1_cbEGF19-21_Ca3	ok	4.555	1.549	0.0	1	0.5
+1738692	1402	C	W		cys_removing	FBN1_cbEGF19-21_Ca3	ok	38.419	13.068	0.0	1	2.6
+519707	1415	C	R	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	54.198	18.435	0.0	1	1.3
+42354	1420	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	25.477	8.666	0.0	1	1.5
+427006	1420	C	F	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	19.53	6.643	0.0	1	1.7
+1073227	1420	C	R		cys_removing	FBN1_cbEGF19-21_Ca3	ok	36.089	12.275	0.0	1	1.7
+457206	1415	C	Y		cys_removing	FBN1_cbEGF19-21_Ca3	ok	102.1	34.728	0.0	1	2.2
+549215	1429	C	S		cys_removing	FBN1_cbEGF19-21_Ca3	ok	-2.859	-0.972	0.0	1	1.4
+549216	1429	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	25.925	8.818	0.0	1	1.6
+549218	1429	C	W		cys_removing	FBN1_cbEGF19-21_Ca3	ok	41.79	14.214	0.0	1	2.1
+457207	1431	C	W	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	5.362	1.824	0.0	1	1.3
+549219	1431	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	4.815	1.638	0.0	1	1.2
+222604	1444	C	S	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	3.928	1.336	0.0	1	1.1
+1453863	1444	C	S		cys_removing	FBN1_cbEGF19-21_Ca3	ok	3.928	1.336	0.0	1	1.1
+263831	1444	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	45.06	15.326	0.0	1	1.9
+3075766	1431	C	R		cys_removing	FBN1_cbEGF19-21_Ca3	ok	49.643	16.885	0.0	1	2.3
+549227	1450	C	Y		cys_removing	FBN1_cbEGF19-21_Ca3	ok	5.375	1.828	0.0	1	1.3
+549226	1450	C	S		cys_removing	FBN1_cbEGF19-21_Ca3	ok	-1.556	-0.529	0.0	1	1.3
+3230417	1444	C	F		cys_removing	FBN1_cbEGF19-21_Ca3	ok	39.114	13.304	0.0	1	1.9
+1380215	1444	C	W		cys_removing	FBN1_cbEGF19-21_Ca3	ok	89.002	30.273	0.0	1	2.1
+2691174	1444	C	R		cys_removing	FBN1_cbEGF19-21_Ca3	ok	45.016	15.311	0.0	1	2.0
+576549	1450	C	R	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	4.778	1.625	0.0	1	1.4
+626880	1450	C	F	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	6.078	2.067	0.0	1	1.3
+42360	1456	C	S	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	-5.746	-1.954	0.0	1	1.1
+42357	1456	C	Y	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	5.359	1.823	0.0	1	1.3
+4293036	1456	C	S		cys_removing	FBN1_cbEGF19-21_Ca3	ok	-5.746	-1.954	0.0	1	1.1
+1740052	1456	C	G		cys_removing	FBN1_cbEGF19-21_Ca3	ok	-1.882	-0.64	0.0	1	1.1
+982320	1456	C	R		cys_removing	FBN1_cbEGF19-21_Ca3	ok	43.62	14.837	0.0	1	1.4
+406329	1456	C	F	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	47.399	16.122	0.0	1	1.6
+387780	1461	C	F	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	25.304	8.607	0.0	1	1.7
+430423	1461	C	S	pathogenic	cys_removing	FBN1_cbEGF19-21_Ca3	ok	2.672	0.909	0.0	1	1.5
+1456343	1461	C	R		cys_removing	FBN1_cbEGF19-21_Ca3	ok	7.833	2.664	0.0	1	1.8
+1069628	1461	C	Y		cys_removing	FBN1_cbEGF19-21_Ca3	ok	26.932	9.161	0.0	1	2.0
+1369075	1472	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	-5.661	-1.925	0.0	1	1.5
+549229	1472	C	R	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	0.375	0.128	0.0	1	2.2
+3754070	1470	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	2.772	0.943	0.0	1	3.0
+1325422	1470	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	29.333	9.977	0.0	1	4.0
+180354	1485	C	R		cys_removing	FBN1_cbEGF21-23_Ca3	ok	22.422	7.627	0.0	1	2.5
+3759283	1470	C	R		cys_removing	FBN1_cbEGF21-23_Ca3	ok	24.129	8.207	0.0	1	3.9
+929148	1470	C	F		cys_removing	FBN1_cbEGF21-23_Ca3	ok	24.528	8.343	0.0	1	4.8
+3775198	1470	C	W		cys_removing	FBN1_cbEGF21-23_Ca3	ok	20.293	6.902	0.0	1	4.0
+237092	1485	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	5.673	1.93	0.0	1	2.2
+1071752	1485	C	G		cys_removing	FBN1_cbEGF21-23_Ca3	ok	4.23	1.439	0.0	1	2.1
+982319	1491	C	F	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	1.536	0.523	0.0	1	1.9
+953342	1491	C	W		cys_removing	FBN1_cbEGF21-23_Ca3	ok	3.008	1.023	0.0	1	2.0
+3754068	1485	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	5.673	1.93	0.0	1	2.2
+549231	1485	C	Y		cys_removing	FBN1_cbEGF21-23_Ca3	ok	33.761	11.483	0.0	1	3.0
+1410301	1491	C	R		cys_removing	FBN1_cbEGF21-23_Ca3	ok	3.541	1.205	0.0	1	1.7
+1740838	1491	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	-2.278	-0.775	0.0	1	1.8
+2137693	1491	C	Y		cys_removing	FBN1_cbEGF21-23_Ca3	ok	1.284	0.437	0.0	1	2.0
+549237	1497	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	-3.277	-1.115	0.0	1	1.5
+870137	1497	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	-3.277	-1.115	0.0	1	1.6
+1069285	1502	C	R	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	3.503	1.192	0.0	1	1.6
+547321	1497	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	10.572	3.596	0.0	1	2.4
+42363	1502	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	13.37	4.548	0.0	1	2.4
+1332760	1497	C	W	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	42.246	14.369	0.0	1	3.0
+432128	1497	C	R		cys_removing	FBN1_cbEGF21-23_Ca3	ok	72.793	24.759	0.0	1	4.3
+549240	1511	C	G		cys_removing	FBN1_cbEGF21-23_Ca3	ok	7.182	2.443	0.0	1	2.7
+1741306	1513	C	G	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	8.518	2.897	0.0	1	1.2
+457215	1513	C	W	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	24.926	8.478	0.0	1	2.7
+547322	1513	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	28.089	9.554	0.0	1	3.1
+3383131	1513	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	1.983	0.674	0.0	1	1.7
+1472041	1513	C	F		cys_removing	FBN1_cbEGF21-23_Ca3	ok	27.263	9.273	0.0	1	2.6
+406346	1511	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	25.086	8.533	0.0	1	3.9
+42364	1511	C	R	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	21.185	7.206	0.0	1	4.6
+4789650	1513	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	1.983	0.674	0.0	1	1.8
+2925553	1526	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	14.354	4.882	0.0	1	2.1
+264314	1526	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	35.145	11.954	0.0	1	4.2
+4075372	1526	C	G		cys_removing	FBN1_cbEGF21-23_Ca3	ok	5.228	1.778	0.0	1	3.2
+2572452	1526	C	F		cys_removing	FBN1_cbEGF21-23_Ca3	ok	33.123	11.266	0.0	1	4.3
+632809	1534	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	4.304	1.464	0.0	1	3.5
+1507616	1534	C	R		cys_removing	FBN1_cbEGF21-23_Ca3	ok	66.11	22.486	0.0	1	4.0
+2920902	1526	C	R	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	44.207	15.036	0.0	1	4.9
+36079	1562	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	4.689	1.595	0.0	1	3.7
+549243	1534	C	W		cys_removing	FBN1_cbEGF21-23_Ca3	ok	104.793	35.644	0.0	1	5.9
+430267	1563	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	5.276	1.795	0.0	1	2.6
+803088	1563	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	5.276	1.795	0.0	1	2.5
+857217	1563	C	W	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	16.811	5.718	0.0	1	2.8
+16471	1564	C	S		cys_removing	FBN1_cbEGF21-23_Ca3	ok	-3.735	-1.27	0.0	1	2.1
+1685819	1562	C	R	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	67.851	23.079	0.0	1	5.0
+847866	1563	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	12.105	4.117	0.0	1	2.9
+2578736	1562	C	Y		cys_removing	FBN1_cbEGF21-23_Ca3	ok	73.391	24.963	0.0	1	5.5
+1067526	1562	C	F		cys_removing	FBN1_cbEGF21-23_Ca3	ok	58.809	20.003	0.0	1	6.6
+16472	1577	C	G		cys_removing	FBN1_cbEGF21-23_Ca3	ok	3.572	1.215	0.0	1	2.7
+549246	1589	C	F	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	38.445	13.076	0.0	1	2.3
+3751651	1610	C	Y		cys_removing	FBN1_cbEGF21-23_Ca3	ok	14.47	4.922	0.0	1	1.4
+2951121	1577	C	R		cys_removing	FBN1_cbEGF21-23_Ca3	ok	40.478	13.768	0.0	1	3.3
+457221	1564	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	107.201	36.463	0.0	1	4.9
+3772132	1577	C	Y	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	132.215	44.971	0.0	1	3.3
+3895763	1589	C	Y		cys_removing	FBN1_cbEGF21-23_Ca3	ok	43.456	14.781	0.0	1	2.8
+1743659	1622	C	R	pathogenic	cys_removing	FBN1_cbEGF21-23_Ca3	ok	4.246	1.444	0.0	1	2.3
+457227	1631	C	S	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	-0.031	-0.011	0.0	1	2.3
+3759281	1631	C	G		cys_removing	FBN1_cbEGF23-25_Ca3	ok	-0.979	-0.333	0.0	1	2.4
+418197	1646	C	G		cys_removing	FBN1_cbEGF23-25_Ca3	ok	5.576	1.897	0.0	1	2.0
+42372	1646	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	26.22	8.918	0.0	1	2.4
+635278	1646	C	F		cys_removing	FBN1_cbEGF23-25_Ca3	ok	14.276	4.856	0.0	1	2.3
+1163970	1646	C	S	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	3.578	1.217	0.0	1	1.9
+1744238	1646	C	S		cys_removing	FBN1_cbEGF23-25_Ca3	ok	3.578	1.217	0.0	1	1.9
+42376	1652	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	-2.413	-0.821	0.0	1	1.4
+549253	1633	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	49.449	16.819	0.0	1	3.8
+2925552	1633	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	16.204	5.512	0.0	1	3.7
+632803	1652	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	-1.68	-0.571	0.0	1	1.4
+2580942	1652	C	S		cys_removing	FBN1_cbEGF23-25_Ca3	ok	-9.335	-3.175	0.0	1	1.4
+527218	1658	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	-1.187	-0.404	0.0	1	1.9
+803087	1663	C	S		cys_removing	FBN1_cbEGF23-25_Ca3	ok	4.668	1.588	0.0	1	1.9
+16426	1663	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	7.558	2.571	0.0	1	2.5
+547325	1663	C	F	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	21.701	7.381	0.0	1	2.4
+4255446	1663	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	24.752	8.419	0.0	1	2.5
+495617	1672	C	G	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	8.192	2.787	0.0	1	2.7
+200187	1672	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	39.169	13.323	0.0	1	3.5
+549257	1672	C	S	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	5.965	2.029	0.0	1	2.7
+520497	1672	C	W		cys_removing	FBN1_cbEGF23-25_Ca3	ok	75.659	25.734	0.0	1	3.8
+549258	1674	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	19.199	6.53	0.0	1	2.0
+200058	1674	C	F		cys_removing	FBN1_cbEGF23-25_Ca3	ok	35.499	12.075	0.0	1	2.8
+1705230	1674	C	S		cys_removing	FBN1_cbEGF23-25_Ca3	ok	1.3	0.442	0.0	1	1.6
+1744779	1672	C	R	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	57.126	19.431	0.0	1	3.5
+1678714	1687	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	43.365	14.75	0.0	1	2.6
+1708070	1687	C	F	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	31.447	10.696	0.0	1	2.4
+3341053	1687	C	S		cys_removing	FBN1_cbEGF23-25_Ca3	ok	1.104	0.376	0.0	1	2.1
+2927218	1687	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	39.335	13.379	0.0	1	2.7
+640108	1672	C	F	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	50.101	17.041	0.0	1	6.2
+803086	1695	C	G		cys_removing	FBN1_cbEGF23-25_Ca3	ok	4.935	1.679	0.0	1	3.0
+2137690	1706	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	3.583	1.219	0.0	1	3.0
+547326	1674	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	633.202	215.375	0.0	1	8.0
+4536660	1695	C	W	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	43.478	14.788	0.0	1	4.2
+2137691	1695	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	45.547	15.492	0.0	1	5.1
+807244	1720	C	R	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	20.366	6.927	0.0	1	3.0
+263524	1719	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	45.902	15.613	0.0	1	4.3
+549263	1719	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	44.019	14.972	0.0	1	5.0
+4789649	1719	C	F		cys_removing	FBN1_cbEGF23-25_Ca3	ok	42.474	14.447	0.0	1	4.6
+2925550	1720	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	16.431	5.589	0.0	1	3.1
+200061	1733	C	G		cys_removing	FBN1_cbEGF23-25_Ca3	ok	0.118	0.04	0.0	1	2.3
+2942347	1720	C	W		cys_removing	FBN1_cbEGF23-25_Ca3	ok	15.494	5.27	0.0	1	2.8
+955920	1721	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	64.289	21.867	0.0	1	3.5
+3767154	1748	C	S		cys_removing	FBN1_cbEGF23-25_Ca3	ok	1.28	0.435	0.0	1	2.6
+590974	1748	C	F		cys_removing	FBN1_cbEGF23-25_Ca3	ok	16.548	5.629	0.0	1	3.2
+842482	1770	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	5.765	1.961	0.0	1	1.7
+1324390	1733	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	32.935	11.202	0.0	1	4.9
+2123035	1748	C	W		cys_removing	FBN1_cbEGF23-25_Ca3	ok	46.973	15.977	0.0	1	3.6
+3572463	1733	C	F		cys_removing	FBN1_cbEGF23-25_Ca3	ok	10.64	3.619	0.0	1	5.9
+406342	1736	C	Y		cys_removing	FBN1_cbEGF23-25_Ca3	ok	46.073	15.671	0.0	1	4.8
+4789648	1770	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	1.937	0.659	0.0	1	1.9
+519757	1782	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	27.635	9.4	0.0	1	1.9
+4857235	1782	C	G		cys_removing	FBN1_cbEGF23-25_Ca3	ok	2.965	1.008	0.0	1	1.6
+690486	1777	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	28.458	9.68	0.0	1	2.6
+406341	1777	C	Y	pathogenic	cys_removing	FBN1_cbEGF23-25_Ca3	ok	21.188	7.207	0.0	1	2.9
+2137689	1748	C	R		cys_removing	FBN1_cbEGF23-25_Ca3	ok	69.66	23.694	0.0	1	6.3
+1072045	1791	C	G	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	5.312	1.807	0.0	1	1.5
+1747108	1791	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	2.041	0.694	0.0	1	1.8
+549275	1793	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	2.155	0.733	0.0	1	1.7
+449439	1791	C	R	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	31.933	10.862	0.0	1	2.9
+263568	1791	C	Y	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	4.44	1.51	0.0	1	3.0
+647812	1793	C	R	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	16.366	5.567	0.0	1	2.1
+549274	1791	C	W		cys_removing	FBN1_cbEGF25-27_Ca3	ok	205.744	69.981	0.0	1	3.8
+684596	1806	C	G		cys_removing	FBN1_cbEGF25-27_Ca3	ok	4.997	1.7	0.0	1	1.8
+684777	1793	C	Y		cys_removing	FBN1_cbEGF25-27_Ca3	ok	44.223	15.042	0.0	1	3.0
+3754063	1793	C	F		cys_removing	FBN1_cbEGF25-27_Ca3	ok	40.6	13.809	0.0	1	2.9
+547331	1806	C	R	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	27.479	9.347	0.0	1	2.3
+3513521	1806	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	5.633	1.916	0.0	1	1.9
+1204612	1812	C	G		cys_removing	FBN1_cbEGF25-27_Ca3	ok	4.341	1.477	0.0	1	0.8
+549277	1812	C	Y		cys_removing	FBN1_cbEGF25-27_Ca3	ok	17.704	6.022	0.0	1	1.6
+939548	1806	C	W	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	53.874	18.325	0.0	1	2.9
+1075547	1818	C	Y	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	-3.295	-1.121	0.0	1	0.8
+527203	1806	C	F	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	31.845	10.832	0.0	1	3.2
+655979	1812	C	R	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	7.105	2.417	0.0	1	1.3
+2925546	1818	C	G		cys_removing	FBN1_cbEGF25-27_Ca3	ok	3.411	1.16	0.0	1	0.4
+2945534	1812	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	-2.792	-0.95	0.0	1	1.1
+1747622	1818	C	R	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	32.496	11.053	0.0	1	1.0
+429594	1824	C	R	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	7.358	2.503	0.0	1	1.3
+42385	1835	C	Y	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	2.444	0.831	0.0	1	1.1
+237099	1835	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	0.016	0.005	0.0	1	1.1
+660084	1824	C	Y		cys_removing	FBN1_cbEGF25-27_Ca3	ok	25.337	8.618	0.0	1	1.5
+684597	1833	C	Y		cys_removing	FBN1_cbEGF25-27_Ca3	ok	6.594	2.243	0.0	1	1.5
+689491	1824	C	F		cys_removing	FBN1_cbEGF25-27_Ca3	ok	22.403	7.62	0.0	1	1.5
+549283	1835	C	R		cys_removing	FBN1_cbEGF25-27_Ca3	ok	18.836	6.407	0.0	1	1.5
+549282	1835	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	0.016	0.005	0.0	1	1.2
+549284	1835	C	F		cys_removing	FBN1_cbEGF25-27_Ca3	ok	17.676	6.012	0.0	1	2.2
+549290	1853	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	-5.353	-1.821	0.0	1	1.4
+694262	1847	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	5.294	1.801	0.0	1	1.5
+549286	1847	C	R		cys_removing	FBN1_cbEGF25-27_Ca3	ok	16.688	5.676	0.0	1	1.7
+549289	1853	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	-5.353	-1.821	0.0	1	1.4
+495623	1847	C	Y	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	20.171	6.861	0.0	1	1.9
+632819	1853	C	Y	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	7.979	2.714	0.0	1	1.4
+1204855	1853	C	R	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	-0.242	-0.082	0.0	1	1.3
+2152235	1853	C	W		cys_removing	FBN1_cbEGF25-27_Ca3	ok	9.307	3.166	0.0	1	1.4
+1321449	1865	C	S		cys_removing	FBN1_cbEGF25-27_Ca3	ok	2.192	0.745	0.0	1	1.2
+3602745	1865	C	G		cys_removing	FBN1_cbEGF25-27_Ca3	ok	3.634	1.236	0.0	1	1.1
+549291	1865	C	R		cys_removing	FBN1_cbEGF25-27_Ca3	ok	46.057	15.666	0.0	1	1.8
+3730842	1860	C	F		cys_removing	FBN1_cbEGF25-27_Ca3	ok	31.466	10.703	0.0	1	2.0
+645309	1860	C	Y	pathogenic	cys_removing	FBN1_cbEGF25-27_Ca3	ok	21.018	7.149	0.0	1	2.0
+2925544	1860	C	R		cys_removing	FBN1_cbEGF25-27_Ca3	ok	32.097	10.917	0.0	1	2.7
+406296	1876	C	Y		cys_removing	FBN1_cbEGF27-29_Ca3	ok	-2.076	-0.706	0.0	1	1.3
+1332763	1874	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	18.512	6.296	0.0	1	2.2
+689478	1876	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	-6.628	-2.254	0.0	1	1.1
+520499	1876	C	R	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	22.804	7.756	0.0	1	1.7
+4854603	1874	C	Y		cys_removing	FBN1_cbEGF27-29_Ca3	ok	24.07	8.187	0.0	1	2.5
+3066266	1874	C	R		cys_removing	FBN1_cbEGF27-29_Ca3	ok	41.69	14.18	0.0	1	3.1
+237100	1895	C	R	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	6.365	2.165	0.0	1	1.4
+576709	1889	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	39.81	13.541	0.0	1	2.4
+2925543	1895	C	Y		cys_removing	FBN1_cbEGF27-29_Ca3	ok	5.786	1.968	0.0	1	1.4
+3754061	1895	C	W		cys_removing	FBN1_cbEGF27-29_Ca3	ok	6.791	2.31	0.0	1	1.4
+2002728	1889	C	W		cys_removing	FBN1_cbEGF27-29_Ca3	ok	20.869	7.098	0.0	1	2.5
+1475603	1876	C	W		cys_removing	FBN1_cbEGF27-29_Ca3	ok	75.754	25.767	0.0	1	4.2
+519797	1900	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	-6.863	-2.334	0.0	1	1.2
+684790	1889	C	Y	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	27.331	9.296	0.0	1	3.8
+549298	1900	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	4.513	1.535	0.0	1	1.6
+200066	1900	C	Y	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	2.21	0.752	0.0	1	1.9
+1749177	1900	C	W		cys_removing	FBN1_cbEGF27-29_Ca3	ok	10.318	3.51	0.0	1	1.7
+2922104	1900	C	R		cys_removing	FBN1_cbEGF27-29_Ca3	ok	21.199	7.211	0.0	1	1.8
+1513835	1914	C	G		cys_removing	FBN1_cbEGF27-29_Ca3	ok	4.126	1.403	0.0	1	0.5
+1325427	1905	C	S	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	7.017	2.387	0.0	1	1.3
+2931853	1905	C	F	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	11.185	3.804	0.0	1	1.7
+2497951	1889	C	R		cys_removing	FBN1_cbEGF27-29_Ca3	ok	23.541	8.007	0.0	1	5.3
+547332	1914	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	3.451	1.174	0.0	1	1.6
+42391	1916	C	Y	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	2.037	0.693	0.0	1	1.3
+1712343	1914	C	Y	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	5.883	2.001	0.0	1	1.5
+4789644	1905	C	W		cys_removing	FBN1_cbEGF27-29_Ca3	ok	26.989	9.18	0.0	1	1.9
+939999	1916	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	2.942	1.001	0.0	1	1.3
+200067	1916	C	R		cys_removing	FBN1_cbEGF27-29_Ca3	ok	12.608	4.288	0.0	1	1.6
+963629	1916	C	G		cys_removing	FBN1_cbEGF27-29_Ca3	ok	3.145	1.07	0.0	1	1.4
+200069	1934	C	Y	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	1.514	0.515	0.0	1	1.1
+549308	1934	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	-3.009	-1.024	0.0	1	0.9
+565697	1934	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	-3.009	-1.024	0.0	1	0.9
+155794	1928	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	14.369	4.887	0.0	1	1.5
+3759275	1928	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	5.161	1.756	0.0	1	1.4
+934403	1928	C	R	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	14.695	4.998	0.0	1	1.5
+439719	1928	C	Y	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	15.694	5.338	0.0	1	1.8
+1072043	1934	C	W		cys_removing	FBN1_cbEGF27-29_Ca3	ok	11.851	4.031	0.0	1	1.1
+1325428	1934	C	R	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	1.477	0.502	0.0	1	1.0
+457237	1942	C	G		cys_removing	FBN1_cbEGF27-29_Ca3	ok	0.037	0.012	0.0	1	1.3
+263804	1942	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	4.423	1.504	0.0	1	1.3
+200070	1942	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	19.375	6.59	0.0	1	1.8
+1067779	1942	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	4.423	1.504	0.0	1	1.4
+42395	1947	C	Y	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	24.893	8.467	0.0	1	1.1
+430389	1947	C	R	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	4.631	1.575	0.0	1	1.0
+567503	1942	C	Y		cys_removing	FBN1_cbEGF27-29_Ca3	ok	24.226	8.24	0.0	1	2.0
+854432	1947	C	G		cys_removing	FBN1_cbEGF27-29_Ca3	ok	6.371	2.167	0.0	1	0.7
+811411	1942	C	R	pathogenic	cys_removing	FBN1_cbEGF27-29_Ca3	ok	41.299	14.047	0.0	1	1.9
+915611	1947	C	F		cys_removing	FBN1_cbEGF27-29_Ca3	ok	22.74	7.735	0.0	1	1.1
+1453641	1947	C	S		cys_removing	FBN1_cbEGF27-29_Ca3	ok	4.66	1.585	0.0	1	0.9
+1330677	1958	C	S	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	-0.509	-0.173	0.0	1	1.3
+1699701	1958	C	Y		cys_removing	FBN1_cbEGF29-31_Ca3	ok	0.353	0.12	0.0	1	1.3
+549315	1971	C	G		cys_removing	FBN1_cbEGF29-31_Ca3	ok	2.921	0.993	0.0	1	1.3
+3754059	1958	C	R		cys_removing	FBN1_cbEGF29-31_Ca3	ok	17.644	6.001	0.0	1	1.9
+549316	1971	C	Y		cys_removing	FBN1_cbEGF29-31_Ca3	ok	32.136	10.931	0.0	1	1.8
+527152	1977	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	5.962	2.028	0.0	1	1.7
+1500362	1977	C	S		cys_removing	FBN1_cbEGF29-31_Ca3	ok	0.105	0.036	0.0	1	1.5
+1750458	1971	C	F	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	28.461	9.681	0.0	1	2.3
+549320	1984	C	R	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	12.426	4.227	0.0	1	2.1
+519792	1984	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	9.824	3.341	0.0	1	2.4
+940889	1989	C	G		cys_removing	FBN1_cbEGF29-31_Ca3	ok	10.163	3.457	0.0	1	1.1
+2921357	1984	C	W		cys_removing	FBN1_cbEGF29-31_Ca3	ok	25.119	8.544	0.0	1	2.0
+852975	1971	C	R	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	37.353	12.705	0.0	1	4.0
+1067271	1989	C	S		cys_removing	FBN1_cbEGF29-31_Ca3	ok	6.085	2.07	0.0	1	1.5
+638559	1989	C	F	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	16.841	5.728	0.0	1	2.1
+519772	1989	C	W	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	25.7	8.742	0.0	1	2.7
+1332765	1989	C	S		cys_removing	FBN1_cbEGF29-31_Ca3	ok	6.085	2.07	0.0	1	1.6
+1325433	1998	C	S		cys_removing	FBN1_cbEGF29-31_Ca3	ok	4.46	1.517	0.0	1	1.7
+1188638	2000	C	F	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	24.566	8.356	0.0	1	1.0
+426268	1998	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	11.952	4.065	0.0	1	2.6
+263898	2011	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	33.587	11.424	0.0	1	1.8
+1332766	1998	C	F		cys_removing	FBN1_cbEGF29-31_Ca3	ok	12.226	4.159	0.0	1	2.4
+457240	2017	C	R	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	1.342	0.457	0.0	1	1.1
+521729	2000	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	122.603	41.702	0.0	1	2.6
+549323	1998	C	W		cys_removing	FBN1_cbEGF29-31_Ca3	ok	145.8	49.592	0.0	1	3.3
+982359	2011	C	W		cys_removing	FBN1_cbEGF29-31_Ca3	ok	33.508	11.397	0.0	1	2.0
+1366927	2011	C	R	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	41.839	14.231	0.0	1	2.0
+576463	2017	C	W	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	12.089	4.112	0.0	1	1.3
+1751258	2017	C	G		cys_removing	FBN1_cbEGF29-31_Ca3	ok	1.761	0.599	0.0	1	1.0
+982358	2017	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	10.825	3.682	0.0	1	1.1
+811957	2024	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	50.61	17.214	0.0	1	1.8
+495635	2029	C	S		cys_removing	FBN1_cbEGF29-31_Ca3	ok	3.608	1.227	0.0	1	1.4
+372558	2029	C	Y	pathogenic	cys_removing	FBN1_cbEGF29-31_Ca3	ok	24.285	8.26	0.0	1	1.7
+1490805	2024	C	F		cys_removing	FBN1_cbEGF29-31_Ca3	ok	40.003	13.606	0.0	1	1.7
+549330	2029	C	W		cys_removing	FBN1_cbEGF29-31_Ca3	ok	32.764	11.144	0.0	1	1.9
+581985	513	C	S	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	2.837	0.965	0.0	1	2.1
+3074501	528	C	S		cys_removing	FBN1_cbEGF3-5_Ca3	ok	4.887	1.662	0.0	1	0.6
+549022	513	C	R	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	26.035	8.855	0.0	1	3.0
+3894658	515	C	Y		cys_removing	FBN1_cbEGF3-5_Ca3	ok	0.896	0.305	0.0	1	2.3
+3600254	515	C	G		cys_removing	FBN1_cbEGF3-5_Ca3	ok	3.031	1.031	0.0	1	2.4
+1076449	534	C	S		cys_removing	FBN1_cbEGF3-5_Ca3	ok	-2.886	-0.982	0.0	1	1.3
+42288	534	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	5.904	2.008	0.0	1	1.7
+199972	528	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	35.131	11.949	0.0	1	2.7
+2925572	534	C	G		cys_removing	FBN1_cbEGF3-5_Ca3	ok	1.321	0.449	0.0	1	1.3
+1400134	541	C	G		cys_removing	FBN1_cbEGF3-5_Ca3	ok	-7.73	-2.629	0.0	1	1.0
+3513517	534	C	R		cys_removing	FBN1_cbEGF3-5_Ca3	ok	0.438	0.149	0.0	1	1.4
+636447	513	C	Y		cys_removing	FBN1_cbEGF3-5_Ca3	ok	62.479	21.251	0.0	1	4.1
+549029	541	C	F		cys_removing	FBN1_cbEGF3-5_Ca3	ok	19.14	6.51	0.0	1	1.7
+939149	541	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	14.225	4.839	0.0	1	1.5
+3754089	546	C	G		cys_removing	FBN1_cbEGF3-5_Ca3	ok	2.744	0.933	0.0	1	0.4
+549030	546	C	R		cys_removing	FBN1_cbEGF3-5_Ca3	ok	31.846	10.832	0.0	1	1.4
+406288	513	C	F	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	55.277	18.802	0.0	1	5.6
+1804178	546	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	24.301	8.266	0.0	1	1.6
+457166	557	C	F		cys_removing	FBN1_cbEGF3-5_Ca3	ok	-3.802	-1.293	0.0	1	1.1
+381611	557	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	-4.696	-1.597	0.0	1	1.3
+1299517	557	C	R		cys_removing	FBN1_cbEGF3-5_Ca3	ok	34.682	11.797	0.0	1	1.4
+1475205	557	C	W	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	-1.999	-0.68	0.0	1	1.3
+199974	555	C	F	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	42.723	14.531	0.0	1	3.0
+549033	555	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	49.948	16.989	0.0	1	3.1
+549035	570	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	40.472	13.766	0.0	1	1.7
+1458824	570	C	S		cys_removing	FBN1_cbEGF3-5_Ca3	ok	-5.279	-1.796	0.0	1	1.0
+575196	570	C	W		cys_removing	FBN1_cbEGF3-5_Ca3	ok	52.839	17.972	0.0	1	1.8
+1514213	555	C	W		cys_removing	FBN1_cbEGF3-5_Ca3	ok	194.513	66.161	0.0	1	3.3
+956400	570	C	R	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	31.284	10.641	0.0	1	1.7
+836596	555	C	R	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	61.47	20.908	0.0	1	3.5
+1705611	570	C	S		cys_removing	FBN1_cbEGF3-5_Ca3	ok	-5.279	-1.796	0.0	1	1.0
+4531199	570	C	L		cys_removing	FBN1_cbEGF3-5_Ca3	ok	16.325	5.553	0.0	1	1.1
+199977	576	C	G	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	0.492	0.167	0.0	1	1.4
+547300	576	C	S		cys_removing	FBN1_cbEGF3-5_Ca3	ok	-1.827	-0.621	0.0	1	1.5
+549038	576	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	5.982	2.035	0.0	1	1.5
+1343366	576	C	R		cys_removing	FBN1_cbEGF3-5_Ca3	ok	4.715	1.604	0.0	1	1.4
+943899	576	C	W		cys_removing	FBN1_cbEGF3-5_Ca3	ok	7.541	2.565	0.0	1	1.6
+2033835	582	C	G		cys_removing	FBN1_cbEGF3-5_Ca3	ok	3.914	1.331	0.0	1	1.1
+1520744	582	C	Y	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	59.138	20.115	0.0	1	1.6
+1458007	582	C	R		cys_removing	FBN1_cbEGF3-5_Ca3	ok	45.871	15.602	0.0	1	1.7
+199978	587	C	G	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	4.13	1.405	0.0	1	1.1
+423987	2038	C	G		cys_removing	FBN1_cbEGF31-33_Ca3	ok	1.455	0.495	0.0	1	0.8
+549040	587	C	Y		cys_removing	FBN1_cbEGF3-5_Ca3	ok	29.728	10.112	0.0	1	1.4
+2498613	582	C	W	pathogenic	cys_removing	FBN1_cbEGF3-5_Ca3	ok	48.266	16.417	0.0	1	1.9
+803095	587	C	R		cys_removing	FBN1_cbEGF3-5_Ca3	ok	35.618	12.115	0.0	1	1.5
+2034108	587	C	W		cys_removing	FBN1_cbEGF3-5_Ca3	ok	39.233	13.345	0.0	1	1.5
+810672	2038	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-2.789	-0.949	0.0	1	1.3
+431924	2038	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	31.204	10.614	0.0	1	3.2
+42397	2040	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	42.928	14.601	0.0	1	2.6
+1751692	2038	C	F		cys_removing	FBN1_cbEGF31-33_Ca3	ok	25.225	8.58	0.0	1	3.2
+684599	2040	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	46.483	15.811	0.0	1	2.7
+527145	2053	C	Y		cys_removing	FBN1_cbEGF31-33_Ca3	ok	33.366	11.349	0.0	1	2.7
+1751705	2040	C	F		cys_removing	FBN1_cbEGF31-33_Ca3	ok	40.42	13.748	0.0	1	3.0
+1751735	2040	C	W	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	29.615	10.073	0.0	1	3.3
+2111584	2053	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	2.281	0.776	0.0	1	1.6
+3069799	2061	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	3.297	1.121	0.0	1	2.6
+406303	2070	C	F		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-3.883	-1.321	0.0	1	2.2
+1525423	2070	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	-3.139	-1.068	0.0	1	2.3
+549333	2061	C	R	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	18.578	6.319	0.0	1	3.2
+626587	2083	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-8.494	-2.889	0.0	1	2.1
+3362686	2038	C	W		cys_removing	FBN1_cbEGF31-33_Ca3	ok	434.892	147.923	0.0	1	6.3
+1712055	2070	C	R	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	-1.038	-0.353	0.0	1	2.7
+3754056	2061	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	18.975	6.454	0.0	1	4.5
+1517935	2084	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-0.931	-0.317	0.0	1	2.7
+3754054	2083	C	Y		cys_removing	FBN1_cbEGF31-33_Ca3	ok	109.539	37.258	0.0	1	3.3
+549337	2085	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-0.866	-0.295	0.0	1	2.6
+1752406	2083	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	37.049	12.602	0.0	1	3.9
+200078	2084	C	F		cys_removing	FBN1_cbEGF31-33_Ca3	ok	27.607	9.39	0.0	1	3.8
+1068676	2085	C	G		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-3.207	-1.091	0.0	1	2.4
+549336	2084	C	Y		cys_removing	FBN1_cbEGF31-33_Ca3	ok	31.999	10.884	0.0	1	4.1
+547338	2085	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	44.829	15.248	0.0	1	4.8
+4789639	2096	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	0.18	0.061	0.0	1	2.3
+430149	2099	C	F		cys_removing	FBN1_cbEGF31-33_Ca3	ok	21.032	7.154	0.0	1	2.8
+2137682	2099	C	W	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	40.73	13.854	0.0	1	3.0
+457245	2131	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-0.981	-0.334	0.0	1	1.5
+1070334	2111	C	G	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	6.643	2.26	0.0	1	2.8
+855800	2099	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	30.166	10.26	0.0	1	3.9
+664437	2131	C	W	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	5.369	1.826	0.0	1	1.6
+549340	2111	C	R	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	58.24	19.809	0.0	1	3.9
+1325440	2131	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	3.473	1.181	0.0	1	1.6
+429578	2111	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	41.961	14.272	0.0	1	4.8
+1325441	2137	C	G		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-1.219	-0.415	0.0	1	1.6
+519770	2137	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	-3.786	-1.288	0.0	1	1.9
+3600249	2111	C	F		cys_removing	FBN1_cbEGF31-33_Ca3	ok	35.89	12.207	0.0	1	3.7
+633211	2137	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	-3.512	-1.195	0.0	1	2.0
+200192	2142	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	29.801	10.136	0.0	1	2.1
+2022802	2142	C	G		cys_removing	FBN1_cbEGF31-33_Ca3	ok	8.99	3.058	0.0	1	1.1
+549344	2142	C	S		cys_removing	FBN1_cbEGF31-33_Ca3	ok	4.273	1.453	0.0	1	1.7
+1457950	2142	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	9.174	3.12	0.0	1	1.7
+1494003	2164	C	G	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	11.063	3.763	0.0	1	1.0
+3376406	2153	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	73.895	25.134	0.0	1	1.7
+662658	2151	C	Y		cys_removing	FBN1_cbEGF31-33_Ca3	ok	27.825	9.464	0.0	1	2.5
+200086	2151	C	W	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	151.562	51.552	0.0	1	2.7
+547340	2164	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	32.368	11.01	0.0	1	1.8
+4814129	2153	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	30.479	10.367	0.0	1	1.9
+2137681	2151	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	97.842	33.28	0.0	1	3.0
+163467	2170	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	10.331	3.514	0.0	1	1.2
+636895	2170	C	R	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	1.593	0.542	0.0	1	1.2
+3600251	2164	C	R		cys_removing	FBN1_cbEGF31-33_Ca3	ok	32.271	10.977	0.0	1	2.3
+566383	2190	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	2.515	0.855	0.0	1	1.5
+429425	2181	C	R	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	29.55	10.051	0.0	1	1.7
+1494741	2176	C	W		cys_removing	FBN1_cbEGF31-33_Ca3	ok	40.746	13.859	0.0	1	1.9
+2001796	2176	C	Y	pathogenic	cys_removing	FBN1_cbEGF31-33_Ca3	ok	31.525	10.723	0.0	1	1.8
+2947881	2190	C	R		cys_removing	FBN1_cbEGF33-35_Ca3	ok	13.631	4.636	0.0	1	1.8
+2950933	2190	C	G		cys_removing	FBN1_cbEGF33-35_Ca3	ok	5.602	1.905	0.0	1	1.6
+623167	2190	C	F		cys_removing	FBN1_cbEGF33-35_Ca3	ok	5.201	1.769	0.0	1	2.2
+2500232	2190	C	Y		cys_removing	FBN1_cbEGF33-35_Ca3	ok	9.792	3.331	0.0	1	2.3
+406333	2192	C	W		cys_removing	FBN1_cbEGF33-35_Ca3	ok	3.167	1.077	0.0	1	1.3
+937068	2192	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	2.184	0.743	0.0	1	1.2
+264438	2204	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	18.61	6.33	0.0	1	1.6
+42405	2210	C	W		cys_removing	FBN1_cbEGF33-35_Ca3	ok	-5.376	-1.829	0.0	1	1.1
+549353	2204	C	F		cys_removing	FBN1_cbEGF33-35_Ca3	ok	16.0	5.442	0.0	1	1.5
+200089	2210	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	-8.624	-2.933	0.0	1	1.0
+1997294	2204	C	S	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	4.526	1.539	0.0	1	1.5
+549354	2210	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	-10.746	-3.655	0.0	1	1.0
+527154	2204	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	17.87	6.078	0.0	1	2.1
+1685818	2210	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	-6.892	-2.344	0.0	1	1.0
+16427	2221	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	-5.324	-1.811	0.0	1	0.9
+915547	2221	C	F		cys_removing	FBN1_cbEGF33-35_Ca3	ok	28.621	9.735	0.0	1	1.2
+200090	2217	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	28.817	9.802	0.0	1	1.9
+492830	2221	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	33.54	11.408	0.0	1	1.4
+2498611	2217	C	G		cys_removing	FBN1_cbEGF33-35_Ca3	ok	3.634	1.236	0.0	1	1.6
+439708	2221	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	35.796	12.175	0.0	1	1.5
+2950717	2217	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	1.986	0.676	0.0	1	1.9
+2137680	2221	C	G		cys_removing	FBN1_cbEGF33-35_Ca3	ok	-5.864	-1.995	0.0	1	1.0
+1453015	2221	C	W		cys_removing	FBN1_cbEGF33-35_Ca3	ok	38.048	12.942	0.0	1	1.8
+3754048	2230	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	1.522	0.518	0.0	1	1.7
+179532	2230	C	W		cys_removing	FBN1_cbEGF33-35_Ca3	ok	11.523	3.919	0.0	1	1.9
+549360	2230	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	23.446	7.975	0.0	1	1.9
+1163968	2232	C	S	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	-1.708	-0.581	0.0	1	1.8
+1325446	2232	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	-1.708	-0.581	0.0	1	1.8
+493158	2230	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	35.414	12.046	0.0	1	2.3
+406315	2232	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	25.196	8.57	0.0	1	2.0
+222609	2232	C	R		cys_removing	FBN1_cbEGF33-35_Ca3	ok	35.707	12.145	0.0	1	2.4
+2940351	2232	C	G		cys_removing	FBN1_cbEGF33-35_Ca3	ok	2.066	0.703	0.0	1	1.5
+968455	2245	C	Y		cys_removing	FBN1_cbEGF33-35_Ca3	ok	2.312	0.786	0.0	1	1.5
+1755155	2245	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	1.573	0.535	0.0	1	1.4
+519780	2251	C	S	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	0.06	0.02	0.0	1	1.5
+636543	2251	C	G		cys_removing	FBN1_cbEGF33-35_Ca3	ok	0.666	0.226	0.0	1	1.5
+573034	2251	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	5.254	1.787	0.0	1	1.7
+200093	2251	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	0.828	0.282	0.0	1	1.9
+947549	2251	C	F		cys_removing	FBN1_cbEGF33-35_Ca3	ok	4.074	1.386	0.0	1	1.7
+379489	2258	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	11.607	3.948	0.0	1	1.4
+1679954	2258	C	G	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	9.802	3.334	0.0	1	0.9
+264106	2258	C	Y		cys_removing	FBN1_cbEGF33-35_Ca3	ok	31.655	10.767	0.0	1	1.6
+2951416	2251	C	W		cys_removing	FBN1_cbEGF33-35_Ca3	ok	2.171	0.738	0.0	1	1.7
+2940505	2258	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	1.315	0.447	0.0	1	1.3
+385605	2265	C	G	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	3.375	1.148	0.0	1	1.7
+1069382	2265	C	S		cys_removing	FBN1_cbEGF33-35_Ca3	ok	3.524	1.199	0.0	1	1.7
+379655	2265	C	Y	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	26.982	9.178	0.0	1	2.2
+2576879	2265	C	R	pathogenic	cys_removing	FBN1_cbEGF33-35_Ca3	ok	31.266	10.635	0.0	1	1.9
+1755641	2274	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	-1.763	-0.6	0.0	1	2.1
+222610	2274	C	R	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	11.177	3.802	0.0	1	2.8
+1755644	2274	C	W		cys_removing	FBN1_cbEGF35-37_Ca3	ok	13.35	4.541	0.0	1	2.8
+4871867	2274	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	14.992	5.099	0.0	1	2.6
+632805	2276	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	2.627	0.894	0.0	1	2.1
+953581	2276	C	G		cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.997	1.36	0.0	1	1.6
+638555	2276	C	W		cys_removing	FBN1_cbEGF35-37_Ca3	ok	5.909	2.01	0.0	1	2.1
+4794669	2276	C	F		cys_removing	FBN1_cbEGF35-37_Ca3	ok	21.136	7.189	0.0	1	2.7
+617871	2289	C	F		cys_removing	FBN1_cbEGF35-37_Ca3	ok	4.99	1.697	0.0	1	2.5
+632813	2289	C	S	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.193	1.086	0.0	1	2.4
+549374	2295	C	G		cys_removing	FBN1_cbEGF35-37_Ca3	ok	1.174	0.399	0.0	1	2.2
+2945291	2289	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.193	1.086	0.0	1	2.4
+567978	2295	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	2.247	0.764	0.0	1	2.3
+653363	2289	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	4.514	1.536	0.0	1	2.8
+263849	2295	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	5.624	1.913	0.0	1	2.7
+684608	2295	C	W		cys_removing	FBN1_cbEGF35-37_Ca3	ok	7.208	2.452	0.0	1	2.4
+2672295	2295	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	-1.649	-0.561	0.0	1	2.3
+264235	2302	C	S	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.923	1.334	0.0	1	2.5
+16422	2307	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.738	1.271	0.0	1	2.0
+2925534	2307	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	23.662	8.048	0.0	1	2.1
+42414	2307	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	40.233	13.685	0.0	1	2.7
+856730	2302	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	36.045	12.26	0.0	1	3.0
+449436	2318	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	0.742	0.253	0.0	1	2.1
+3754047	2307	C	W		cys_removing	FBN1_cbEGF35-37_Ca3	ok	57.243	19.47	0.0	1	3.5
+3750490	2318	C	F		cys_removing	FBN1_cbEGF35-37_Ca3	ok	0.844	0.287	0.0	1	2.1
+982350	2318	C	S	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	-1.82	-0.619	0.0	1	2.2
+549381	2318	C	R	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	31.608	10.751	0.0	1	3.0
+549379	2316	C	F		cys_removing	FBN1_cbEGF35-37_Ca3	ok	40.359	13.728	0.0	1	4.0
+549378	2316	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	40.788	13.873	0.0	1	4.4
+263688	2331	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	2.608	0.887	0.0	1	1.9
+3754046	2331	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	12.586	4.281	0.0	1	2.2
+946365	2331	C	F		cys_removing	FBN1_cbEGF35-37_Ca3	ok	53.005	18.029	0.0	1	2.5
+457256	2302	C	W		cys_removing	FBN1_cbEGF35-37_Ca3	ok	58.276	19.822	0.0	1	7.6
+42416	2331	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	61.32	20.857	0.0	1	3.4
+549386	2348	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	5.523	1.879	0.0	1	2.3
+3600255	2339	C	G		cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.51	1.194	0.0	1	3.3
+495644	2339	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	73.39	24.963	0.0	1	4.5
+547343	2339	C	R	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	81.647	27.771	0.0	1	4.9
+690432	2363	C	G	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	2.034	0.692	0.0	1	3.0
+3754045	2348	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	26.115	8.883	0.0	1	3.5
+3754044	2363	C	S	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.513	1.195	0.0	1	3.3
+951009	2363	C	F		cys_removing	FBN1_cbEGF35-37_Ca3	ok	82.073	27.916	0.0	1	5.1
+200107	2378	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	6.767	2.302	0.0	1	1.9
+636935	2364	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	15.818	5.38	0.0	1	3.1
+2008785	2364	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	3.484	1.185	0.0	1	2.9
+4783788	2363	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	44.567	15.159	0.0	1	4.4
+3759271	2365	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	47.307	16.091	0.0	1	3.6
+42419	2365	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	79.271	26.963	0.0	1	3.6
+527188	2378	C	W		cys_removing	FBN1_cbEGF35-37_Ca3	ok	69.415	23.611	0.0	1	3.8
+690431	2390	C	S	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	2.12	0.721	0.0	1	2.2
+429595	2406	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	11.3	3.843	0.0	1	2.3
+42421	2390	C	R	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	35.621	12.116	0.0	1	3.0
+221117	2390	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	27.693	9.419	0.0	1	3.0
+618653	2406	C	F		cys_removing	FBN1_cbEGF35-37_Ca3	ok	13.898	4.727	0.0	1	2.3
+842263	2406	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	6.02	2.048	0.0	1	2.2
+3065809	2406	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	-0.351	-0.119	0.0	1	2.3
+566266	2413	C	S	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	4.111	1.398	0.0	1	1.7
+3253127	2406	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	-0.351	-0.119	0.0	1	2.3
+3754043	2406	C	W		cys_removing	FBN1_cbEGF35-37_Ca3	ok	12.089	4.112	0.0	1	2.4
+1367185	2413	C	Y		cys_removing	FBN1_cbEGF35-37_Ca3	ok	58.182	19.79	0.0	1	2.0
+200110	2418	C	Y	pathogenic	cys_removing	FBN1_cbEGF35-37_Ca3	ok	41.404	14.083	0.0	1	1.8
+1691559	2418	C	S		cys_removing	FBN1_cbEGF35-37_Ca3	ok	8.804	2.995	0.0	1	1.5
+549398	2418	C	R		cys_removing	FBN1_cbEGF35-37_Ca3	ok	46.693	15.882	0.0	1	2.3
+4789635	2427	C	F		cys_removing	FBN1_cbEGF37-39_Ca3	ok	10.835	3.685	0.0	1	1.4
+576527	2427	C	R		cys_removing	FBN1_cbEGF37-39_Ca3	ok	22.454	7.637	0.0	1	2.0
+3600256	2427	C	G		cys_removing	FBN1_cbEGF37-39_Ca3	ok	-5.26	-1.789	0.0	1	1.5
+549400	2442	C	S	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	1.915	0.651	0.0	1	1.5
+1077159	2429	C	Y		cys_removing	FBN1_cbEGF37-39_Ca3	ok	6.066	2.063	0.0	1	1.7
+1325452	2429	C	F	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	6.011	2.044	0.0	1	1.8
+574697	2448	C	R		cys_removing	FBN1_cbEGF37-39_Ca3	ok	1.298	0.441	0.0	1	1.4
+4023434	2442	C	S		cys_removing	FBN1_cbEGF37-39_Ca3	ok	1.915	0.651	0.0	1	1.5
+3237522	2448	C	Y	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	4.642	1.579	0.0	1	1.4
+3754042	2442	C	R		cys_removing	FBN1_cbEGF37-39_Ca3	ok	21.045	7.158	0.0	1	2.4
+449435	2455	C	Y	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	19.648	6.683	0.0	1	1.6
+646261	2442	C	Y	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	56.178	19.108	0.0	1	3.2
+263805	2455	C	R		cys_removing	FBN1_cbEGF37-39_Ca3	ok	23.754	8.079	0.0	1	1.8
+449794	2459	C	Y	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	28.628	9.738	0.0	1	1.7
+527210	2455	C	W		cys_removing	FBN1_cbEGF37-39_Ca3	ok	69.268	23.561	0.0	1	2.1
+4293666	2459	C	S		cys_removing	FBN1_cbEGF37-39_Ca3	ok	3.072	1.045	0.0	1	1.3
+664702	2459	C	F		cys_removing	FBN1_cbEGF37-39_Ca3	ok	25.177	8.564	0.0	1	1.6
+4789634	2468	C	W		cys_removing	FBN1_cbEGF37-39_Ca3	ok	19.171	6.521	0.0	1	2.0
+519787	2468	C	Y	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	22.676	7.713	0.0	1	2.1
+427179	2468	C	R	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	6.423	2.185	0.0	1	2.2
+549407	2470	C	Y		cys_removing	FBN1_cbEGF37-39_Ca3	ok	35.04	11.919	0.0	1	1.9
+549408	2470	C	W	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	63.451	21.582	0.0	1	2.2
+549406	2470	C	R	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	32.1	10.918	0.0	1	1.8
+1068546	2470	C	Y		cys_removing	FBN1_cbEGF37-39_Ca3	ok	35.04	11.919	0.0	1	1.9
+1454047	2470	C	S		cys_removing	FBN1_cbEGF37-39_Ca3	ok	-0.721	-0.245	0.0	1	1.2
+549411	2483	C	S		cys_removing	FBN1_cbEGF37-39_Ca3	ok	4.492	1.528	0.0	1	1.5
+1098776	2470	C	F	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	36.107	12.281	0.0	1	1.9
+379778	2489	C	R	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	1.486	0.505	0.0	1	1.1
+2627789	2483	C	G		cys_removing	FBN1_cbEGF37-39_Ca3	ok	4.532	1.542	0.0	1	1.5
+549410	2483	C	R	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	12.273	4.175	0.0	1	1.7
+406349	2489	C	Y		cys_removing	FBN1_cbEGF37-39_Ca3	ok	1.061	0.361	0.0	1	1.2
+549412	2489	C	G		cys_removing	FBN1_cbEGF37-39_Ca3	ok	0.219	0.075	0.0	1	1.1
+948459	2489	C	S		cys_removing	FBN1_cbEGF37-39_Ca3	ok	-0.621	-0.211	0.0	1	1.1
+982347	2483	C	Y	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	5.602	1.905	0.0	1	2.4
+3382176	2442	C	W		cys_removing	FBN1_cbEGF37-39_Ca3	ok	62.961	21.415	0.0	1	8.4
+549413	2496	C	S		cys_removing	FBN1_cbEGF37-39_Ca3	ok	0.837	0.285	0.0	1	1.4
+504529	2500	C	S	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	3.058	1.04	0.0	1	1.1
+3902826	2496	C	S		cys_removing	FBN1_cbEGF37-39_Ca3	ok	0.837	0.285	0.0	1	1.3
+549414	2496	C	F		cys_removing	FBN1_cbEGF37-39_Ca3	ok	21.745	7.396	0.0	1	1.7
+199953	2500	C	Y	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	31.142	10.593	0.0	1	1.6
+547346	2500	C	R	pathogenic	cys_removing	FBN1_cbEGF37-39_Ca3	ok	18.019	6.129	0.0	1	1.3
+406317	2509	C	G	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	5.168	1.758	0.0	1	1.6
+1325455	2509	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	1.601	0.545	0.0	1	2.0
+200115	2511	C	R	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	26.963	9.171	0.0	1	1.8
+527160	2511	C	Y	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	1.108	0.377	0.0	1	1.9
+3754040	2509	C	R		cys_removing	FBN1_cbEGF39-41_Ca3	ok	9.845	3.349	0.0	1	2.0
+4783786	2522	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	1.986	0.675	0.0	1	1.5
+2925531	2509	C	Y		cys_removing	FBN1_cbEGF39-41_Ca3	ok	13.306	4.526	0.0	1	2.2
+1414814	2511	C	W	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	39.428	13.411	0.0	1	2.6
+4789633	2522	C	R		cys_removing	FBN1_cbEGF39-41_Ca3	ok	5.76	1.959	0.0	1	1.6
+625127	2528	C	R	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	4.068	1.384	0.0	1	1.5
+1389953	2528	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	0.843	0.287	0.0	1	1.4
+2941263	2528	C	G		cys_removing	FBN1_cbEGF39-41_Ca3	ok	0.871	0.296	0.0	1	1.5
+4538502	2528	C	W	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	8.847	3.009	0.0	1	1.6
+200118	2535	C	Y	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	26.648	9.064	0.0	1	2.3
+2942904	2535	C	G		cys_removing	FBN1_cbEGF39-41_Ca3	ok	-3.67	-1.248	0.0	1	1.7
+549418	2535	C	R		cys_removing	FBN1_cbEGF39-41_Ca3	ok	21.789	7.411	0.0	1	2.0
+1685316	2541	C	W		cys_removing	FBN1_cbEGF39-41_Ca3	ok	52.187	17.751	0.0	1	2.0
+2953042	2535	C	L		cys_removing	FBN1_cbEGF39-41_Ca3	ok	15.433	5.249	0.0	1	2.3
+457264	2535	C	W	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	41.214	14.018	0.0	1	2.8
+2942703	2541	C	Y		cys_removing	FBN1_cbEGF39-41_Ca3	ok	36.145	12.294	0.0	1	2.0
+519756	2550	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	3.035	1.032	0.0	1	1.8
+843462	2552	C	F		cys_removing	FBN1_cbEGF39-41_Ca3	ok	3.79	1.289	0.0	1	1.3
+4789631	2552	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	-1.219	-0.415	0.0	1	1.4
+626877	2550	C	S	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	3.035	1.032	0.0	1	1.8
+590852	2550	C	Y	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	26.623	9.055	0.0	1	2.1
+626876	2552	C	R	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	18.935	6.44	0.0	1	1.6
+4783787	2522	C	Y	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	34.23	11.643	0.0	1	6.3
+625128	2565	C	Y		cys_removing	FBN1_cbEGF39-41_Ca3	ok	29.624	10.076	0.0	1	1.8
+2941537	2565	C	R		cys_removing	FBN1_cbEGF39-41_Ca3	ok	38.107	12.962	0.0	1	1.9
+549423	2571	C	F		cys_removing	FBN1_cbEGF39-41_Ca3	ok	4.704	1.6	0.0	1	1.5
+963925	2571	C	R	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	5.179	1.762	0.0	1	1.4
+4789629	2571	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	-1.417	-0.482	0.0	1	1.5
+519750	2581	C	F		cys_removing	FBN1_cbEGF39-41_Ca3	ok	12.111	4.119	0.0	1	1.6
+549422	2571	C	Y	pathogenic	cys_removing	FBN1_cbEGF39-41_Ca3	ok	2.171	0.739	0.0	1	1.8
+549426	2581	C	Y		cys_removing	FBN1_cbEGF39-41_Ca3	ok	18.886	6.424	0.0	1	1.7
+1393814	2581	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	4.614	1.569	0.0	1	1.5
+1760403	2581	C	S		cys_removing	FBN1_cbEGF39-41_Ca3	ok	4.614	1.569	0.0	1	1.5
+2953644	2590	C	G		cys_removing	FBN1_cbEGF41-43_Ca3	ok	-11.788	-4.01	0.0	1	1.4
+689583	2592	C	G		cys_removing	FBN1_cbEGF41-43_Ca3	ok	2.904	0.988	0.0	1	1.4
+423498	2592	C	F	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	11.375	3.869	0.0	1	1.9
+4789628	2605	C	R		cys_removing	FBN1_cbEGF41-43_Ca3	ok	8.756	2.978	0.0	1	1.8
+200199	2611	C	Y	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	0.89	0.303	0.0	1	1.3
+222614	2590	C	Y	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	9.502	3.232	0.0	1	2.9
+4783785	2611	C	R		cys_removing	FBN1_cbEGF41-43_Ca3	ok	2.335	0.794	0.0	1	1.3
+423862	2590	C	W	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	98.105	33.369	0.0	1	3.1
+519697	2622	C	Y		cys_removing	FBN1_cbEGF41-43_Ca3	ok	26.9	9.149	0.0	1	1.5
+549435	2622	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	5.39	1.833	0.0	1	1.2
+844728	2622	C	S	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	5.39	1.833	0.0	1	1.2
+1760931	2622	C	G		cys_removing	FBN1_cbEGF41-43_Ca3	ok	5.033	1.712	0.0	1	1.2
+549434	2617	C	Y		cys_removing	FBN1_cbEGF41-43_Ca3	ok	18.362	6.246	0.0	1	2.1
+200120	2592	C	Y	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	67.69	23.024	0.0	1	4.1
+549436	2622	C	R	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	28.766	9.784	0.0	1	2.0
+2942964	2622	C	F		cys_removing	FBN1_cbEGF41-43_Ca3	ok	22.622	7.694	0.0	1	1.6
+36123	2633	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	5.69	1.935	0.0	1	1.3
+984411	2633	C	G		cys_removing	FBN1_cbEGF41-43_Ca3	ok	4.878	1.659	0.0	1	1.2
+4789627	2631	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	3.717	1.264	0.0	1	1.6
+3754039	2633	C	F		cys_removing	FBN1_cbEGF41-43_Ca3	ok	14.463	4.919	0.0	1	1.5
+4820498	2633	C	Y		cys_removing	FBN1_cbEGF41-43_Ca3	ok	13.281	4.517	0.0	1	1.5
+520232	2633	C	R	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	56.596	19.25	0.0	1	2.4
+42436	2631	C	Y	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	33.844	11.512	0.0	1	2.7
+549444	2646	C	R		cys_removing	FBN1_cbEGF41-43_Ca3	ok	2.193	0.746	0.0	1	1.3
+549439	2631	C	F	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	30.781	10.47	0.0	1	2.6
+653296	2646	C	Y		cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.35	0.459	0.0	1	1.1
+659715	2646	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.688	0.574	0.0	1	1.1
+42438	2652	C	Y	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	6.948	2.363	0.0	1	1.2
+527194	2652	C	R		cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.646	0.56	0.0	1	1.3
+549447	2659	C	G		cys_removing	FBN1_cbEGF41-43_Ca3	ok	3.775	1.284	0.0	1	1.0
+1452826	2652	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	-3.851	-1.31	0.0	1	1.1
+2031446	2659	C	F		cys_removing	FBN1_cbEGF41-43_Ca3	ok	5.481	1.864	0.0	1	1.1
+4791951	2659	C	Y		cys_removing	FBN1_cbEGF41-43_Ca3	ok	4.897	1.665	0.0	1	1.2
+661431	2663	C	Y	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	30.103	10.239	0.0	1	1.3
+971524	2663	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	9.764	3.321	0.0	1	0.8
+576623	2663	C	R		cys_removing	FBN1_cbEGF41-43_Ca3	ok	38.538	13.108	0.0	1	1.4
+519693	2672	C	G	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.792	0.61	0.0	1	0.9
+549450	2672	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	-0.737	-0.251	0.0	1	0.8
+549449	2672	C	Y		cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.11	0.377	0.0	1	0.9
+1453782	2663	C	F		cys_removing	FBN1_cbEGF41-43_Ca3	ok	23.409	7.962	0.0	1	1.2
+654002	2672	C	F		cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.597	0.543	0.0	1	0.9
+857658	2672	C	R		cys_removing	FBN1_cbEGF41-43_Ca3	ok	0.767	0.261	0.0	1	0.8
+374081	2672	C	W		cys_removing	FBN1_cbEGF41-43_Ca3	ok	2.856	0.972	0.0	1	1.4
+406263	2674	C	R	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	9.317	3.169	0.0	1	0.9
+432086	2674	C	Y	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	6.254	2.127	0.0	1	0.9
+451315	2674	C	S	pathogenic	cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.08	0.367	0.0	1	0.8
+3600261	2674	C	S		cys_removing	FBN1_cbEGF41-43_Ca3	ok	1.08	0.367	0.0	1	0.7
+582674	2686	C	R		cys_removing	FBN1_cbEGF41-43_Ca3	ok	0.883	0.3	0.0	1	0.8
+2123169	2686	C	Y		cys_removing	FBN1_cbEGF41-43_Ca3	ok	10.007	3.404	0.0	1	0.9
+1071312	2686	C	F		cys_removing	FBN1_cbEGF41-43_Ca3	ok	7.884	2.682	0.0	1	1.0
+377096	596	C	G	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	4.125	1.403	0.0	1	2.2
+617616	598	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	0.048	0.016	0.0	1	2.0
+549045	598	C	W		cys_removing	FBN1_cbEGF5-7_Ca3	ok	3.392	1.154	0.0	1	2.2
+549044	598	C	Y		cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.159	0.734	0.0	1	2.2
+1426619	598	C	G		cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.587	0.88	0.0	1	2.0
+963295	598	C	F		cys_removing	FBN1_cbEGF5-7_Ca3	ok	3.05	1.037	0.0	1	2.2
+915551	596	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	24.587	8.363	0.0	1	3.2
+406267	617	C	G	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	-0.379	-0.129	0.0	1	1.2
+1458822	596	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	25.054	8.522	0.0	1	3.7
+549054	617	C	R	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	4.339	1.476	0.0	1	1.4
+495563	617	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	3.987	1.356	0.0	1	1.6
+1163382	617	C	W		cys_removing	FBN1_cbEGF5-7_Ca3	ok	4.481	1.524	0.0	1	1.6
+3064377	611	C	Y		cys_removing	FBN1_cbEGF5-7_Ca3	ok	30.468	10.363	0.0	1	2.7
+549049	611	C	R	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	26.364	8.968	0.0	1	2.8
+3757940	617	C	L		cys_removing	FBN1_cbEGF5-7_Ca3	ok	7.867	2.676	0.0	1	1.4
+1401186	617	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	-2.117	-0.72	0.0	1	1.5
+2927219	598	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	9.278	3.156	0.0	1	3.3
+618646	623	C	F	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	29.55	10.051	0.0	1	1.8
+962809	623	C	L		cys_removing	FBN1_cbEGF5-7_Ca3	ok	10.713	3.644	0.0	1	1.6
+572039	623	C	Y		cys_removing	FBN1_cbEGF5-7_Ca3	ok	37.462	12.742	0.0	1	2.0
+1332757	623	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	-2.944	-1.001	0.0	1	1.3
+684579	628	C	N		cys_removing	FBN1_cbEGF5-7_Ca3	ok	10.788	3.669	0.0	1	1.8
+446121	628	C	F		cys_removing	FBN1_cbEGF5-7_Ca3	ok	23.558	8.013	0.0	1	2.6
+1066301	628	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	27.362	9.307	0.0	1	2.7
+2430708	628	C	S	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	7.104	2.416	0.0	1	1.7
+1177303	637	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.184	0.743	0.0	1	1.8
+1483618	628	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	18.372	6.249	0.0	1	2.3
+1782465	637	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.184	0.743	0.0	1	1.7
+1325477	628	C	W	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	35.473	12.066	0.0	1	3.5
+1073880	637	C	Y		cys_removing	FBN1_cbEGF5-7_Ca3	ok	34.598	11.768	0.0	1	2.6
+406351	639	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	-0.945	-0.322	0.0	1	1.8
+495566	639	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	-0.945	-0.322	0.0	1	1.8
+237083	639	C	Y		cys_removing	FBN1_cbEGF5-7_Ca3	ok	1.355	0.461	0.0	1	2.0
+1359274	639	C	F		cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.205	0.75	0.0	1	1.9
+955551	639	C	L		cys_removing	FBN1_cbEGF5-7_Ca3	ok	22.272	7.576	0.0	1	2.7
+858022	652	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	40.746	13.859	0.0	1	2.9
+527206	639	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	32.755	11.141	0.0	1	4.0
+2691172	670	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.021	0.687	0.0	1	1.8
+560218	652	C	W		cys_removing	FBN1_cbEGF5-7_Ca3	ok	31.834	10.828	0.0	1	3.9
+457168	661	C	W		cys_removing	FBN1_cbEGF5-7_Ca3	ok	67.269	22.88	0.0	1	2.9
+406359	661	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	45.463	15.464	0.0	1	3.2
+4070645	670	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.021	0.687	0.0	1	1.8
+839687	652	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	38.519	13.102	0.0	1	3.4
+4792148	670	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	7.661	2.606	0.0	1	2.2
+4783805	683	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	0.467	0.159	0.0	1	1.9
+549061	684	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	1.564	0.532	0.0	1	2.2
+1220403	683	C	Y		cys_removing	FBN1_cbEGF5-7_Ca3	ok	114.823	39.055	0.0	1	3.0
+547301	684	C	F	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	16.597	5.645	0.0	1	2.4
+519705	684	C	R	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	23.734	8.073	0.0	1	2.7
+854113	684	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	18.785	6.389	0.0	1	2.6
+2946764	683	C	W		cys_removing	FBN1_cbEGF5-7_Ca3	ok	128.536	43.72	0.0	1	3.9
+646759	685	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	-4.981	-1.694	0.0	1	1.4
+1066508	696	C	G		cys_removing	FBN1_cbEGF5-7_Ca3	ok	7.174	2.44	0.0	1	1.2
+549062	685	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	72.798	24.761	0.0	1	2.3
+684582	685	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	50.634	17.223	0.0	1	2.3
+36043	685	C	W	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	75.763	25.77	0.0	1	3.8
+1481039	711	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	-2.256	-0.767	0.0	1	1.4
+854807	699	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	0.181	0.061	0.0	1	2.2
+581299	696	C	F		cys_removing	FBN1_cbEGF5-7_Ca3	ok	20.484	6.967	0.0	1	2.8
+2137705	711	C	Y		cys_removing	FBN1_cbEGF5-7_Ca3	ok	10.914	3.712	0.0	1	1.7
+2944370	711	C	F		cys_removing	FBN1_cbEGF5-7_Ca3	ok	12.428	4.227	0.0	1	1.8
+933156	727	C	G		cys_removing	FBN1_cbEGF5-7_Ca3	ok	4.919	1.673	0.0	1	1.0
+199991	727	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	2.043	0.695	0.0	1	1.5
+419660	727	C	R	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	3.139	1.068	0.0	1	1.4
+1393600	727	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	-1.161	-0.395	0.0	1	1.4
+495572	711	C	R	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	35.383	12.035	0.0	1	3.0
+199992	734	C	F	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	29.2	9.932	0.0	1	2.2
+982340	734	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	4.343	1.477	0.0	1	1.7
+263790	734	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	28.392	9.657	0.0	1	2.4
+1787632	734	C	S		cys_removing	FBN1_cbEGF5-7_Ca3	ok	4.343	1.477	0.0	1	1.7
+1675078	734	C	R		cys_removing	FBN1_cbEGF5-7_Ca3	ok	27.108	9.22	0.0	1	2.0
+520498	739	C	Y	pathogenic	cys_removing	FBN1_cbEGF5-7_Ca3	ok	36.038	12.258	0.0	1	2.0
+638563	739	C	W		cys_removing	FBN1_cbEGF5-7_Ca3	ok	35.735	12.155	0.0	1	2.5
+963306	750	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	1.765	0.6	0.0	1	1.3
+42300	748	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	18.178	6.183	0.0	1	2.6
+492826	750	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	10.838	3.686	0.0	1	1.7
+549070	763	C	G	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	3.601	1.225	0.0	1	1.5
+420086	748	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	14.731	5.011	0.0	1	2.6
+519758	763	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	10.411	3.541	0.0	1	2.1
+2949990	750	C	F		cys_removing	FBN1_cbEGF7-9_Ca3	ok	17.215	5.855	0.0	1	2.4
+199995	769	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	3.236	1.101	0.0	1	1.3
+406272	769	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	3.816	1.298	0.0	1	1.3
+3762926	763	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	13.954	4.746	0.0	1	1.6
+1325481	769	C	W		cys_removing	FBN1_cbEGF7-9_Ca3	ok	5.319	1.809	0.0	1	1.2
+1505807	763	C	W		cys_removing	FBN1_cbEGF7-9_Ca3	ok	17.196	5.849	0.0	1	2.5
+571004	769	C	F		cys_removing	FBN1_cbEGF7-9_Ca3	ok	4.215	1.434	0.0	1	1.6
+42301	781	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	8.875	3.019	0.0	1	1.5
+4852459	776	C	S		cys_removing	FBN1_cbEGF7-9_Ca3	ok	-2.714	-0.923	0.0	1	1.8
+2442982	776	C	F		cys_removing	FBN1_cbEGF7-9_Ca3	ok	13.003	4.423	0.0	1	2.0
+549073	776	C	Y		cys_removing	FBN1_cbEGF7-9_Ca3	ok	11.83	4.024	0.0	1	2.2
+527217	781	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	36.31	12.35	0.0	1	1.7
+549074	781	C	S		cys_removing	FBN1_cbEGF7-9_Ca3	ok	4.322	1.47	0.0	1	1.2
+2925569	781	C	G		cys_removing	FBN1_cbEGF7-9_Ca3	ok	0.793	0.27	0.0	1	1.1
+36047	790	C	S	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	2.872	0.977	0.0	1	1.6
+2925568	781	C	W		cys_removing	FBN1_cbEGF7-9_Ca3	ok	48.539	16.51	0.0	1	2.5
+3754086	781	C	F		cys_removing	FBN1_cbEGF7-9_Ca3	ok	27.87	9.48	0.0	1	1.8
+549075	790	C	S		cys_removing	FBN1_cbEGF7-9_Ca3	ok	2.872	0.977	0.0	1	1.6
+2137702	790	C	G		cys_removing	FBN1_cbEGF7-9_Ca3	ok	3.501	1.191	0.0	1	1.4
+406322	790	C	F	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	16.306	5.546	0.0	1	1.8
+549076	790	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	18.435	6.27	0.0	1	1.8
+1421673	790	C	R		cys_removing	FBN1_cbEGF7-9_Ca3	ok	26.059	8.864	0.0	1	1.9
+549082	811	C	W		cys_removing	FBN1_cbEGF7-9_Ca3	ok	7.376	2.509	0.0	1	1.1
+549081	811	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	5.808	1.975	0.0	1	1.0
+960384	792	C	Y	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	60.833	20.691	0.0	1	1.9
+656190	805	C	Y		cys_removing	FBN1_cbEGF7-9_Ca3	ok	24.996	8.502	0.0	1	1.9
+982337	792	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	104.169	35.432	0.0	1	2.0
+684779	805	C	W	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	33.26	11.313	0.0	1	2.1
+935238	805	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	26.389	8.976	0.0	1	2.0
+2925567	811	C	R		cys_removing	FBN1_cbEGF7-9_Ca3	ok	2.76	0.939	0.0	1	1.0
+263937	792	C	F		cys_removing	FBN1_cbEGF7-9_Ca3	ok	46.54	15.83	0.0	1	2.6
+42305	816	C	S		cys_removing	FBN1_cbEGF7-9_Ca3	ok	1.005	0.342	0.0	1	1.0
+626600	816	C	F		cys_removing	FBN1_cbEGF7-9_Ca3	ok	12.543	4.266	0.0	1	1.2
+3337101	821	C	S		cys_removing	FBN1_cbEGF7-9_Ca3	ok	4.358	1.482	0.0	1	0.9
+2094461	816	C	Y		cys_removing	FBN1_cbEGF7-9_Ca3	ok	14.884	5.062	0.0	1	1.3
+962932	821	C	Y		cys_removing	FBN1_cbEGF7-9_Ca3	ok	22.322	7.593	0.0	1	1.3
+549084	816	C	R	pathogenic	cys_removing	FBN1_cbEGF7-9_Ca3	ok	15.552	5.29	0.0	1	1.6
+42306	816	C	W		cys_removing	FBN1_cbEGF7-9_Ca3	ok	72.875	24.787	0.0	1	2.1
+519723	821	C	W		cys_removing	FBN1_cbEGF7-9_Ca3	ok	39.48	13.429	0.0	1	1.9
+42309	830	C	G		cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.644	0.899	0.0	1	2.5
+42310	830	C	S	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	-0.006	-0.002	0.0	1	2.7
+915815	830	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-0.006	-0.002	0.0	1	2.6
+42311	832	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	0.278	0.095	0.0	1	2.8
+42312	832	C	W	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.488	0.846	0.0	1	2.9
+1792034	830	C	F	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	19.98	6.796	0.0	1	3.6
+647275	832	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-0.415	-0.141	0.0	1	3.1
+963640	832	C	F	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	0.822	0.28	0.0	1	2.4
+549090	830	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	23.458	7.979	0.0	1	5.1
+637004	845	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	3.243	1.103	0.0	1	2.4
+3754084	832	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-0.415	-0.141	0.0	1	3.1
+2152240	832	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	23.719	8.068	0.0	1	4.6
+549093	853	C	S	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.282	0.776	0.0	1	3.4
+625118	853	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	24.761	8.422	0.0	1	4.5
+549097	862	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	18.88	6.422	0.0	1	3.4
+549094	853	C	W		cys_removing	FBN1_cbEGF9-11_Ca3	ok	78.75	26.786	0.0	1	5.8
+2627080	853	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	54.792	18.637	0.0	1	5.6
+1355569	862	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.031	0.691	0.0	1	2.6
+3068780	862	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.031	0.691	0.0	1	2.5
+4789664	853	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	45.053	15.324	0.0	1	5.1
+857483	862	C	R	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	106.126	36.097	0.0	1	5.0
+642667	875	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.255	0.767	0.0	1	3.0
+457173	876	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	1.834	0.624	0.0	1	2.5
+3600234	876	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	0.287	0.098	0.0	1	2.3
+1458475	876	C	W		cys_removing	FBN1_cbEGF9-11_Ca3	ok	11.663	3.967	0.0	1	3.3
+828129	876	C	F	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	14.048	4.778	0.0	1	3.6
+4087696	876	C	G		cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.604	0.886	0.0	1	2.5
+199999	876	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	14.241	4.844	0.0	1	4.5
+1452274	887	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	0.499	0.17	0.0	1	2.6
+1325483	887	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	9.108	3.098	0.0	1	3.1
+2137700	887	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	0.499	0.17	0.0	1	2.6
+453168	890	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-0.852	-0.29	0.0	1	2.6
+982336	890	C	G		cys_removing	FBN1_cbEGF9-11_Ca3	ok	0.523	0.178	0.0	1	2.3
+915814	887	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	18.659	6.347	0.0	1	5.2
+431935	890	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	85.857	29.203	0.0	1	3.7
+961950	896	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	16.948	5.765	0.0	1	2.3
+264089	875	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	63.906	21.737	0.0	1	9.3
+1451245	896	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	12.327	4.193	0.0	1	2.6
+2922191	896	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-9.156	-3.114	0.0	1	2.2
+3754082	896	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-9.156	-3.114	0.0	1	2.2
+389343	908	C	S	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	-9.605	-3.267	0.0	1	2.1
+406271	908	C	R	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	21.537	7.326	0.0	1	2.4
+519733	908	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	-11.645	-3.961	0.0	1	2.1
+3376563	896	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	9.474	3.222	0.0	1	3.5
+3376649	908	C	W		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-7.659	-2.605	0.0	1	2.0
+549107	908	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-11.122	-3.783	0.0	1	2.2
+520236	914	C	G		cys_removing	FBN1_cbEGF9-11_Ca3	ok	1.108	0.377	0.0	1	2.2
+549110	914	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-0.528	-0.18	0.0	1	2.3
+652247	914	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	4.314	1.467	0.0	1	2.3
+1687323	914	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	5.105	1.737	0.0	1	2.3
+1701259	921	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	1.665	0.566	0.0	1	2.7
+1325485	921	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	13.095	4.454	0.0	1	3.3
+1325486	926	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	3.498	1.19	0.0	1	2.3
+527216	926	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	37.212	12.657	0.0	1	3.2
+1075770	926	C	R	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	38.772	13.188	0.0	1	3.4
+638643	921	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	19.047	6.478	0.0	1	4.0
+2016566	935	C	G		cys_removing	FBN1_cbEGF9-11_Ca3	ok	4.811	1.637	0.0	1	2.5
+633214	935	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	17.832	6.065	0.0	1	3.1
+3390654	937	C	G		cys_removing	FBN1_cbEGF9-11_Ca3	ok	3.202	1.089	0.0	1	2.0
+549117	950	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	18.542	6.307	0.0	1	2.6
+638676	950	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	5.169	1.758	0.0	1	2.1
+389041	937	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	47.659	16.21	0.0	1	3.3
+3390980	937	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	28.364	9.648	0.0	1	3.0
+549116	950	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	21.597	7.346	0.0	1	2.6
+457182	958	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	0.048	0.016	0.0	1	3.5
+179765	981	C	S	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	1.707	0.581	0.0	1	2.4
+1458521	950	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	36.427	12.39	0.0	1	4.4
+988300	958	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	30.488	10.37	0.0	1	3.9
+549121	981	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	29.273	9.957	0.0	1	2.8
+495583	980	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	42.586	14.485	0.0	1	3.8
+4783803	980	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	47.463	16.144	0.0	1	3.8
+2123403	981	C	W		cys_removing	FBN1_cbEGF9-11_Ca3	ok	37.079	12.612	0.0	1	3.0
+4077160	958	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	81.229	27.629	0.0	1	5.2
+392364	982	C	S	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	5.139	1.748	0.0	1	2.9
+527187	993	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	19.203	6.532	0.0	1	3.1
+858220	996	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	4.514	1.535	0.0	1	2.5
+1329359	982	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	78.594	26.733	0.0	1	3.9
+1455712	1008	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	-4.863	-1.654	0.0	1	1.8
+3031277	982	C	W		cys_removing	FBN1_cbEGF9-11_Ca3	ok	61.243	20.831	0.0	1	4.5
+16462	1032	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	5.764	1.96	0.0	1	2.0
+1176339	996	C	Y	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	43.065	14.648	0.0	1	3.7
+527151	996	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	52.73	17.935	0.0	1	5.2
+432164	1032	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	67.601	22.994	0.0	1	3.1
+2572629	1039	C	R		cys_removing	FBN1_cbEGF9-11_Ca3	ok	31.374	10.671	0.0	1	2.9
+4082079	1039	C	W		cys_removing	FBN1_cbEGF9-11_Ca3	ok	39.181	13.327	0.0	1	2.7
+180353	1044	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	31.721	10.789	0.0	1	2.4
+1069719	1039	C	Y		cys_removing	FBN1_cbEGF9-11_Ca3	ok	41.51	14.119	0.0	1	3.8
+1325491	1044	C	G		cys_removing	FBN1_cbEGF9-11_Ca3	ok	2.428	0.826	0.0	1	1.8
+449897	1044	C	F		cys_removing	FBN1_cbEGF9-11_Ca3	ok	32.749	11.139	0.0	1	2.4
+2947372	1044	C	S		cys_removing	FBN1_cbEGF9-11_Ca3	ok	5.952	2.024	0.0	1	1.8
+549125	1008	C	R	pathogenic	cys_removing	FBN1_cbEGF9-11_Ca3	ok	19.323	6.572	0.0	1	8.1

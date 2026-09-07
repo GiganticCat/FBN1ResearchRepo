@@ -1,0 +1,20 @@
+Phase 5 revision — population comparison set — 2026-08-09T17:05:06.088570+00:00
+  574 pathogenic protein changes to exclude
+  2783 gnomAD missense rows; 0 off-transcript, 0 unparsed HGVS, 0 WT-identity mismatches, 67 excluded as pathogenic
+  2716 variants in the population set
+  ClinVar status within it: {'': 894, 'not_in_clinvar': 1222, 'vus': 566, 'benign': 34}
+wrote data/processed/population_set.tsv  (2716 rows)
+
+  with structural coverage: pathogenic 524, ClinVar-benign 29, population 1901
+
+  feature                            denominator           path%   den%        OR      p_adj
+  side-chain Ca ligand               population (gnomAD)     7.6    2.4     3.409   2.28e-07
+  side-chain Ca ligand               ClinVar benign          7.6    0.0     4.932      0.293  [zero cell — OR is Haldane-corrected]
+  backbone-only Ca ligand            population (gnomAD)     0.4    7.3     0.049   2.05e-12
+  backbone-only Ca ligand            ClinVar benign          0.4    3.4     0.107      0.199
+  motif-overcalled (not a ligand)    population (gnomAD)     4.0    2.7     1.485      0.199
+  motif-overcalled (not a ligand)    ClinVar benign          4.0    3.4     1.169          1
+  cysteine position                  population (gnomAD)    70.6    1.7   140.327  2.31e-265
+  cysteine position                  ClinVar benign         70.6    0.0   141.485   9.57e-15  [zero cell — OR is Haldane-corrected]
+
+wrote results/phase5_enrichment_v2.md

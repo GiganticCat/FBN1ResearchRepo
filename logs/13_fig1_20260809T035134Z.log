@@ -1,0 +1,9 @@
+Phase 6 — Figure 1 — seed 20260802
+4,451 variants; 56 annotated domains
+  pathogenic  n= 578  distinct positions= 398  tallest stem=7
+  vus         n= 823  distinct positions= 712  tallest stem=4
+  benign      n=  34  distinct positions=  32  tallest stem=2
+  panel C cys   : 304 pathogenic variants
+  panel C ca    : 61 pathogenic variants
+  panel C other : 60 pathogenic variants
+wrote figures/fig1_variant_landscape.png

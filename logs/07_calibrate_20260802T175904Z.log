@@ -1,0 +1,61 @@
+Phase 4 calibration — 2026-08-02T17:59:04.572657+00:00
+
+A. AF3 calibration against experimental structures (per-domain superposition)
+   cbEGF    ref    model n_res  bbRMSD  Ca dev  pLDDT
+   cbEGF9   2W86       0    40   0.337    0.13   94.7
+   cbEGF10  2W86       0    42   0.650    0.30   98.0
+   cbEGF9   2W86       1    40   0.408    0.20   95.0
+   cbEGF10  2W86       1    42   0.636    0.33   98.2
+   cbEGF9   2W86       2    40   0.414    0.09   94.7
+   cbEGF10  2W86       2    42   0.623    0.36   98.1
+   cbEGF9   2W86       3    40   0.388    0.13   94.9
+   cbEGF10  2W86       3    42   0.665    0.36   98.1
+   cbEGF9   2W86       4    40   0.357    0.11   94.9
+   cbEGF10  2W86       4    42   0.704    0.36   98.1
+   cbEGF12  1LMJ       0    43   1.781    1.38   95.0
+   cbEGF13  1LMJ       0    42   2.323    0.54   97.2
+   cbEGF12  1LMJ       1    43   1.733    1.85   94.9
+   cbEGF13  1LMJ       1    42   2.310    0.67   96.8
+   cbEGF12  1LMJ       2    43   1.525    1.46   95.2
+   cbEGF13  1LMJ       2    42   2.301    0.51   96.9
+   cbEGF12  1LMJ       3    43   1.707    2.24   94.7
+   cbEGF13  1LMJ       3    42   2.156    0.67   96.8
+   cbEGF12  1LMJ       4    43   1.631    1.72   94.7
+   cbEGF13  1LMJ       4    42   2.214    0.62   96.3
+   cbEGF22  1UZJ       0    42   0.925    0.36   96.0
+   cbEGF23  1UZJ       0    43   0.348    0.29   98.3
+   cbEGF22  1UZJ       1    42   1.032    0.53   96.2
+   cbEGF23  1UZJ       1    43   0.329    0.27   98.3
+   cbEGF22  1UZJ       2    42   0.989    0.48   95.9
+   cbEGF23  1UZJ       2    43   0.407    0.33   98.2
+   cbEGF22  1UZJ       3    42   0.921    0.45   95.9
+   cbEGF23  1UZJ       3    43   0.333    0.29   98.3
+   cbEGF22  1UZJ       4    42   1.065    0.59   95.6
+   cbEGF23  1UZJ       4    43   0.394    0.24   98.2
+   cbEGF32  1EMN       0    39   1.810    1.64   89.7
+   cbEGF33  1EMN       0    40   2.514    1.08   92.4
+   cbEGF32  1EMN       1    39   1.763    1.77   90.5
+   cbEGF33  1EMN       1    40   2.645    1.30   91.9
+   cbEGF32  1EMN       2    39   2.250    1.88   91.5
+   cbEGF33  1EMN       2    40   2.600    1.20   88.3
+   cbEGF32  1EMN       3    39   1.824    1.95   87.5
+   cbEGF33  1EMN       3    40   2.493    0.94   87.3
+   cbEGF32  1EMN       4    39   1.448    1.15   85.7
+   cbEGF33  1EMN       4    40   2.391    0.92   84.3
+
+   40 domain-model comparisons across 8 cbEGF domains
+   per-domain backbone RMSD : median 1.26 A, max 2.65 A
+   whole-construct RMSD     : median 2.30 A (inflated by interdomain hinge, not metal error)
+   Ca deviation             : median 0.54 A, mean 0.79 A, max 2.24 A
+   best model per domain: cbEGF10 0.30, cbEGF12 1.38, cbEGF13 0.51, cbEGF22 0.36, cbEGF23 0.24, cbEGF32 1.15, cbEGF33 0.92, cbEGF9 0.09
+
+B. Leave-one-out homology transplant (Tier-3 cross-check)
+   Superpose a donor cbEGF domain onto a target, carry the donor Ca2+ across,
+   and measure the error against the target's own experimental Ca2+.
+   usable experimental cbEGF units: 8
+   56 donor->target transplants
+   Ca transplant error: median 1.44 A, mean 1.61 A, 90th pct 2.79 A, max 3.42 A
+   best donor per target: cbEGF10<-cbEGF13 0.70A, cbEGF12<-cbEGF13 0.81A, cbEGF13<-cbEGF10 0.70A, cbEGF22<-cbEGF23 0.46A, cbEGF23<-cbEGF22 0.46A, cbEGF32<-cbEGF9 1.77A, cbEGF33<-cbEGF23 0.94A, cbEGF9<-cbEGF12 0.88A
+
+wrote results/phase4_calibration.tsv, results/phase4_transplant_loo.tsv
+wrote structures/ca_transplanted/provenance.json

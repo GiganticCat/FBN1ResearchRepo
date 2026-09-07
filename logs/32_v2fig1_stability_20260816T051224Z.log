@@ -1,0 +1,18 @@
+32_v2fig1_stability.py: v2 headline stability figure
+  seed 20260802
+  C  ca_ligand      FoldX    d=+0.232 [+0.027, +0.445] n=50 vs 67  crosses_zero=False
+  C  ca_ligand      Rosetta  d=+0.012 [-0.083, +0.107] n=271 vs 323  crosses_zero=True
+  C  cys_removing   FoldX    d=+0.804 [+0.724, +0.875] n=198 vs 67  crosses_zero=False
+  C  cys_removing   Rosetta  d=+0.563 [+0.516, +0.611] n=1038 vs 323  crosses_zero=False
+  A_foldx      ca_ligand              n=50    median=1.0170
+  B_rosetta    ca_ligand              n=271   median=2.3310
+  D_am         ca_ligand              n=271   median=0.9889
+  A_foldx      composition_control    n=67    median=0.2420
+  B_rosetta    composition_control    n=323   median=2.1140
+  D_am         composition_control    n=323   median=0.2595
+  A_foldx      motif_overcalled       n=26    median=0.5740
+  B_rosetta    motif_overcalled       n=143   median=3.2700
+  D_am         motif_overcalled       n=143   median=0.9374
+  A_foldx      cys_removing           n=198   median=4.3230
+  B_rosetta    cys_removing           n=1038  median=24.7605
+  D_am         cys_removing           n=1132  median=0.9984

@@ -1,0 +1,51 @@
+{
+  "figure": "fig1_module",
+  "generated": "2026-09-07T03:19:52.205057+00:00",
+  "script": "50_fig1_module.py",
+  "seed": 20260830,
+  "values": {
+    "backbone_donor_offsets": [
+      1,
+      18,
+      19,
+      21,
+      22
+    ],
+    "cys_offsets": [
+      4.0,
+      11.0,
+      16.0,
+      25.0,
+      27.0,
+      40.0
+    ],
+    "n_cbegf_domains": 43,
+    "n_pathogenic": 578,
+    "n_pathogenic_in_cbegf": 425,
+    "n_population": 1901,
+    "peak_offset_counts": {
+      "0": 21,
+      "11": 24,
+      "16": 18,
+      "17": 7,
+      "18": 9,
+      "25": 27,
+      "27": 29,
+      "3": 12,
+      "4": 55,
+      "40": 23
+    },
+    "sidechain_donor_offsets": [
+      0,
+      3,
+      17,
+      18
+    ],
+    "sidechain_donor_residues": {
+      "0": "D",
+      "17": "N",
+      "18": "N",
+      "3": "E"
+    }
+  }
+}

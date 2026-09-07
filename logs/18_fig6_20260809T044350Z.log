@@ -1,0 +1,8 @@
+Phase 6 — Figure 6 — seed 20260802
+  background cys: 5.853 [5.390, 6.313]
+  background ca: 1.409 [1.091, 1.783]
+  OR clinvar    Any VCEP critical residue    691.97 [41.82, 11450.53]  n=578/34
+  OR clinvar    cbEGF cysteine-removing      76.54 [4.67, 1254.46]  n=578/34
+  OR clinvar    Calcium-consensus residue    3.89 [0.52, 28.97]  n=578/34
+  OR orthogonal cbEGF cysteine-removing      1541.66 [96.26, 24689.50]  n=2571/1557
+  OR orthogonal Calcium-consensus residue    8.86 [6.07, 12.91]  n=2571/1557

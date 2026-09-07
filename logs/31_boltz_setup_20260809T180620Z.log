@@ -1,0 +1,31 @@
+Phase 5 revision — Boltz-2 setup — 2026-08-09T18:06:20.402856+00:00
+  21 constructs; reference 2871 aa
+  validating on FBN1_cbEGF31-33_Ca3: 193 aa, 3 Ca, MSA fold_fbn1_cbegf31_33_ca3_unpaired_msa_chains_a.a3m (14154 seqs)
+  wrote structures/boltz/inputs/FBN1_cbEGF31-33_Ca3_wt.yaml
+  running: /home/harvey/research/fbn1-marfan/.venv-boltz/bin/boltz predict /home/harvey/research/fbn1-marfan/structures/boltz/inputs/FBN1_cbEGF31-33_Ca3_wt.yaml --out_dir /home/harvey/research/fbn1-marfan/structures/boltz/predictions --diffusion_samples 1 --output_format mmcif --override
+    Checking input data.
+    All inputs are already processed.
+    Processing 0 inputs with 0 threads.
+    Running structure prediction for 1 input.
+    
+    Predicting: |          | 0/? [00:00<?, ?it/s]
+    Predicting:   0%|          | 0/1 [00:00<?, ?it/s]
+    Predicting DataLoader 0:   0%|          | 0/1 [00:00<?, ?it/s]GPU information: NVIDIA RTX A6000, 8, 6, 45, 84, 300, 2100
+    
+    Predicting DataLoader 0:   0%|          | 0/1 [00:53<?, ?it/s]
+  FAILED after 196s (exit 1)
+    stderr:     from torch.fx._symbolic_trace import is_fx_symbolic_tracing
+    stderr: ImportError: cannot import name 'is_fx_symbolic_tracing' from 'torch.fx._symbolic_trace' (/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/torch/fx/_symbolic_trace.py)
+    stderr: 
+    stderr: During handling of the above exception, another exception occurred:
+    stderr: 
+    stderr: Traceback (most recent call last):
+    stderr:   File "/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/cuequivariance_ops_torch/__init__.py", line 64, in <module>
+    stderr:     from cuequivariance_ops_torch.attention_pair_bias import (
+    stderr:   File "/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/cuequivariance_ops_torch/attention_pair_bias.py", line 29, in <module>
+    stderr:     from torch.fx._symbolic_trace import (
+    stderr: ImportError: cannot import name 'is_fx_tracing_symbolic_tracing' from 'torch.fx._symbolic_trace' (/home/harvey/research/fbn1-marfan/.venv-boltz/lib/python3.11/site-packages/torch/fx/_symbolic_trace.py)
+    stderr: 
+    stderr: Please make sure to install triton==3.3.0. Other versions may not work!
+    stderr: /home/harvey/.local/share/uv/python/cpython-3.11.15-linux-x86_64-gnu/lib/python3.11/tempfile.py:934: ResourceWarning: Implicitly cleaning up <TemporaryDirectory '/tmp/tmpij99y3e4'>
+    stderr:   _warnings.warn(warn_message, ResourceWarning)

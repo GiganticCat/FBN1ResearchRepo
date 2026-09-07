@@ -1,0 +1,44 @@
+Phase 5 revision — FoldX calcium ablation — 2026-08-09T05:58:43.413901+00:00
+  work dir /tmp/fbn1-foldx-ablation; 5 replicate builds per condition
+
+751 variants with structural coverage
+
+2W86 — 254 mutations
+    RepairPDB 30s
+    repaired structure retains 2 Ca2+ ion(s)
+  with ion:
+    254 mutations x 5 runs in 2557s
+  ion removed:
+    254 mutations x 5 runs in 2329s
+
+1LMJ — 146 mutations
+    RepairPDB 24s
+    repaired structure retains 2 Ca2+ ion(s)
+  with ion:
+    146 mutations x 5 runs in 1313s
+  ion removed:
+    146 mutations x 5 runs in 1151s
+
+1UZJ — 219 mutations
+    RepairPDB 21s
+    repaired structure retains 2 Ca2+ ion(s)
+  with ion:
+    219 mutations x 5 runs in 2085s
+  ion removed:
+    219 mutations x 5 runs in 2017s
+
+1EMN — 132 mutations
+    RepairPDB 18s
+    repaired structure retains 2 Ca2+ ion(s)
+  with ion:
+    132 mutations x 5 runs in 1202s
+  ion removed:
+    132 mutations x 5 runs in 1239s
+
+  751 variants with an ablation result; 0 covered-but-missing
+  direct Ca ligand     n=  78  median metal-attributable ddG +0.247 kcal/mol; metal term fired 39/78; median replicate SD 0.092
+  Ca consensus (any)   n=  76  median metal-attributable ddG +0.313 kcal/mol; metal term fired 49/76; median replicate SD 0.107
+  cysteine-removing    n= 198  median metal-attributable ddG +0.001 kcal/mol; metal term fired 4/198; median replicate SD 0.356
+  all other covered    n= 477  median metal-attributable ddG +0.000 kcal/mol; metal term fired 11/477; median replicate SD 0.042
+
+wrote data/processed/foldx_ion_ablation.tsv

@@ -1,0 +1,24 @@
+[{
+ "name": "FBN1_cbEGF15-17_Q1253P_Ca3",
+ "modelSeeds": [
+  "543979559"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "DIDECSIMNGGCETFCTNSEGSYECSCQPGFALMPDQRSCTDIDECEDNPNICDGGPCTNIPGEYRCLCYDGFMASEDMKTCVDVNECDLNPNICLSGTCENTKGSFICHCDMGYSGKKGKTGCT",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  },
+  {
+   "ion": {
+    "ion": "CA",
+    "count": 3
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
